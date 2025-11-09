@@ -24,6 +24,8 @@ jobs:
           pip install -r requirements.txt
       - name: 📁 Ensure directories
         run: mkdir -p data logs
+      - name: 📥 Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
       - name: 🔍 Check GitHub API rate limit
         run: |
           RATE=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
@@ -33,8 +35,14 @@ jobs:
             echo "⚠️ Rate limit trop bas, workflow annulé"
             exit 1
           fi
+      - name: 🔑 Verify ALGOLIA_API_KEY secret
+        run: |
+          if [ -z "${{ secrets.ALGOLIA_API_KEY }}" ]; then
+            echo "❌ Secret ALGOLIA_API_KEY manquant. Ajoutez-le dans Settings → Secrets → Actions."
+            exit 1
+          fi
       - name: 🤖 Run ALDI scraper
-        run: python scripts/scraper.py
+        run: python -m scripts.scraper
         env:
           PYTHONUNBUFFERED: 1
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
