@@ -1,0 +1,65 @@
+name: 🛒 Scrape ALDI Products
+on:
+  schedule:
+    - cron: "0 1 * * 0"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - name: 📦 Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: 📁 Ensure directories
+        run: mkdir -p data logs
+      - name: 🔍 Check GitHub API rate limit
+        run: |
+          RATE=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/rate_limit | jq '.rate.remaining')
+          echo "📊 Remaining API calls: $RATE"
+          if [ "$RATE" -lt 100 ]; then
+            echo "⚠️ Rate limit trop bas, workflow annulé"
+            exit 1
+          fi
+      - name: 🤖 Run ALDI scraper
+        run: python scripts/scraper.py
+        env:
+          PYTHONUNBUFFERED: 1
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+          GITHUB_RUN_ID: ${{ github.run_id }}
+      - name: 🔍 Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet data/; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+      - name: 📤 Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Mise à jour ALDI - ${{ github.run_id }}"
+          commit_user_name: "aldi-scraper-bot"
+          commit_user_email: "bot@github-actions"
+          file_pattern: "data/*.json"
+      - name: ✅ Success info
+        if: success()
+        run: |
+          echo "✅ Scraping terminé!"
+          echo "📊 Produits: $(jq '.meta.total_products' data/products.json)"
+          echo "📅 MAJ: $(jq -r '.meta.last_updated' data/products.json)"
+          echo "💾 Taille JSON: $(du -h data/products.json | cut -f1)"
+          echo "💾 Taille minimale: $(du -h data/products-min.json | cut -f1)"

@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "objectID": "123",
+          "productName": "Gouda Jeune",
+          "price": 1.49,
+          "image": "https://example/image.jpg",
+          "unit": "250 g"
+        }
+      ]
+    }
+  ]
+}
