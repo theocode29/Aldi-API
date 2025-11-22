@@ -16,27 +16,20 @@ class AldiScraper:
     def __init__(self):
         self.session = utils.get_session()
 
-    def get_all_products_from_index(self, index_name: str) -> List[Dict[str, Any]]:
+    def _query_single_filter(self, index_name: str, filter_str: Optional[str] = None) -> List[Dict[str, Any]]:
         """
-        Retrieve all products from an Algolia index using paginated search.
-        
-        Features:
-        - Human-like delays between requests (300-900ms)
-        - Progressive logging with page and cumulative counts
-        - Safety limit to prevent infinite loops
-        - Robust error handling with partial result recovery
-        
-        Note: Algolia Search API has a hard limit of 1000 results per query.
+        Query a single filter and return all results with pagination.
         """
         all_hits: List[Dict[str, Any]] = []
         page = 0
         
-        utils.log_event("info", "pagination_start", index=index_name)
-        
         while page < config.MAX_PAGES_SAFETY_LIMIT:
             try:
-                # Prepare paginated request
+                # Prepare paginated request with optional filter
                 params = f"hitsPerPage={config.HITS_PER_PAGE}&page={page}"
+                if filter_str:
+                    params += f"&filters={filter_str}"
+                
                 body = {"requests": [{"indexName": index_name, "params": params}]}
                 
                 # Add delay before request (except for first page)
@@ -48,67 +41,116 @@ class AldiScraper:
                 res = data.get("results", [{}])[0]
                 page_hits = list(res.get("hits", []))
                 nb_pages = int(res.get("nbPages", 1))
-                nb_hits = int(res.get("nbHits", 0))
                 
                 # Update cumulative results
                 all_hits.extend(page_hits)
                 
-                # Log progress
-                utils.log_event(
-                    "info",
-                    "pagination_page",
-                    index=index_name,
-                    page=page,
-                    page_hits=len(page_hits),
-                    cumulative_hits=len(all_hits),
-                    total_pages=nb_pages,
-                    total_hits=nb_hits
-                )
-                
                 # Check if we've retrieved all pages
                 if page >= nb_pages - 1 or len(page_hits) == 0:
-                    utils.log_event(
-                        "info",
-                        "pagination_complete",
-                        index=index_name,
-                        total_hits=len(all_hits),
-                        pages_fetched=page + 1
-                    )
                     break
                 
                 page += 1
                 
             except Exception as e:
-                # Log error but return partial results if we have any
                 utils.log_event(
-                    "error",
-                    "pagination_error",
+                    "warning",
+                    "filter_query_error",
                     index=index_name,
+                    filter=filter_str or "none",
                     page=page,
                     error=str(e),
                     partial_hits=len(all_hits)
                 )
-                
-                if len(all_hits) > 0:
-                    utils.log_event(
-                        "warning",
-                        "pagination_partial_return",
-                        index=index_name,
-                        hits_retrieved=len(all_hits)
-                    )
-                    break
-                else:
-                    raise
+                break
         
-        # Safety limit warning
-        if page >= config.MAX_PAGES_SAFETY_LIMIT:
+        return all_hits
+
+    def get_all_products_from_index(self, index_name: str) -> List[Dict[str, Any]]:
+        """
+        Retrieve all products from an Algolia index.
+        
+        If USE_FILTERED_QUERIES is enabled, makes multiple filtered queries
+        to bypass the 1000-result limit, otherwise uses standard pagination.
+        
+        Features:
+        - Multiple category-filtered queries (if enabled)
+        - Deduplication by objectID
+        - Human-like delays between requests (300-900ms)
+        - Progressive logging with cumulative counts
+        - Robust error handling with partial result recovery
+        """
+        if not config.USE_FILTERED_QUERIES:
+            # Use original pagination logic (single query, max 1000 results)
+            return self._query_single_filter(index_name, None)
+        
+        # Filtered query strategy
+        all_hits_dict: Dict[str, Dict[str, Any]] = {}  # Deduplicate by objectID
+        
+        utils.log_event("info", "filtered_queries_start", index=index_name, filter_count=len(config.CATEGORY_FILTERS) + 1)
+        
+        # Query each category filter
+        for idx, category in enumerate(config.CATEGORY_FILTERS):
+            filter_str = f'hierarchicalCategories.lvl3:"{category}"'
+            
             utils.log_event(
-                "warning",
-                "pagination_safety_limit_reached",
+                "info",
+                "filter_query_start",
                 index=index_name,
-                limit=config.MAX_PAGES_SAFETY_LIMIT,
-                hits_retrieved=len(all_hits)
+                filter_index=idx + 1,
+                total_filters=len(config.CATEGORY_FILTERS) + 1,
+                category=category
             )
+            
+            hits = self._query_single_filter(index_name, filter_str)
+            
+            # Add to deduplication dict
+            for hit in hits:
+                all_hits_dict[hit['objectID']] = hit
+            
+            utils.log_event(
+                "info",
+                "filter_query_complete",
+                index=index_name,
+                category=category,
+                hits_this_filter=len(hits),
+                unique_total=len(all_hits_dict)
+            )
+        
+        # Query uncategorized products (no lvl3)
+        utils.log_event(
+            "info",
+            "filter_query_start",
+            index=index_name,
+            filter_index=len(config.CATEGORY_FILTERS) + 1,
+            total_filters=len(config.CATEGORY_FILTERS) + 1,
+            category="UNCATEGORIZED"
+        )
+        
+        uncategorized_filter = "NOT hierarchicalCategories.lvl3:*"
+        uncategorized_hits = self._query_single_filter(index_name, uncategorized_filter)
+        
+        for hit in uncategorized_hits:
+            all_hits_dict[hit['objectID']] = hit
+        
+        utils.log_event(
+            "info",
+            "filter_query_complete",
+            index=index_name,
+            category="UNCATEGORIZED",
+            hits_this_filter=len(uncategorized_hits),
+            unique_total=len(all_hits_dict)
+        )
+        
+        # Convert to list
+        all_hits = list(all_hits_dict.values())
+        
+        utils.log_event(
+            "info",
+            "filtered_queries_complete",
+            index=index_name,
+            total_unique_hits=len(all_hits),
+            filters_executed=len(config.CATEGORY_FILTERS) + 1
+        )
         
         validators.ensure_hits_have_required_keys(all_hits, ["objectID"])
         return all_hits

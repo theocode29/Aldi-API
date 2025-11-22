@@ -50,3 +50,33 @@ SCHEMA_VERSION = os.getenv("SCHEMA_VERSION", "1.0.0")
 PAGE_DELAY_MIN_MS = int(os.getenv("PAGE_DELAY_MIN_MS", "300"))
 PAGE_DELAY_MAX_MS = int(os.getenv("PAGE_DELAY_MAX_MS", "900"))
 MAX_PAGES_SAFETY_LIMIT = int(os.getenv("MAX_PAGES_SAFETY_LIMIT", "100"))
+
+# Filtered queries configuration - bypass 1000-result limit
+USE_FILTERED_QUERIES = os.getenv("USE_FILTERED_QUERIES", "true").lower() == "true"
+
+# Category filters for lvl3 hierarchical categories
+# Each category will be queried separately, then deduplicated
+CATEGORY_FILTERS = [
+    "Collations et sucreries",
+    "Viande",
+    "Produits laitiers et fromages",
+    "Plats préparés",
+    "Légumes frais",
+    "Boissons non alcoolisées",
+    "Boissons alcoolisées",
+    "Fruits frais",
+    "Végétarien et végétalien",
+    "Conserves",
+    "Pâtisserie et cuisine",
+    "Poissons & fruits de mer",
+    "Pain et pâtisseries",
+    "Cartes-cadeau et cartes prépayées",
+    "Produits cosmétiques et soins",
+    "Aliments pour animaux",
+    "Ménage",
+    "Café, thé, cacao",
+    "Produits à tartiner",
+    "Des glaces à prix discount ",
+    "Pâtes et riz",
+    "Fleurs fraîches",
+]
