@@ -3,7 +3,7 @@ import sys
 import json
 import signal
 from datetime import datetime, timezone
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 from scripts import config, utils, validators
 
