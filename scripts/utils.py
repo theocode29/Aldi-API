@@ -5,6 +5,7 @@ import requests
 from urllib.parse import quote_plus
 
 from . import config
+import random
 
 
 def get_session() -> requests.Session:
@@ -64,43 +65,15 @@ def post_algolia_queries(session: requests.Session, body: Dict[str, Any], timeou
     raise RuntimeError(f"Algolia request failed after retries: {last_err}")
 
 
-def browse_algolia_index(session: requests.Session, index_name: str) -> List[Dict[str, Any]]:
+def sleep_with_jitter() -> None:
     """
-    Récupère TOUS les objets d'un index via l'API browse (pas de limite de 1000 hits).
-    Gère la pagination par curseur.
+    Sleep for a random duration between PAGE_DELAY_MIN_MS and PAGE_DELAY_MAX_MS.
+    Simulates human-like behavior and helps avoid rate-limiting.
     """
-    agent = quote_plus("Algolia for JavaScript (4.14.2); Browser; JS Helper (3.11.1); react (18.2.0); react-instantsearch (6.33.0)")
-    base_url = f"{config.ALGOLIA_HOST}/1/indexes/{index_name}/browse?x-algolia-agent={agent}"
-    
-    hits: List[Dict[str, Any]] = []
-    cursor: Optional[str] = None
-    
-    while True:
-        body = {"cursor": cursor} if cursor else {}
-        
-        # On réutilise la logique de retry/error handling de post_algolia_queries 
-        # mais on fait l'appel manuellement car l'URL est différente (browse vs query)
-        # Ou on adapte post_algolia_queries. Pour faire simple et robuste, on refait une boucle ici
-        # ou on extrait la logique de requête.
-        # Simplification: on fait l'appel direct avec requests et gestion d'erreur basique
-        # car post_algolia_queries est très spécifique à /queries
-        
-        resp = session.post(base_url, json=body, timeout=30)
-        if not resp.ok:
-            log_event("error", "algolia_browse_error", status=resp.status_code, body=resp.text)
-            resp.raise_for_status()
-            
-        data = resp.json()
-        batch = data.get("hits", [])
-        hits.extend(batch)
-        
-        cursor = data.get("cursor")
-        log_event("info", "browse_batch", index=index_name, batch_size=len(batch), total_so_far=len(hits))
-        
-        if not cursor:
-            break
-            
-    return hits
+    delay_ms = random.randint(config.PAGE_DELAY_MIN_MS, config.PAGE_DELAY_MAX_MS)
+    delay_seconds = delay_ms / 1000.0
+    log_event("debug", "sleep_delay", delay_ms=delay_ms)
+    time.sleep(delay_seconds)
 
 
 def get_first(d: Dict[str, Any], keys: Tuple[str, ...], default: Any = None) -> Any:

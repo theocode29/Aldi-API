@@ -45,3 +45,8 @@ MIN_PRODUCTS = int(os.getenv("MIN_PRODUCTS", "400"))
 MAX_PRODUCTS = int(os.getenv("MAX_PRODUCTS", "10000"))
 
 SCHEMA_VERSION = os.getenv("SCHEMA_VERSION", "1.0.0")
+
+# Pagination settings - simulate human behavior and avoid rate limits
+PAGE_DELAY_MIN_MS = int(os.getenv("PAGE_DELAY_MIN_MS", "300"))
+PAGE_DELAY_MAX_MS = int(os.getenv("PAGE_DELAY_MAX_MS", "900"))
+MAX_PAGES_SAFETY_LIMIT = int(os.getenv("MAX_PAGES_SAFETY_LIMIT", "100"))

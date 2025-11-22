@@ -17,11 +17,101 @@ class AldiScraper:
         self.session = utils.get_session()
 
     def get_all_products_from_index(self, index_name: str) -> List[Dict[str, Any]]:
-        utils.log_event("info", "browse_index_start", index=index_name)
-        hits = utils.browse_algolia_index(self.session, index_name)
-        utils.log_event("info", "browse_index_done", index=index_name, hits=len(hits))
-        validators.ensure_hits_have_required_keys(hits, ["objectID"])
-        return hits
+        """
+        Retrieve all products from an Algolia index using paginated search.
+        
+        Features:
+        - Human-like delays between requests (300-900ms)
+        - Progressive logging with page and cumulative counts
+        - Safety limit to prevent infinite loops
+        - Robust error handling with partial result recovery
+        
+        Note: Algolia Search API has a hard limit of 1000 results per query.
+        """
+        all_hits: List[Dict[str, Any]] = []
+        page = 0
+        
+        utils.log_event("info", "pagination_start", index=index_name)
+        
+        while page < config.MAX_PAGES_SAFETY_LIMIT:
+            try:
+                # Prepare paginated request
+                params = f"hitsPerPage={config.HITS_PER_PAGE}&page={page}"
+                body = {"requests": [{"indexName": index_name, "params": params}]}
+                
+                # Add delay before request (except for first page)
+                if page > 0:
+                    utils.sleep_with_jitter()
+                
+                # Execute request
+                data = utils.post_algolia_queries(self.session, body)
+                res = data.get("results", [{}])[0]
+                page_hits = list(res.get("hits", []))
+                nb_pages = int(res.get("nbPages", 1))
+                nb_hits = int(res.get("nbHits", 0))
+                
+                # Update cumulative results
+                all_hits.extend(page_hits)
+                
+                # Log progress
+                utils.log_event(
+                    "info",
+                    "pagination_page",
+                    index=index_name,
+                    page=page,
+                    page_hits=len(page_hits),
+                    cumulative_hits=len(all_hits),
+                    total_pages=nb_pages,
+                    total_hits=nb_hits
+                )
+                
+                # Check if we've retrieved all pages
+                if page >= nb_pages - 1 or len(page_hits) == 0:
+                    utils.log_event(
+                        "info",
+                        "pagination_complete",
+                        index=index_name,
+                        total_hits=len(all_hits),
+                        pages_fetched=page + 1
+                    )
+                    break
+                
+                page += 1
+                
+            except Exception as e:
+                # Log error but return partial results if we have any
+                utils.log_event(
+                    "error",
+                    "pagination_error",
+                    index=index_name,
+                    page=page,
+                    error=str(e),
+                    partial_hits=len(all_hits)
+                )
+                
+                if len(all_hits) > 0:
+                    utils.log_event(
+                        "warning",
+                        "pagination_partial_return",
+                        index=index_name,
+                        hits_retrieved=len(all_hits)
+                    )
+                    break
+                else:
+                    raise
+        
+        # Safety limit warning
+        if page >= config.MAX_PAGES_SAFETY_LIMIT:
+            utils.log_event(
+                "warning",
+                "pagination_safety_limit_reached",
+                index=index_name,
+                limit=config.MAX_PAGES_SAFETY_LIMIT,
+                hits_retrieved=len(all_hits)
+            )
+        
+        validators.ensure_hits_have_required_keys(all_hits, ["objectID"])
+        return all_hits
 
     def fetch(self) -> Dict[str, List[Dict[str, Any]]]:
         assortment = self.get_all_products_from_index(config.ASSORTMENT_INDEX)

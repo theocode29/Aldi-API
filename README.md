@@ -14,6 +14,9 @@
     - `export OFFERS_INDEX="prod_be_fr_offers"`
     - `export HITS_PER_PAGE=1000` (pour paginer plus ou moins)
     - `export GLOBAL_TIMEOUT_SECONDS=300`
+    - `export PAGE_DELAY_MIN_MS=300` (délai minimum entre requêtes, en ms)
+    - `export PAGE_DELAY_MAX_MS=900` (délai maximum entre requêtes, en ms)
+    - `export MAX_PAGES_SAFETY_LIMIT=100` (limite de sécurité anti-boucle infinie)
 - Lancer en module: `python3 -m scripts.scraper`
 - Alternative: `python scripts/scraper.py`
 
@@ -60,6 +63,21 @@ Utiliser `.env` (recommandé en local):
 - Compter les produits: `jq '.products | length' data/products-min.json`
 - Compter les promotions: `jq '[.products[] | select(.is_promotion)] | length' data/products-min.json`
 - Vérifier les champs manquants: `grep -c '"price": null' data/products-min.json` etc.
+
+## Optimisations de pagination
+
+Le scraper utilise une pagination optimisée avec les caractéristiques suivantes:
+
+- **Délais entre requêtes**: 300-900ms aléatoires pour simuler un comportement humain et éviter le rate-limiting
+- **Logging progressif**: affichage du numéro de page, hits par page, et total cumulé
+- **Gestion d'erreurs robuste**: retour des résultats partiels en cas d'erreur, plutôt qu'échec total
+- **Limite de sécurité**: maximum 100 pages pour prévenir les boucles infinies
+
+**Limitation importante**: L'API de recherche Algolia a une limite stricte de **1000 résultats maximum** par requête, même avec pagination. Pour dépasser cette limite, il faudrait soit:
+- Utiliser l'API Browse (nécessite des permissions différentes)
+- Effectuer plusieurs requêtes filtrées (par catégorie, prix, etc.)
+
+Résultats actuels: ~1270 produits (1000 de `assortment` + ~270 de `offers`)
 
 ## Interprétation et limites
 - `price`: certains articles n’ont pas de prix dans la source, `null` est normal.
