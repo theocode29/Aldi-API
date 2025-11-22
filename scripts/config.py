@@ -42,6 +42,6 @@ HITS_PER_PAGE = int(os.getenv("HITS_PER_PAGE", "1000"))
 GLOBAL_TIMEOUT_SECONDS = int(os.getenv("GLOBAL_TIMEOUT_SECONDS", "300"))
 
 MIN_PRODUCTS = int(os.getenv("MIN_PRODUCTS", "400"))
-MAX_PRODUCTS = int(os.getenv("MAX_PRODUCTS", "1500"))
+MAX_PRODUCTS = int(os.getenv("MAX_PRODUCTS", "10000"))
 
 SCHEMA_VERSION = os.getenv("SCHEMA_VERSION", "1.0.0")
