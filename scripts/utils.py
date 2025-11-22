@@ -1,6 +1,6 @@
 import json
 import time
-from typing import Any, Dict, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 import requests
 from urllib.parse import quote_plus
 
