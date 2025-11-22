@@ -17,20 +17,9 @@ class AldiScraper:
         self.session = utils.get_session()
 
     def get_all_products_from_index(self, index_name: str) -> List[Dict[str, Any]]:
-        params = f"hitsPerPage={config.HITS_PER_PAGE}&page=0"
-        body = {"requests": [{"indexName": index_name, "params": params}]}
-        utils.log_event("info", "query_index_start", index=index_name)
-        data = utils.post_algolia_queries(self.session, body)
-        res = data.get("results", [{}])[0]
-        hits = list(res.get("hits", []))
-        nb_pages = int(res.get("nbPages", 1))
-        for page in range(1, nb_pages):
-            p = f"hitsPerPage={config.HITS_PER_PAGE}&page={page}"
-            b = {"requests": [{"indexName": index_name, "params": p}]}
-            page_data = utils.post_algolia_queries(self.session, b)
-            page_res = page_data.get("results", [{}])[0]
-            hits.extend(page_res.get("hits", []))
-        utils.log_event("info", "query_index_done", index=index_name, hits=len(hits), nb_pages=nb_pages)
+        utils.log_event("info", "browse_index_start", index=index_name)
+        hits = utils.browse_algolia_index(self.session, index_name)
+        utils.log_event("info", "browse_index_done", index=index_name, hits=len(hits))
         validators.ensure_hits_have_required_keys(hits, ["objectID"])
         return hits
 
