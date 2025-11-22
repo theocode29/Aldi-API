@@ -1,136 +1,333 @@
-# Aldi Scraper vers JSON statique (GitHub Pages)
+# 🛒 Aldi API - Product Scraper
 
-- Génère `data/products.json` (complet) et `data/products-min.json` (minimal) à partir des indices Algolia d'ALDI Belgique.
-- Pipeline automatisé via GitHub Actions (hebdomadaire), commits uniquement si modifications.
+> Automated scraper that generates static JSON files from ALDI Belgium's Algolia indices, deployed via GitHub Pages.
 
-## Setup local
-- Prérequis: Python `3.10+`, `pip`, accès réseau.
-- Installer les dépendances: `python3 -m pip install -r requirements.txt`
-- Configurer l’accès Algolia:
-  - Obligatoire: `export ALGOLIA_API_KEY="<votre_clef>"`
-  - Optionnel (valeurs par défaut déjà intégrées):
-    - `export ALGOLIA_APP_ID="W297XVTVRZ"`
-    - `export ASSORTMENT_INDEX="prod_be_fr_assortment"`
-    - `export OFFERS_INDEX="prod_be_fr_offers"`
-    - `export HITS_PER_PAGE=1000` (pour paginer plus ou moins)
-    - `export GLOBAL_TIMEOUT_SECONDS=300`
-    - `export PAGE_DELAY_MIN_MS=300` (délai minimum entre requêtes, en ms)
-    - `export PAGE_DELAY_MAX_MS=900` (délai maximum entre requêtes, en ms)
-    - `export MAX_PAGES_SAFETY_LIMIT=100` (limite de sécurité anti-boucle infinie)
-- Lancer en module: `python3 -m scripts.scraper`
-- Alternative: `python scripts/scraper.py`
+[![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/theocode29/Aldi-API/actions)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Astuce: vous pouvez créer un fichier `.env` à la racine; le scraper le charge automatiquement s'il existe. En production/CI, utilisez des variables d'environnement.
+---
 
-Utiliser `.env` (recommandé en local):
-- Copier l’exemple: `cp .env.example .env`
-- Éditer `ALGOLIA_API_KEY=...` (et, si besoin, `ALGOLIA_APP_ID`, `ASSORTMENT_INDEX`, `OFFERS_INDEX`)
-- Lancer ensuite `python3 -m scripts.scraper` (les valeurs de `.env` seront prises en compte)
+## 📋 Overview
 
-## Tests
-- `pytest -q`
+This project automatically scrapes ALDI Belgium product data from Algolia and publishes it as static JSON files. Perfect for building price comparison apps, product catalogs, or data analysis projects.
 
-## Secrets
-- Dans GitHub → Settings → Actions → Secrets: ajouter `ALGOLIA_API_KEY`.
+### 🎯 Key Features
 
-## Fichiers générés
-- `data/products.json` (complet, avec meta)
-- `data/products-min.json` (essential fields)
-- `data/metadata.json` (meta résumé)
+- 🔄 **Automated Weekly Updates** - GitHub Actions runs the scraper every Sunday
+- 📦 **Dual Format Output** - Full product data + minimal optimized version
+- 🚀 **GitHub Pages Ready** - Static JSON served directly from repository
+- ⚡ **Optimized Pagination** - Rate-limited requests with human-like delays
+- 🛡️ **Robust Error Handling** - Partial result recovery on failures
+- 📊 **Rich Logging** - Detailed progress tracking and diagnostics
 
-## Où trouver et comment lire les résultats
-- `data/products.json` (complet)
-  - `meta.schema_version`: version du schéma.
-  - `meta.last_updated`: ISO datetime UTC de la génération.
-  - `meta.total_products`: nombre total d’articles fusionnés.
-  - `meta.source`: source (`algolia`).
-  - `meta.indices`: indices interrogés (`assortment`, `offers`).
-  - `products`: tableau des documents bruts (champs Algolia tels que `objectID`, `productName`, `salesPrice`, `productPicture`, etc.).
-- `data/products-min.json` (simplifié)
-  - `products[]` contient des champs uniformisés pour l’usage courant:
-    - `id`: identifiant (depuis `objectID`).
-    - `name`: nom produit (depuis `productName`/`name`).
-    - `price`: prix numérique si disponible (priorité à `salesPrice`, fallback `priceFormatted`).
-    - `category`: catégorie heuristique basée sur le nom (peut être `autres`).
-    - `image_url`: URL d’image (priorité à `productPicture` ou premier lien des renditions).
-    - `is_promotion`: booléen, `true` si présent dans l’index `offers`.
-    - `promo_text`: texte promo/description, parfois HTML.
-    - `valid_until`: date de fin si disponible, souvent `null` (peu exposée par Algolia).
-    - `unit`: unité affichée (ex. `salesUnitFormatted`, `salesUnit2`).
-- `data/metadata.json`: résumé minimal (`schema_version`, `last_updated`, `total_products`).
+---
 
-## Contrôles rapides
-- Compter les produits: `jq '.products | length' data/products-min.json`
-- Compter les promotions: `jq '[.products[] | select(.is_promotion)] | length' data/products-min.json`
-- Vérifier les champs manquants: `grep -c '"price": null' data/products-min.json` etc.
+## 🚀 Quick Start
 
-## Optimisations de pagination
+### Prerequisites
 
-Le scraper utilise une pagination optimisée avec les caractéristiques suivantes:
+- Python 3.10 or higher
+- Valid Algolia API key for ALDI Belgium indices
 
-- **Délais entre requêtes**: 300-900ms aléatoires pour simuler un comportement humain et éviter le rate-limiting
-- **Logging progressif**: affichage du numéro de page, hits par page, et total cumulé
-- **Gestion d'erreurs robuste**: retour des résultats partiels en cas d'erreur, plutôt qu'échec total
-- **Limite de sécurité**: maximum 100 pages pour prévenir les boucles infinies
+### Installation
 
-**Limitation importante**: L'API de recherche Algolia a une limite stricte de **1000 résultats maximum** par requête, même avec pagination. Pour dépasser cette limite, il faudrait soit:
-- Utiliser l'API Browse (nécessite des permissions différentes)
-- Effectuer plusieurs requêtes filtrées (par catégorie, prix, etc.)
+```bash
+# Clone the repository
+git clone https://github.com/theocode29/Aldi-API.git
+cd Aldi-API
 
-Résultats actuels: ~1270 produits (1000 de `assortment` + ~270 de `offers`)
+# Install dependencies
+pip install -r requirements.txt
 
-## Interprétation et limites
-- `price`: certains articles n’ont pas de prix dans la source, `null` est normal.
-- `valid_until`: la date de fin de promotion n’est pas toujours fournie dans les hits; peut rester `null`.
-- `category`: basée sur des mots-clés; pour une catégorisation précise, mappez `hierarchicalCategories.lvl3/lvl4` vers vos catégories.
-- `promo_text`: peut contenir des balises HTML; rendez-le texte selon vos besoins.
+# Configure API key
+export ALGOLIA_API_KEY="your_api_key_here"
 
-## Dépannage
-- Erreur `403 Forbidden`:
-  - Vérifiez que `ALGOLIA_API_KEY` est une clé “search-only” autorisée pour l’`ALGOLIA_APP_ID` et les indices.
-  - Le scraper ajoute `Origin`, `Referer`, `User-Agent` et `x-algolia-agent` pour mimer un navigateur.
-  - Test rapide via `curl`:
-    - `curl -s -i -X POST "https://W297XVTVRZ-dsn.algolia.net/1/indexes/*/queries" \
-      -H "X-Algolia-Application-Id: W297XVTVRZ" \
-      -H "X-Algolia-API-Key: $ALGOLIA_API_KEY" \
-      -H "Origin: https://www.aldi.be" -H "Referer: https://www.aldi.be/" \
-      -H "User-Agent: Mozilla/5.0" \
-      --data '{"requests":[{"indexName":"prod_be_fr_assortment","params":"hitsPerPage=1&page=0"}]}'`
-- Erreur `Missing ALGOLIA_API_KEY environment variable.`: exportez correctement la clé avant de lancer.
-- Mock pour diagnostic: `python3 -m scripts.scraper --dump-mock` (affiche un exemple de réponse Algolia).
+# Run the scraper
+python -m scripts.scraper
+```
 
-## CI/CD
-- Workflow: `.github/workflows/scrape-aldi.yml` (exécution hebdomadaire ou déclenchement manuel).
-- Secrets requis: `ALGOLIA_API_KEY`.
-- Les artefacts générés (fichiers `data/`) sont commités automatiquement si le contenu a changé.
+### Using `.env` File (Recommended)
 
-## GitHub Pages
-- Activer Pages: `Settings → Pages → Build and deployment → Deploy from a branch`.
-- Sélectionner `Branch: main` et `Folder: /(root)`.
-- L’URL sera `https://<username>.github.io/<repo>/`.
-- Vérifier vos JSON: `https://<username>.github.io/<repo>/data/products.json`.
+```bash
+# Copy example configuration
+cp .env.example .env
 
-## Déclenchement manuel (Actions)
-- Aller dans `Actions → 🛒 Scrape ALDI Products`.
-- Cliquer `Run workflow` pour lancer le scraping et la publication.
+# Edit .env with your API key
+# ALGOLIA_API_KEY=your_actual_key
 
-## Publier en une commande (local)
-- Rendre le script exécutable: `chmod +x scripts/publish.sh`
-- Lancer: `./scripts/publish.sh`
-- Le script:
-  - Exécute le scraper localement.
-  - Commit et push les fichiers `data/*.json` si changements.
-  - Nécessite que `origin` pointe vers `https://github.com/<username>/<repo>.git` et que vous soyez authentifié.
+# Run scraper (environment loaded automatically)
+python -m scripts.scraper
+```
 
-### Authentification Git la plus simple
-- Option recommandée: GitHub CLI
-  - Installer: `brew install gh`
-  - Se connecter: `gh auth login` (choisir GitHub.com, HTTPS, ouvrir le navigateur pour autoriser).
-- Alternative: PAT (token personnel) pour `git push` HTTPS.
+---
 
-## Re-générer le minimal sans re-scraper
-- Si `data/products.json` existe déjà, vous pouvez régénérer `products-min.json` en relançant le scraper ou en exécutant un petit script utilisant `AldiScraper().build_min(...)` sur les produits fusionnés.
+## 📄 Output Files
 
-## Personnalisation
-- Ajuster `HITS_PER_PAGE` pour gérer le volume par page.
-- Améliorer la catégorisation en mappant `hierarchicalCategories` vers un ensemble de catégories métier.
+The scraper generates three JSON files in the `data/` directory:
+
+| File | Description | Size | Use Case |
+|------|-------------|------|----------|
+| `products.json` | Complete product data with all Algolia fields | ~8 MB | Data analysis, debugging |
+| `products-min.json` | Optimized with essential fields only | ~800 KB | Web apps, mobile apps |
+| `metadata.json` | Summary metadata (version, timestamp, count) | <1 KB | Quick stats |
+
+### Data Structure
+
+#### `products.json`
+```json
+{
+  "meta": {
+    "schema_version": "1.0.0",
+    "last_updated": "2025-11-22T19:15:02Z",
+    "total_products": 1270,
+    "source": "algolia",
+    "indices": ["prod_be_fr_assortment", "prod_be_fr_offers"]
+  },
+  "products": [/* raw Algolia documents */]
+}
+```
+
+#### `products-min.json`
+```json
+{
+  "meta": { /* same as above */ },
+  "products": [
+    {
+      "id": "12345",
+      "name": "Produit Example",
+      "price": 2.99,
+      "category": "épicerie",
+      "image_url": "https://...",
+      "is_promotion": false,
+      "promo_text": null,
+      "valid_until": null,
+      "unit": "500g"
+    }
+  ]
+}
+```
+
+---
+
+## ⚙️ Configuration
+
+### Environment Variables
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `ALGOLIA_API_KEY` | *required* | Your Algolia search-only API key |
+| `ALGOLIA_APP_ID` | `W297XVTVRZ` | Algolia application ID |
+| `ASSORTMENT_INDEX` | `prod_be_fr_assortment` | Main products index |
+| `OFFERS_INDEX` | `prod_be_fr_offers` | Promotions index |
+| `HITS_PER_PAGE` | `1000` | Results per page (max 1000) |
+| `PAGE_DELAY_MIN_MS` | `300` | Minimum delay between requests (ms) |
+| `PAGE_DELAY_MAX_MS` | `900` | Maximum delay between requests (ms) |
+| `MAX_PAGES_SAFETY_LIMIT` | `100` | Maximum pages to prevent infinite loops |
+| `GLOBAL_TIMEOUT_SECONDS` | `300` | Global execution timeout |
+| `MIN_PRODUCTS` | `400` | Minimum expected product count |
+| `MAX_PRODUCTS` | `10000` | Maximum expected product count |
+
+---
+
+## 🔍 Pagination & Rate-Limiting
+
+The scraper implements intelligent pagination with the following optimizations:
+
+✅ **Human-like behavior** - Random delays (300-900ms) between requests  
+✅ **Progressive logging** - Page number, cumulative count, totals  
+✅ **Graceful failure** - Returns partial results on errors  
+✅ **Safety limits** - Maximum 100 pages to prevent runaway loops
+
+> [!IMPORTANT]
+> **Algolia API Limitation**: The Search API has a **hard limit of 1000 results** per query, even with pagination. To bypass this:
+> - Use the Browse API (requires different permissions)
+> - Make multiple filtered queries (by category, price range, etc.)
+>
+> Current results: **~1270 products** (1000 from assortment + ~270 from offers)
+
+---
+
+## 🧪 Testing
+
+```bash
+# Run all tests
+pytest
+
+# Run with verbose output
+pytest -v
+
+# Run specific test file
+pytest tests/test_scraper.py
+```
+
+---
+
+## 🤖 CI/CD - GitHub Actions
+
+The workflow automatically:
+1. Runs every **Sunday at 1:00 AM UTC**
+2. Checks Algolia API rate limits
+3. Executes the scraper
+4. Commits updated JSON files (if changed)
+5. Validates output file sizes and counts
+
+### Manual Trigger
+
+Go to **Actions** → **🛒 Scrape ALDI Products** → **Run workflow**
+
+### Required Secret
+
+Add `ALGOLIA_API_KEY` in: **Settings → Secrets and variables → Actions**
+
+---
+
+## 🌐 GitHub Pages
+
+### Setup
+
+1. Go to **Settings → Pages**
+2. Source: **Deploy from a branch**
+3. Branch: **main** / Folder: **/ (root)**
+4. Save
+
+### Access Your Data
+
+```
+https://YOUR_USERNAME.github.io/Aldi-API/data/products.json
+https://YOUR_USERNAME.github.io/Aldi-API/data/products-min.json
+https://YOUR_USERNAME.github.io/Aldi-API/data/metadata.json
+```
+
+---
+
+## 📊 Usage Examples
+
+### Quick Stats
+
+```bash
+# Total products
+jq '.meta.total_products' data/products-min.json
+
+# Count promotions
+jq '[.products[] | select(.is_promotion)] | length' data/products-min.json
+
+# Average price
+jq '[.products[].price | select(. != null)] | add/length' data/products-min.json
+```
+
+### JavaScript Fetch
+
+```javascript
+const response = await fetch('https://YOUR_USERNAME.github.io/Aldi-API/data/products-min.json');
+const data = await response.json();
+console.log(`Total products: ${data.meta.total_products}`);
+```
+
+### Python Integration
+
+```python
+import requests
+
+url = "https://YOUR_USERNAME.github.io/Aldi-API/data/products-min.json"
+response = requests.get(url)
+data = response.json()
+
+# Filter dairy products
+dairy = [p for p in data['products'] if p['category'] == 'produits laitiers']
+print(f"Found {len(dairy)} dairy products")
+```
+
+---
+
+## 🛠️ Development
+
+### Project Structure
+
+```
+Aldi-API/
+├── .github/
+│   └── workflows/
+│       └── scrape-aldi.yml    # CI/CD configuration
+├── data/                       # Generated JSON files
+│   ├── products.json
+│   ├── products-min.json
+│   └── metadata.json
+├── scripts/
+│   ├── config.py              # Configuration & environment
+│   ├── scraper.py             # Main scraper logic
+│   ├── utils.py               # Utilities (HTTP, logging)
+│   └── validators.py          # Data validation
+├── tests/                      # Test suite
+├── requirements.txt            # Python dependencies
+├── .env.example               # Environment template
+└── README.md                  # This file
+```
+
+### Local Publishing
+
+```bash
+# Make script executable
+chmod +x scripts/publish.sh
+
+# Run scraper + commit + push
+./scripts/publish.sh
+```
+
+---
+
+## 🐛 Troubleshooting
+
+### `403 Forbidden` Error
+
+**Cause**: Invalid or restricted API key
+
+**Solutions**:
+- Verify `ALGOLIA_API_KEY` is a search-only key
+- Check key has access to specified indices
+- Test with curl:
+  ```bash
+  curl -H "X-Algolia-API-Key: $ALGOLIA_API_KEY" \
+       -H "X-Algolia-Application-Id: W297XVTVRZ" \
+       "https://W297XVTVRZ-dsn.algolia.net/1/indexes/*/queries"
+  ```
+
+### Missing Environment Variable
+
+**Error**: `Missing ALGOLIA_API_KEY environment variable`
+
+**Solution**: Ensure key is exported or defined in `.env` file
+
+### Low Product Count
+
+**Expected**: ~1270 products  
+**Actual**: < 400 products
+
+**Cause**: API connection issues or index changes  
+**Solution**: Check GitHub Actions logs for detailed errors
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgments
+
+- ALDI Belgium for providing product data
+- Algolia for the search infrastructure
+
+---
+
+## 📮 Contact
+
+**Issues**: [GitHub Issues](https://github.com/theocode29/Aldi-API/issues)  
+**Author**: [@theocode29](https://github.com/theocode29)
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ using Python & GitHub Actions</sub>
+</div>
