@@ -1,8 +1,8 @@
 {
   "meta": {
     "schema_version": "1.0.0",
-    "last_updated": "2025-11-22T22:48:52.086369+00:00",
-    "total_products": 1270
+    "last_updated": "2025-11-23T02:58:22.345042+00:00",
+    "total_products": 1291
   },
   "products": [
     {
@@ -2941,17 +2941,6 @@
       "promo_text": "<p>grosses tranches rondes, choix entre nature, BBQ et herbes du jardin, &agrave; base de viande de poulet, 15 tranches</p>",
       "valid_until": null,
       "unit": "150 g"
-    },
-    {
-      "id": "6836-1-0",
-      "name": "Figurines de Saint-Nicolas à teneur en sucre réduite",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/6836/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6836_sintfiguren_verlaagd_suikergehalte_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>chocolat belge, cacao certifi&eacute; Fairtrade</p>",
-      "valid_until": null,
-      "unit": "170 g"
     },
     {
       "id": "6799-1-0",
@@ -6738,17 +6727,6 @@
       "unit": "75 cl"
     },
     {
-      "id": "4972-1-0",
-      "name": "Figurine en chocolat",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4972/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/4972_gedecoreerde_sintfiguur_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>figurine creuse en chocolat, choix entre chocolat blanc, chocolat au lait et chocolat noir, chocolat belge, cacao certifi&eacute; Fairtrade</p>",
-      "valid_until": null,
-      "unit": "180 g"
-    },
-    {
       "id": "4969-1-0",
       "name": "Eau minérale légèrement pétillante, 9 pcs",
       "price": 2.69,
@@ -6892,17 +6870,6 @@
       "unit": "600 g"
     },
     {
-      "id": "4926-1-0",
-      "name": "Figurines en spéculoos, 2 pcs",
-      "price": 2.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4926/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/4926_grote_speculoosfiguren_25-17.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>grands sp&eacute;culoos de Saint-Nicolas</p>",
-      "valid_until": null,
-      "unit": "450 g"
-    },
-    {
       "id": "4925-1-0",
       "name": "Massepain au chocolat",
       "price": 1.99,
@@ -6934,61 +6901,6 @@
       "promo_text": "<p>aux amandes</p>",
       "valid_until": null,
       "unit": "150 g"
-    },
-    {
-      "id": "4917-1-0",
-      "name": "Guimauves",
-      "price": 1.19,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4917/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4917_guimauve_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>confiseries molles</p>",
-      "valid_until": null,
-      "unit": "200 g"
-    },
-    {
-      "id": "4916-1-0",
-      "name": "Figurines en chocolat blanc, 5 pcs",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4916/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4916_chocoladefiguren_wit_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>figurines creuses en chocolat belge, cacao certifi&eacute; Fairtrade</p>",
-      "valid_until": null,
-      "unit": "250 g"
-    },
-    {
-      "id": "4915-1-0",
-      "name": "Figurines en chocolat au lait, 5 pcs",
-      "price": 3.99,
-      "category": "produits laitiers",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4915/1/0/_jcr_content/assets/imported-images/BILD_INTERNET19/4915_melkchocoladefiguren_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>figurines creuses en chocolat belge, cacao certifi&eacute; Fairtrade</p>",
-      "valid_until": null,
-      "unit": "250 g"
-    },
-    {
-      "id": "4914-1-0",
-      "name": "Figurines en chocolat noir, 5 pcs",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4914/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/4914_chocoladefiguren_puur_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>figurines creuses en chocolat belge, cacao certifi&eacute; Fairtrade</p>",
-      "valid_until": null,
-      "unit": "250 g"
-    },
-    {
-      "id": "4913-1-0",
-      "name": "Figurines en chocolat fourrées au praliné, 6 pcs",
-      "price": 3.29,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4913/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/4913_sintfiguren_met_praline_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>choix entre chocolat blanc, chocolat au lait et chocolat noir, chocolat belge, cacao certifi&eacute; Fairtrade</p>",
-      "valid_until": null,
-      "unit": "200 g"
     },
     {
       "id": "4909-1-0",
@@ -7088,17 +7000,6 @@
       "promo_text": "<p>beurre pr&eacute;par&eacute; avec du gros sel marin de Gu&eacute;rande</p><br /><p>Il s'agit d'un article r&eacute;gional qui n'est pas disponible dans tous les magasins ALDI.</p>",
       "valid_until": null,
       "unit": "250 g"
-    },
-    {
-      "id": "4846-1-0",
-      "name": "Figurines en spéculoos, pack de 3",
-      "price": 1.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4846/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/4846_speculoos_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>sp&eacute;culoos de saint Nicolas belge,&nbsp;3 x 3 pi&egrave;ces</p>",
-      "valid_until": null,
-      "unit": "198 g"
     },
     {
       "id": "4822-1-0",
@@ -7605,17 +7506,6 @@
       "promo_text": "<p>tisane, choix entre refresh, bonne nuit, bien-&ecirc;tre ou relax, 20 sachets</p>",
       "valid_until": null,
       "unit": "40 g"
-    },
-    {
-      "id": "4440-1-0",
-      "name": "Figurines en chocolat au lait",
-      "price": 3.99,
-      "category": "produits laitiers",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4440/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/4440_gedecoreerde_holfiguren_melk_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>figurines creuses en chocolat belge, cacao certifi&eacute; Fairtrade</p>",
-      "valid_until": null,
-      "unit": "204 g"
     },
     {
       "id": "4438-1-0",
@@ -11006,6 +10896,116 @@
       "unit": "75 cl"
     },
     {
+      "id": "3012012-1-0",
+      "name": "Côtes de Provence AOP rosé",
+      "price": 7.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3012012/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3012012_cotes_de_provence_rose_kanjer-deuzio-gg-art_25-1b.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>vin ros&eacute; &eacute;l&eacute;gant de Provence au caract&egrave;re gastronomique, nez intense aux notes florales et aux ar&ocirc;mes fruit&eacute;s de groseilles &agrave; maquereau, frais et rond en bouche, parfait pour des occasions festives</p><br /><ul><br /><li>c&eacute;pages : grenache, cinsault, tibouren, syrah</li><br /><li>suggestion : plats de poisson, repas gourmets raffin&eacute;s</li><br /><li>temp&eacute;rature de service : 8-10 &deg;C</li><br /><li>mill&eacute;sime : 2024</li><br /></ul>",
+      "valid_until": null,
+      "unit": "75 cl"
+    },
+    {
+      "id": "3012011-1-0",
+      "name": "Vermentino Toscana IGP",
+      "price": 5.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3012011/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3012011_toscana_bianco_vermentino_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>vin blanc frais et croquant de Toscane, aux ar&ocirc;mes de fleurs blanches, de fruits tropicaux et d'agrumes, belle fra&icirc;cheur en bouche avec une min&eacute;ralit&eacute; subtile et une finale longue aux notes d'amande</p><br /><ul><br /><li>c&eacute;page : vermentino</li><br /><li>suggestion : poissons, fruits de mer</li><br /><li>temp&eacute;rature de service : 8-10 &deg;C</li><br /><li>mill&eacute;sime : 2024</li><br /></ul>",
+      "valid_until": null,
+      "unit": "75 cl"
+    },
+    {
+      "id": "3012010-1-0",
+      "name": "Chianti Riserva DOCG",
+      "price": 6.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3012010/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3012010_chianti_reserva_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>ce Chianti Riserva r&eacute;fl&egrave;te l'&eacute;l&eacute;gance de la Toscane, nez intense de cerise et de baies rouges, plein en bouche avec des tanins doux et des notes de vanille et d'&eacute;pices</p><br /><ul><br /><li>c&eacute;pages : sangiovese, cabernet sauvignon</li><br /><li>suggestion : viandes rouges, gibier, fromages affin&eacute;s</li><br /><li>temp&eacute;rature de service : 16-18 &deg;C</li><br /><li>mill&eacute;sime : 2019</li><br /></ul>",
+      "valid_until": null,
+      "unit": "75 cl"
+    },
+    {
+      "id": "3012009-1-0",
+      "name": "Castillon Côtes de Bordeaux AOP 'Château Le Peyrat'",
+      "price": 6.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3012009/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3012009_cotes_de_bordeaux_castillon_25eoy-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>vin rouge puissant et m&ucirc;r avec un caract&egrave;re fruit&eacute; prononc&eacute;, le go&ucirc;t est plein et structur&eacute; et s&eacute;duit par l'&eacute;l&eacute;gance des tanins et la vitalit&eacute; merveilleuse, m&eacute;daille d'or au Concours des Grands Vins de France M&acirc;con 2024</p><br /><ul><br /><li>c&eacute;pages : merlot, cabernet sauvignon</li><br /><li>suggestion : viandes rouges, gibier, plats mijot&eacute;s, fromages</li><br /><li>temp&eacute;rature de service : 16-18 &deg;C</li><br /><li>mill&eacute;sime : 2022</li><br /></ul>",
+      "valid_until": null,
+      "unit": "75 cl"
+    },
+    {
+      "id": "3012007-1-0",
+      "name": "Vin mousseux sud-africain Cap Classique",
+      "price": 9.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3012007/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/3012007_zuid-afrikaanse_schuimwijn_cap_classique_kanjer_avenir-gg-art_25-1b.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>ce vin mousseux sud-africain est fait selon la m&eacute;thode traditionnelle, rafra&icirc;chissant, aux fines bulles, ar&ocirc;mes de fruits tropicaux, de pomme, de zeste d'agrumes et des notes de brioche et d'amande</p><br /><ul><br /><li>suggestion : ap&eacute;ritif, plats orientaux, plats &agrave; base de poisson</li><br /><li>temp&eacute;rature de service : 6-8 &deg;C</li><br /></ul>",
+      "valid_until": null,
+      "unit": "75 cl"
+    },
+    {
+      "id": "3011908-1-0",
+      "name": "Fanta orange ou Sprite",
+      "price": 1.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3011908/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/3011908-fanta-orange-of-sprite-25-lv0-grp_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>diff&eacute;rentes variantes</p><br /><p>Il s'agit d'un article r&eacute;gional qui n'est pas disponible dans tous les magasins ALDI.&nbsp;</p>",
+      "valid_until": null,
+      "unit": "1.5 l"
+    },
+    {
+      "id": "3011860-1-0",
+      "name": "Gingembre bio",
+      "price": null,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3011860/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/0714_biogember-001_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>en vrac, origine : Chine</p>",
+      "valid_until": null,
+      "unit": null
+    },
+    {
+      "id": "3011856-1-0",
+      "name": "Tomates charnues",
+      "price": null,
+      "category": "légumes",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3011856/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3011856_vleestomaten_per_kg_25-8.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>emball&eacute;es</p>",
+      "valid_until": null,
+      "unit": null
+    },
+    {
+      "id": "3011853-1-0",
+      "name": "Courgette bio",
+      "price": 0.0,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3011853/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3011853-1736_bio_courgette_500g_uv-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>bio, emball&eacute;e</p>",
+      "valid_until": null,
+      "unit": null
+    },
+    {
+      "id": "3011852-1-0",
+      "name": "Fruits de la passion",
+      "price": null,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3011852/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3011852_passievruchten_verpakking_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>emball&eacute;s</p>",
+      "valid_until": null,
+      "unit": "le kg"
+    },
+    {
       "id": "3013244-1-0",
       "name": "Filet de faisan mariné",
       "price": 8.49,
@@ -12777,6 +12777,17 @@
       "unit": "la paire"
     },
     {
+      "id": "5602-1-0",
+      "name": "Pyjama en tissu éponge",
+      "price": 10.0,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/5602/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/5602_40-2025_lterrynightwear-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>tissu &eacute;ponge (coton/polyester), regular fit, choix entre diff&eacute;rentes variantes, tailles S &agrave; XL, certifi&eacute; OEKO-TEX&reg;&nbsp;</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
       "id": "3012050-1-0",
       "name": "Serviettes invités, 4 pcs",
       "price": 6.99,
@@ -12887,6 +12898,105 @@
       "unit": "pièce"
     },
     {
+      "id": "3011166-1-0",
+      "name": "Bac pour expériences sensorielles*",
+      "price": 17.49,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_zaterdag/3011166/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3011166_45-2025_sensorialexperimentation-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>&agrave; remplir vous-m&ecirc;me, choix entre bol rond blanc (diam&egrave;tre&nbsp;: 41,3&nbsp;cm, avec compartiments s&eacute;par&eacute;s) et bac noir carr&eacute; (70&nbsp;x&nbsp;70&nbsp;x&nbsp;6&nbsp;cm), convient aux enfants &agrave; partir de 3 ans&nbsp;&nbsp;</p>",
+      "valid_until": null,
+      "unit": "pièce"
+    },
+    {
+      "id": "3011163-1-0",
+      "name": "Véhicule 2 en 1",
+      "price": 9.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_zaterdag/3011163/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3011163_44-2025_2in1vehiclecircuit-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>choix entre diff&eacute;rentes variantes, convient aux enfants &agrave; partir de 3 ans</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
+      "id": "3011159-1-0",
+      "name": "Jeu de couleurs Montessori",
+      "price": 9.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_zaterdag/3011159/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3011159_45-2025_colourclassification-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>choix entre tableaux de tri des couleurs (32&nbsp;pi&egrave;ces, conviennent aux enfants &agrave; partir de 18 mois), tablettes de couleurs (65&nbsp;pi&egrave;ces, conviennent aux enfants &agrave; partir de 3 ans) et perles de couleurs (83&nbsp;pi&egrave;ces, conviennent aux enfants &agrave; partir de 3 ans), bois certifi&eacute; FSC&reg;&nbsp;</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
+      "id": "3010975-1-0",
+      "name": "Jeu de construction",
+      "price": 29.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3010975/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3010975_43-2025_toylinobuildingsetxl-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>&agrave; partir de 886 pi&egrave;ces, choix entre ferme et tracteur (pour enfants &agrave; partir de 8 ans), fus&eacute;e avec plate-forme de lancement (pour enfants &agrave; partir de 8 ans), vaisseau spatial avec grue de chargement (pour enfants &agrave; partir de 8 ans) et bateau pirate (pour enfants &agrave; partir de 10 ans), certifi&eacute;es CE</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
+      "id": "3010973-1-0",
+      "name": "Univers thématique en bois",
+      "price": 19.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3010973/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3010973_44-2025_woodenthemeworld-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>1 pile AAA incl., choix entre diff&eacute;rentes variantes, convient aux enfants &agrave; partir de 3 ans, bois certifi&eacute; FSC&reg;, certifi&eacute; CE&nbsp;&nbsp;</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
+      "id": "3010946-1-0",
+      "name": "Legging",
+      "price": 7.5,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_zaterdag/3010946/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/3010946_41-2025_lpuntoleggings-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>viscose/polyamide/&eacute;lasthanne, choix entre diff&eacute;rentes variantes, tailles S &agrave; XL, certifi&eacute; OEKO-TEX&reg;</p>",
+      "valid_until": null,
+      "unit": "pièce"
+    },
+    {
+      "id": "3010924-1-0",
+      "name": "Jean thermique",
+      "price": 6.0,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3010924/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3010924_40-2025_tthermodenim-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>coton/polyester/&eacute;lasthanne, straight fit ou tapered fit, choix entre diff&eacute;rentes variantes, tailles 92 &agrave; 116, certifi&eacute; OEKO-TEX&reg;</p>",
+      "valid_until": null,
+      "unit": "pièce"
+    },
+    {
+      "id": "3010920-1-0",
+      "name": "Pull en maille",
+      "price": 6.0,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3010920/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3010920_40-2025_cknittedsweater-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>coton, relaxed fit, choix entre diff&eacute;rentes variantes, tailles 122/128 &agrave; 146/152, certifi&eacute; OEKO-TEX&reg;</p>",
+      "valid_until": null,
+      "unit": "pièce"
+    },
+    {
+      "id": "3010919-1-0",
+      "name": "Jean thermique",
+      "price": 6.0,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3010919/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3010919_40-2025_cthermodenim-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>coton/polyester/&eacute;lasthanne, straight fit ou tapered fit, choix entre diff&eacute;rentes variantes, tailles 92 &agrave; 152, certifi&eacute; OEKO-TEX&reg;</p>",
+      "valid_until": null,
+      "unit": "pièce"
+    },
+    {
       "id": "3010912-1-0",
       "name": "Brosse à air chaud ou sèche-cheveux",
       "price": 17.99,
@@ -12920,6 +13030,72 @@
       "unit": "la paire"
     },
     {
+      "id": "3008116-1-0",
+      "name": "Pierres d'équilibre, 4 pcs",
+      "price": 14.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3008116/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3008116_44-2025_toylinostackingstones-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>24&nbsp;x&nbsp;24&nbsp;x&nbsp;10&nbsp;cm, charge max. admise&nbsp;: 50&nbsp;kg, convient &agrave; un usage int&eacute;rieur, choix entre couleurs froides, couleurs pastel et couleurs chaudes, conviennent aux enfants &agrave; partir de 2 ans, certifi&eacute;es CE&nbsp;&nbsp;</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
+      "id": "3008080-1-0",
+      "name": "Jeu de construction",
+      "price": 9.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3008080/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/3008080_44-2025_toylinobuildingsetm-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>&agrave; partir de 356 pi&egrave;ces, choix entre v&eacute;t&eacute;rinaire, r&eacute;colte &agrave; la ferme, installation sur l'&icirc;le des pirates, tour de d&eacute;fense sur l'&icirc;le des pirates, base spatiale sur la lune et vaisseau spatial sur la lune, conviennent aux enfants &agrave; partir de 7 ans, certifi&eacute;es CE</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
+      "id": "3008079-1-0",
+      "name": "Jeu de construction",
+      "price": 17.49,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3008079/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3008079_43-2025_toylinobuildingsetl-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>&agrave; partir de 665 pi&egrave;ces, choix entre diff&eacute;rentes variantes, conviennent aux enfants &agrave; partir de 8 ans, certifi&eacute;es CE</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
+      "id": "3007981-1-0",
+      "name": "Tableau sensoriel Montessori en bois",
+      "price": 17.49,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_zaterdag/3007981/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3007981_44-2025_woodenmontessorypanel-sensorypanel_dam.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>50&nbsp;x&nbsp;40&nbsp;cm, peut &ecirc;tre fix&eacute; au mur, convient aux enfants &agrave; partir de 18&nbsp;mois, bois certifi&eacute; FSC&reg;</p>",
+      "valid_until": null,
+      "unit": "pièce"
+    },
+    {
+      "id": "3007979-1-0",
+      "name": "Élément de jeux en bois",
+      "price": 34.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3007979/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3007979_44-2025_largewoodenclimbingequipment-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>favorise la motricit&eacute;, choix entre arche d'escalade (40,5&nbsp;x&nbsp;49&nbsp;cm) avec planche d'escalade (91,5 x 35 cm), arche balan&ccedil;oire (87&nbsp;x&nbsp;39&nbsp;x&nbsp;28&nbsp;cm) avec coussin et triangle d'escalade en bois (85 x 85 x 85,5 cm), convient aux enfants &agrave; partir de 2 ans, bois certifi&eacute; FSC&reg;, certifi&eacute; CE</p>",
+      "valid_until": null,
+      "unit": "pièce/le lot"
+    },
+    {
+      "id": "3007957-1-0",
+      "name": "Blocs de construction XXL, 24 pcs",
+      "price": 19.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3007957/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3007957_43-2025_toylinobuildingblocksxxl-01_dam.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>choix entre 9,5&nbsp;x&nbsp;9,5&nbsp;x&nbsp;9&nbsp;cm et 18,8&nbsp;x&nbsp;9,5&nbsp;x&nbsp;9&nbsp;cm, conviennent aux enfants &agrave; partir de 1 an, certifi&eacute;es CE</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
       "id": "3007699-1-0",
       "name": "Coussin en fausse fourrure, 2 pcs",
       "price": 6.0,
@@ -12929,6 +13105,39 @@
       "promo_text": "<p>polyester, choix entre mod&egrave;le rond (diam&egrave;tre&nbsp;: 34&nbsp;cm) et mod&egrave;le carr&eacute; (35&nbsp;x&nbsp;35&nbsp;cm), dessous antid&eacute;rapant, choix entre diff&eacute;rentes variantes, certifi&eacute; OEKO-TEX&reg;</p>",
       "valid_until": null,
       "unit": "le lot"
+    },
+    {
+      "id": "3005331-1-0",
+      "name": "Blocs de construction magnétiques",
+      "price": 12.49,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3005331/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3005331_43-2025_magneticbuildingblocks-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>choix entre ensemble de construction de base (48&nbsp;pi&egrave;ces), ville (50 pi&egrave;ces) et circuit &agrave; billes (50 pi&egrave;ces), piles incl., conviennent aux enfants &agrave; partir de 3 ans, certifi&eacute;es CE&nbsp;&nbsp;</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
+      "id": "3005302-1-0",
+      "name": "Jouet d'équilibre en bois",
+      "price": 14.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3005302/1/0/_jcr_content/assets/imported-images/BILD_INTERNET9/3005302_45-2025_smallwoodenclimbingequipment-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>choix entre planche d'&eacute;quilibre (82&nbsp;x&nbsp;29,5&nbsp;x&nbsp;19&nbsp;cm), pierres d'&eacute;quilibre (6&nbsp;pcs) et chemin d'&eacute;quilibre (15 pcs), bois certifi&eacute; FSC&reg;, certifi&eacute; CE</p>",
+      "valid_until": null,
+      "unit": "pièce/le lot"
+    },
+    {
+      "id": "3005151-1-0",
+      "name": "Pantoufles en velours côtelé",
+      "price": 4.5,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3005151/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3005151_45-2025_mcorduroyslipper-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>dessus et int&eacute;rieur en textile, semelle d&rsquo;usure en mati&egrave;re synth&eacute;tique l&eacute;g&egrave;re, choix entre noir et beige, pointures 41 &agrave; 46</p>",
+      "valid_until": null,
+      "unit": "la paire"
     },
     {
       "id": "3003395-1-0",
@@ -12997,6 +13206,17 @@
       "unit": "le lot"
     },
     {
+      "id": "3001429-1-0",
+      "name": "Ensemble de construction magnétique",
+      "price": 8.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_woensdag/3001429/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/3001429_43-2025_magnetbuildingset-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>compatible avec d'autres ensembles de construction magn&eacute;tiques, choix entre ensemble de base (30 pi&egrave;ces), v&eacute;hicules (22 pi&egrave;ces) et grande roue (28 pi&egrave;ces), convient aux enfants &agrave; partir de 3 ans, certifi&eacute; CE</p>",
+      "valid_until": null,
+      "unit": "le lot"
+    },
+    {
       "id": "3000630-1-0",
       "name": "Réducteur de lunettes de toilette, petit pot ou marchepied",
       "price": 4.99,
@@ -13037,6 +13257,17 @@
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-11/2025-11-26/2548_weekactie_aa_woensdag/3000031/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3000031_47-2025_woodwickscentedcandle-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": true,
       "promo_text": "<p>dans un verre, dur&eacute;e de combustion&nbsp;: 38-45&nbsp;heures, choix entre diff&eacute;rentes variantes, avec couvercle en bois certifi&eacute; FSC&reg;</p>",
+      "valid_until": null,
+      "unit": "pièce"
+    },
+    {
+      "id": "2539-1-0",
+      "name": "Chemise de travail thermique",
+      "price": 15.0,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2025/2025-12/2025-12-02/2549_weekactie_aa_zaterdag/2539/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/2539_41-2025_mworkwearflanneljacket-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": true,
+      "promo_text": "<p>dessus&nbsp;: coton/polyester, doublure/remplissage&nbsp;: polyester, relaxed fit, choix entre diff&eacute;rentes variantes, tailles M &agrave; XXL, certifi&eacute;e OEKO-TEX&reg;</p>",
       "valid_until": null,
       "unit": "pièce"
     },
