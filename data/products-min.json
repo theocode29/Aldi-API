@@ -1,8 +1,8 @@
 {
   "meta": {
     "schema_version": "1.0.0",
-    "last_updated": "2026-08-02T04:24:32.061771+00:00",
-    "total_products": 1217
+    "last_updated": "2026-08-09T03:02:45.850240+00:00",
+    "total_products": 1073
   },
   "products": [
     {
@@ -736,7 +736,7 @@
       "name": "Crème glacée premium ",
       "price": 1.99,
       "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/906/1/0/_jcr_content/assets/imported-images/BILD_INTERNET51/0906_premium_roomijs_23-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/906/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/0906_premium_roomijs_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>choix entre stracciatella, sp&eacute;culoos, caf&eacute; et pistache</p>",
       "valid_until": null,
@@ -954,7 +954,7 @@
     {
       "id": "8847-1-0",
       "name": "Jambon dégraissé maxipack",
-      "price": 3.95,
+      "price": 3.99,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8847/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/8847_ontvette_ham_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -1308,7 +1308,7 @@
       "name": "Petit pain empereur",
       "price": 0.39,
       "category": "boulangerie",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET11/0832_PRIMARY_0_nl-fr-de_Wit_broodje_geenmerk.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET9/0832_wit_broodje_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": " ",
       "valid_until": null,
@@ -1328,7 +1328,7 @@
     {
       "id": "8309-1-0",
       "name": "Mousse au chocolat",
-      "price": 3.99,
+      "price": 4.19,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8309/1/0/_jcr_content/assets/imported-images/BILD_INTERNET9/8309_chocolademousse_24-0b-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -1779,7 +1779,7 @@
     {
       "id": "7928-1-0",
       "name": "Eau minérale avec bouchon de sport, 12 pcs",
-      "price": 2.39,
+      "price": 2.29,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/7928/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/7928_mineraalwater_met_sportdop-1_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -2043,7 +2043,7 @@
     {
       "id": "7660-1-0",
       "name": "Pizza fraîche",
-      "price": 4.49,
+      "price": 4.29,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/7660/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/7660_verse_pizza_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -2164,18 +2164,18 @@
     {
       "id": "7460-1-0",
       "name": "Vin rosé sicilien",
-      "price": 8.0,
+      "price": 4.79,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/7460/1/0/_jcr_content/assets/imported-images/BILD_INTERNET30/7460_siciliaanse_rosewijn-kanjer_nb-gg_moustique-ggs-art_26-3b_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<ul><br /><li>vin ros&eacute; sec et fruit&eacute; au bouquet de fruits rouges avec une note florale</li><br /><li>m&eacute;daille d'or Mundus vini</li><br /><li>c&eacute;pages&nbsp;: nerello mascalese</li><br /><li>suggestion&nbsp;: pour accompagner poissons grill&eacute;s, fruits de mer, p&acirc;tes, viandes blanches et fromages jeunes</li><br /><li>temp&eacute;rature de service&nbsp;: 10 &deg;C</li><br /><li>mill&eacute;sime&nbsp;: 2025</li><br /><li>Grand Gold Medal Concours Mondial de Bruxelles 2026</li><br /></ul><br /><p>L'abus d'alcool nuit &agrave; la sant&eacute;.</p>",
       "valid_until": null,
-      "unit": "2 x 75 cl"
+      "unit": "75 cl"
     },
     {
       "id": "7457-1-0",
       "name": "Pain de mie",
-      "price": 1.15,
+      "price": 1.25,
       "category": "boulangerie",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/7457/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/7457_wit_toastbrood.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -2461,7 +2461,7 @@
     {
       "id": "7060-1-0",
       "name": "Hamburger au fromage, 2 pcs",
-      "price": 2.75,
+      "price": 2.45,
       "category": "fromages",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/7060/1/0/_jcr_content/assets/imported-images/BILD_INTERNET25/7060_orloff_burger_op_plankje.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -2670,13 +2670,13 @@
     {
       "id": "6880-1-0",
       "name": "Vin rosé à l'arôme de pamplemousse",
-      "price": 3.29,
+      "price": 3.0,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/6880/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/6880_rose_met_pompelmoesaroma_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>vin ros&eacute; frais et fruit&eacute; aux ar&ocirc;mes de pamplemousse rose, id&eacute;al &agrave; l'ap&eacute;ritif, temp&eacute;rature de service : 7-9 &deg;C, 8 % vol.</p>",
       "valid_until": null,
-      "unit": "75 cl"
+      "unit": "2 x 75 cl"
     },
     {
       "id": "6877-1-0",
@@ -3176,13 +3176,13 @@
     {
       "id": "6684-1-0",
       "name": "Fromage pour barbecue",
-      "price": 3.19,
+      "price": 5.0,
       "category": "fromages",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/6684/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/6684.barbecuekaas_0.all_belu.2025.cw31-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>choix entre diff&eacute;rentes variantes</p>",
       "valid_until": null,
-      "unit": "200 g"
+      "unit": "2 x 200 g"
     },
     {
       "id": "6679-1-0",
@@ -3550,13 +3550,13 @@
     {
       "id": "6581-1-0",
       "name": "Côtes du Roussillon AOP 'Brin de Soleil'",
-      "price": 3.99,
+      "price": 6.0,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/6581/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/6581_cotes_du_roussillon_aop_brin_de_soleil_medaille_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>vin ros&eacute; frais avec un nez principalement domin&eacute; par les fraises et les framboises, aux ar&ocirc;mes de fleurs blanches et avec une touche d'agrumes, c&eacute;pages : grenache, syrah, carignan, suggestion : &agrave; l'ap&eacute;ritif, pour accompagner viandes blanches grill&eacute;es, volaille, poissons ou salades, temp&eacute;rature de service : 7-9 &deg;C, mill&eacute;sime : 2025</p><br /><p>M&eacute;daille d'or au Concours Mondial de Bruxelles 2026</p><br /><p>L'abus d'alcool nuit &agrave; la sant&eacute;.</p>",
       "valid_until": null,
-      "unit": "75 cl"
+      "unit": "2 x 75 cl"
     },
     {
       "id": "6578-1-0",
@@ -3631,14 +3631,14 @@
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/656/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/0656_grande_alberone_primitivo_igt_puglia_kanjer-art_23-4.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "<p>beau vin demi-sec du talon de l'Italie, fruits noirs et rouges avec un doux piquant au nez, juteux et ample en bouche avec une finale velout&eacute;e, couronn&eacute; de 96 points Luca Maroni</p><br /><ul><br /><li>c&eacute;page : primitivo</li><br /><li>temp&eacute;rature de service : 16 &deg;C</li><br /><li>suggestion : pour accompagner viandes rouges grill&eacute;es, p&acirc;tes, pizzas, fromages m&ucirc;rs</li><br /><li>mill&eacute;sime : 2024</li><br /></ul><br /><p>L'abus d'alcool nuit &agrave; la sant&eacute;.</p>",
+      "promo_text": "<p>beau vin demi-sec du talon de l'Italie, fruits noirs et rouges avec un doux piquant au nez, juteux et ample en bouche avec une finale velout&eacute;e, couronn&eacute; de 96 points Luca Maroni</p><br /><ul><br /><li>c&eacute;page : primitivo</li><br /><li>temp&eacute;rature de service : 16 &deg;C</li><br /><li>suggestion : pour accompagner viandes rouges grill&eacute;es, p&acirc;tes, pizzas, fromages m&ucirc;rs</li><br /><li>mill&eacute;sime : 2025</li><br /></ul><br /><p>L'abus d'alcool nuit &agrave; la sant&eacute;.</p>",
       "valid_until": null,
       "unit": "75 cl"
     },
     {
       "id": "6555-1-0",
       "name": "Yaourt à boire, 8 pcs",
-      "price": 2.39,
+      "price": 2.55,
       "category": "produits laitiers",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6555/1/0/_jcr_content/assets/imported-images/BILD_INTERNET32/6555_yoghurtdrink_2310_grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -4111,7 +4111,7 @@
     {
       "id": "6394-1-0",
       "name": "Cake",
-      "price": 2.45,
+      "price": 2.39,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6394/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/6394_cake_24-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -4331,10 +4331,10 @@
     {
       "id": "6237-1-0",
       "name": "Cerises",
-      "price": 4.49,
+      "price": null,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6237/1/0/_jcr_content/assets/imported-images/BILD_INTERNET25/6237_kersen_verpakking_24-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
+      "is_promotion": false,
       "promo_text": "<p>emball&eacute;es</p>",
       "valid_until": null,
       "unit": "500 g"
@@ -4397,10 +4397,10 @@
     {
       "id": "6212-1-0",
       "name": "Mélange de poivrons",
-      "price": 2.98,
+      "price": null,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6212/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6212_paprikamix_verpakking_24-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
+      "is_promotion": false,
       "promo_text": "<p>emball&eacute;,&nbsp;origine : Pays-Bas</p>",
       "valid_until": null,
       "unit": "500 g"
@@ -4496,10 +4496,10 @@
     {
       "id": "6196-1-0",
       "name": "Tomates Roma",
-      "price": 2.0,
+      "price": null,
       "category": "légumes",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6196/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6196-dam6436_roma_tomatoes-03.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
+      "is_promotion": false,
       "promo_text": "<p>emball&eacute;es,&nbsp;origine : Maroc</p>",
       "valid_until": null,
       "unit": "1 kg"
@@ -4551,10 +4551,10 @@
     {
       "id": "6170-1-0",
       "name": "Abricots",
-      "price": 3.24,
+      "price": null,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6170/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6170_abrikozen_500gr.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
+      "is_promotion": false,
       "promo_text": "<p>emball&eacute;s, origine : Espagne</p>",
       "valid_until": null,
       "unit": "500 g"
@@ -4705,13 +4705,13 @@
     {
       "id": "6126-1-0",
       "name": "Blizzard",
-      "price": 1.99,
+      "price": 3.98,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/6126/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/6126_blizzard_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>choix entre ice lemon, orange, strawberry et passion fruit-mango, 5,9 % vol.</p>",
       "valid_until": null,
-      "unit": "275 ml"
+      "unit": "3 x 275 ml"
     },
     {
       "id": "6123-1-0",
@@ -4903,24 +4903,24 @@
     {
       "id": "6057-1-0",
       "name": "Coca-Cola zero",
-      "price": 1.79,
+      "price": 8.95,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6057/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6057-coca-cola-zero-25-lv2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>soda gazeux aux extraits de plantes, sans sucre, aux &eacute;dulcorants</p>",
       "valid_until": null,
-      "unit": "1 l"
+      "unit": "6 x 1 l"
     },
     {
       "id": "6056-1-0",
       "name": "Coca-Cola regular",
-      "price": 1.79,
+      "price": 8.95,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6056/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6056-coca-cola-regular-25-lv2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>soda gazeux aux extraits de plantes, avec sucre</p>",
       "valid_until": null,
-      "unit": "1 l"
+      "unit": "6 x 1 l"
     },
     {
       "id": "6052-1-0",
@@ -5675,7 +5675,7 @@
       "name": "Épinards à la crème",
       "price": 0.59,
       "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5316/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/5316_spinazie_met_room_23-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5316/1/0/_jcr_content/assets/imported-images/BILD_INTERNET11/5316_spinazie_met_room_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>pr&ecirc;ts &agrave; servir</p>",
       "valid_until": null,
@@ -5970,7 +5970,7 @@
     {
       "id": "5100-1-0",
       "name": "Mojito sans alcool",
-      "price": 6.99,
+      "price": 7.99,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/5100/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/5100_alcoholvrije_mojito_26-2b.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -5981,10 +5981,10 @@
     {
       "id": "5095-1-0",
       "name": "Chicons",
-      "price": 1.87,
+      "price": null,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5095/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5095_witloof_verpakking_24-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
+      "is_promotion": false,
       "promo_text": "<p>emball&eacute;s,&nbsp;origine : Belgique</p>",
       "valid_until": null,
       "unit": "le kg"
@@ -6194,7 +6194,7 @@
       "category": "fruits",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4933/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4933_milkshake_aardbei_of_banaan_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "boisson lactée à base de lait demi-écrémé, emballage refermable",
+      "promo_text": "<p>boisson lact&eacute;e &agrave; base de lait demi-&eacute;cr&eacute;m&eacute;, emballage refermable</p>",
       "valid_until": null,
       "unit": "200 ml"
     },
@@ -6476,7 +6476,7 @@
     {
       "id": "473-1-0",
       "name": "Carottes râpées ou chou blanc râpé ",
-      "price": 1.09,
+      "price": 0.99,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/473/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/0473_geraspte_wortel_of_kool_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -6553,7 +6553,7 @@
     {
       "id": "463-1-0",
       "name": "Légumes pour moules",
-      "price": 1.49,
+      "price": 1.55,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/463/1/0/_jcr_content/assets/imported-images/BILD_INTERNET11/0463_mosselgroenten_25-1_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -6634,7 +6634,7 @@
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4606/1/0/_jcr_content/assets/imported-images/BILD_INTERNET15/4606_kattenvoeding_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "<p>aliment complet pour chats, choix entre diff&eacute;rentes sortes</p>",
+      "promo_text": "<p>aliment complet pour chats, choix entre terrine our rago&ucirc;t</p>",
       "valid_until": null,
       "unit": "100 g"
     },
@@ -6674,7 +6674,7 @@
     {
       "id": "460-1-0",
       "name": "Assiette froide",
-      "price": 4.99,
+      "price": 3.99,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/460/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/0460_koude_schotel_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -7004,7 +7004,7 @@
     {
       "id": "4352-1-0",
       "name": "Poulet aux champignons pané, 2 pcs",
-      "price": 3.79,
+      "price": 3.49,
       "category": "viandes",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4352/1/0/_jcr_content/assets/imported-images/BILD_INTERNET9/4352_kipschnitzel_met_champignons_op_plankje_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -7400,7 +7400,7 @@
     {
       "id": "4104-1-0",
       "name": "Ananas au jus, pack de 3",
-      "price": 2.99,
+      "price": 2.79,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4104/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/4104_ananas_op_sap_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -7446,7 +7446,7 @@
       "name": "Coca-Cola zero, pack de 8",
       "price": 5.09,
       "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4091/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/4091-coca-cola-zero_25-lv1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4091/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/4091_coca-cola_zero_8x25cl-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>soda aux extraits v&eacute;g&eacute;taux, sans sucre, aux &eacute;dulcorants</p>",
       "valid_until": null,
@@ -7457,7 +7457,7 @@
       "name": "Coca-Cola regular, 8 pcs",
       "price": 5.09,
       "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4090/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/4090-coca-cola-regular_25-lv1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4090/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/4090_coca-cola_regular_8x25cl-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>soda aux extraits v&eacute;g&eacute;taux, avec sucre</p>",
       "valid_until": null,
@@ -7521,7 +7521,7 @@
     {
       "id": "4037-1-0",
       "name": "Bâtonnets de parfum",
-      "price": 2.79,
+      "price": 2.49,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4037/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4037_geurstokjes_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -7853,7 +7853,7 @@
       "name": "Crème glacée avec coulis",
       "price": 1.79,
       "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3884/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/3884_roomijs_met_saus_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3884/1/0/_jcr_content/assets/imported-images/BILD_INTERNET38/3884_romig_ijs_met_saus_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>choix entre diff&eacute;rentes variantes</p>",
       "valid_until": null,
@@ -8027,7 +8027,7 @@
     {
       "id": "3788-1-0",
       "name": "Cola zero, 8 pcs",
-      "price": 1.79,
+      "price": 1.75,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3788/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3788_cola_zero_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -8720,7 +8720,7 @@
     {
       "id": "3412-1-0",
       "name": "Mélange de laitue",
-      "price": 1.39,
+      "price": 1.19,
       "category": "produits laitiers",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3412/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/3412_slamix_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -9512,7 +9512,7 @@
     {
       "id": "305-1-0",
       "name": "Harengs, 2 pcs",
-      "price": 1.99,
+      "price": 2.29,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET28/0305_maatjes_op_plankje-25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -9566,7 +9566,7 @@
     },
     {
       "id": "3015664-1-0",
-      "name": "Schweppes Indian tonic",
+      "name": "Indian tonic",
       "price": 3.09,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015664/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/3015664_schweppes_indian_tonic-nl_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -9629,6 +9629,17 @@
       "promo_text": "<p>viande belge de qualit&eacute;,&nbsp;enti&egrave;rement pan&eacute;</p>",
       "valid_until": null,
       "unit": "250 g"
+    },
+    {
+      "id": "3015254-1-0",
+      "name": "Morceaux d'ananas",
+      "price": 2.49,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015254/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3015254-9682_ananas_of_mangoblokjes_25-1b.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>emball&eacute;s</p>",
+      "valid_until": null,
+      "unit": "260 g"
     },
     {
       "id": "3015248-1-0",
@@ -9782,7 +9793,7 @@
       "is_promotion": false,
       "promo_text": "<p>prot&egrave;ge vos v&ecirc;tements contre le r&eacute;tr&eacute;cissement et l'&eacute;tirement, choix entre laine &amp; soie et noir,</p><br /><p>Laine &amp; Soie :<br />- Pr&eacute;serve la douceur de tous vos tissus d&eacute;licats<br />- Nettoie et rafra&icirc;chit tous vos v&ecirc;tements<br />- Prot&egrave;ge les fibres</p><br /><p>Noir (tissus fonc&eacute;s et denim) :<br />- Prot&egrave;ge les couleurs et les fibres<br />- Nettoie et rafra&icirc;chit tous vos v&ecirc;tements</p><br /><p>&nbsp;</p>",
       "valid_until": null,
-      "unit": "30 cycles"
+      "unit": "60 cycles, "
     },
     {
       "id": "3014978-1-0",
@@ -9838,6 +9849,17 @@
       "promo_text": "<p>m&eacute;lange de graines de soja grill&eacute;es et sal&eacute;es avec des noix, choix entre m&eacute;lange sal&eacute; et m&eacute;lange &eacute;pic&eacute;</p>",
       "valid_until": null,
       "unit": "150 g"
+    },
+    {
+      "id": "3014925-1-0",
+      "name": "Citrons",
+      "price": 0.0,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014925/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014925_citroenen_750g_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>emball&eacute;s, origine : Afrique du Sud</p>",
+      "valid_until": null,
+      "unit": "750 g"
     },
     {
       "id": "3014918-1-0",
@@ -9985,13 +10007,13 @@
     {
       "id": "3014706-1-0",
       "name": "Kettle chips",
-      "price": 1.49,
+      "price": 2.23,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3014706/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3014706_roasted_kettle_chips_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>choix entre sweet chili et salt &amp; vinegar</p>",
       "valid_until": null,
-      "unit": "150 g"
+      "unit": "2 x 150 g"
     },
     {
       "id": "3014691-1-0",
@@ -10150,13 +10172,13 @@
     {
       "id": "3014411-1-0",
       "name": "Rouleau de fromage à la crème",
-      "price": 1.99,
+      "price": 2.98,
       "category": "fromages",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3014411/1/0/_jcr_content/assets/imported-images/BILD_INTERNET12/3014411_zomers_roomkaasrolletje_ts_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>fromage &agrave; la cr&egrave;me frais, choix entre saumon, poivron/piment et ananas</p>",
       "valid_until": null,
-      "unit": "100 g"
+      "unit": "2 x 100 g"
     },
     {
       "id": "3014356-1-0",
@@ -10183,13 +10205,13 @@
     {
       "id": "3014330-1-0",
       "name": "Bière blonde sans alcool, 4 pcs",
-      "price": 6.79,
+      "price": 10.18,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014330/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3014330_tripel_karmeliet_alcoholvrij_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>0,4&nbsp;% vol.</p>",
       "valid_until": null,
-      "unit": "4 x 33 cl"
+      "unit": "2 x (4 x 33 cl)"
     },
     {
       "id": "3014329-1-0",
@@ -10205,7 +10227,7 @@
     {
       "id": "3014313-1-0",
       "name": "Repas riches en protéines",
-      "price": 4.0,
+      "price": 4.99,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014313/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3014313_proteinerijke_maaltijden_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -10299,7 +10321,7 @@
       "is_promotion": false,
       "promo_text": "<p>choix entre diff&eacute;rentes variantes</p>",
       "valid_until": null,
-      "unit": "240 g"
+      "unit": "2 x 240 g"
     },
     {
       "id": "3014121-1-0",
@@ -10370,20 +10392,20 @@
     {
       "id": "3014102-1-0",
       "name": "Dentifrice haleine pure",
-      "price": 3.98,
+      "price": 1.99,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014102/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3014102_tandpasta_pure_adem_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>dentifrice aux extraits de menthe</p>",
       "valid_until": null,
-      "unit": "3 x 75 ml"
+      "unit": "75 ml"
     },
     {
       "id": "3014063-1-0",
       "name": "Américain nature",
       "price": 6.29,
       "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014063/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3014063_americain_natuur_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014063/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3014063_americain_natuur_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>viande de b&oelig;uf maigre, viande belge de qualit&eacute;, poids variable</p>",
       "valid_until": null,
@@ -10425,7 +10447,7 @@
     {
       "id": "3014059-1-0",
       "name": "Hachis porc/veau préparé",
-      "price": 3.49,
+      "price": 4.39,
       "category": "viandes",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -10535,10 +10557,10 @@
     {
       "id": "3013862-1-0",
       "name": "Travers de porc au miel",
-      "price": 8.99,
+      "price": 9.99,
       "category": "viandes",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3013862/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3013862_spareribs_honing_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
+      "is_promotion": false,
       "promo_text": "<p>pr&eacute;cuits, avec marinade au miel,&nbsp;viande belge de qualit&eacute;, poids variable</p>",
       "valid_until": null,
       "unit": "750 g, poids variable"
@@ -10590,10 +10612,10 @@
     {
       "id": "3013817-1-0",
       "name": "Brochette de poulet au poivron, 4 pcs ",
-      "price": 6.49,
+      "price": 8.99,
       "category": "viandes",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3013817/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3013817_kipbrochette_met_paprika_en_ui_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
+      "is_promotion": false,
       "promo_text": "<p>viande belge de qualit&eacute;, d&eacute;s de filet de poulet assaisonn&eacute;s, avec du poivron et de l'oignon</p>",
       "valid_until": null,
       "unit": "600 g"
@@ -10645,13 +10667,13 @@
     {
       "id": "3013752-1-0",
       "name": "Jus de pommes frais",
-      "price": 1.99,
+      "price": 3.0,
       "category": "fruits",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3013752/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3013752_vers_appelsap_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>jus de pommes press&eacute; 100 % pur,&nbsp;au rayon frais</p>",
       "valid_until": null,
-      "unit": "1 l"
+      "unit": "2 x 1 l"
     },
     {
       "id": "3013751-1-0",
@@ -10788,7 +10810,7 @@
     {
       "id": "3013736-1-0",
       "name": "Apéritif sans alcool wild berry",
-      "price": 1.99,
+      "price": 2.99,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3013736/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013736_alcoholvrij_aperitief_wild_berry_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -10799,13 +10821,13 @@
     {
       "id": "3013735-1-0",
       "name": "Cornets, coupes ou éventails à glace",
-      "price": 0.99,
+      "price": 1.5,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3013735/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3013735_ijshoorntjes_ijscups_of_waaiers_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>choix entre cornets enrob&eacute;s de chocolat (39 g), &eacute;ventails ronds (60 g), coupes &agrave; glace (91 g) et cornets nature (100 g)</p>",
       "valid_until": null,
-      "unit": "39 g/60 g/91 g/100 g"
+      "unit": "2 x 39 g/ 60 g/ 91 g/ 100 g"
     },
     {
       "id": "3013732-1-0",
@@ -10843,7 +10865,7 @@
     {
       "id": "3013709-1-0",
       "name": "Capsules de café Brazil lungo, 10 pcs",
-      "price": 2.69,
+      "price": 3.59,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013709/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013709.koffiecapsules_brazil_lungo-1.all_belu.2026.cw05.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -10865,7 +10887,7 @@
     {
       "id": "3013705-1-0",
       "name": "Capsules de café Africas ristretto, 10 pcs",
-      "price": 2.69,
+      "price": 3.59,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013705/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013705.koffiecapsules_africa_ristretto-1.all_belu.2026.cw05.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -10984,765 +11006,6 @@
       "unit": "200 g"
     },
     {
-      "id": "3013487-1-0",
-      "name": "Snacks pour chats",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013487/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3013487_kattenkoekjes_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>b&oelig;uf, volaille &amp; fromage ou saumon</p>",
-      "valid_until": null,
-      "unit": "200 g"
-    },
-    {
-      "id": "3013479-1-0",
-      "name": "Gommes aux fruits",
-      "price": 0.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>choix entre&nbsp;Tropical Mix, Cherries et Gummy Bears</p>",
-      "valid_until": null,
-      "unit": "300 g"
-    },
-    {
-      "id": "7951-1-0",
-      "name": "Sel aromatisé",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/7951/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/7951.kruidenzout-0.all_belu.2026.cw31-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre sel aromatis&eacute; pour les tomates, les frites, le poulet et les pommes de terre, dans une bo&icirc;te saupoudreuse pratique</p>",
-      "valid_until": null,
-      "unit": "2 x 150 g"
-    },
-    {
-      "id": "7086-1-0",
-      "name": "Pâtes fraîches farcies",
-      "price": 1.75,
-      "category": "épicerie",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/7086/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/7086.0.gevulde-verse-pasta.all_belu.2026.cw14-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "choix entre truffe, ricotta/épinards et tomate/mozzarella",
-      "valid_until": null,
-      "unit": "250 g"
-    },
-    {
-      "id": "6184-1-0",
-      "name": "Blocs pour W.-C., 2 pcs",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/6184/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/6184.0.wc-blokjes-2-st.all_belu.2026.cw19.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>power activ', 2 supports contenant 4 &eacute;l&eacute;ments actifs, parfum de lavande</p>",
-      "valid_until": null,
-      "unit": "le paquet"
-    },
-    {
-      "id": "6015-1-0",
-      "name": "Chiffons en microfibre",
-      "price": 3.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/6015/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6015.0.microvezeldoeken.all_belu.2026.cw31-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>polyester/polyamide, lavables &agrave; 60&nbsp;&deg;C, choix entre lot de 5 chiffons &eacute;ponge (18&nbsp;x&nbsp;20&nbsp;cm), lot de 3 chiffons de vaisselle (30&nbsp;x&nbsp;30&nbsp;cm) et lot de 2 chiffons &agrave; poussi&egrave;res (35&nbsp;x&nbsp;35&nbsp;cm)</p>",
-      "valid_until": null,
-      "unit": "2 pcs"
-    },
-    {
-      "id": "4776-1-0",
-      "name": "Mojito",
-      "price": 12.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/4776/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/4776.0.mojito.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "avec du rhum blanc, du jus de citron vert et au goût de menthe, 14,9 % vol.",
-      "valid_until": null,
-      "unit": "70 cl"
-    },
-    {
-      "id": "4166-1-0",
-      "name": "Gaspacho",
-      "price": 2.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/4166/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4166.gazpacho.all_belu.2026.cw20.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "à base de tomates, de concombres, de poivrons rouges, d'oignons et d'ail, servir froid",
-      "valid_until": null,
-      "unit": "720 ml"
-    },
-    {
-      "id": "3820-1-0",
-      "name": "Sucettes glacées, 32 pcs",
-      "price": 2.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3820/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3820.ijslollys-1.all_belu.2023.cw23.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "mélange de différentes variantes",
-      "valid_until": null,
-      "unit": "32 x 40 ml"
-    },
-    {
-      "id": "3713-1-0",
-      "name": "Joues de porc",
-      "price": 8.99,
-      "category": "viandes",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3713/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3713.varkenswangetjes.all_belu.2026.cw19.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>surgel&eacute;es en vrac, env. 6 pi&egrave;ces</p>",
-      "valid_until": null,
-      "unit": "600 g"
-    },
-    {
-      "id": "3648-1-0",
-      "name": "Tapas façon espagnole",
-      "price": 2.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3648/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3648.tapas.all_belu.2024.cw28.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "avec salchichón, jambon serrano séché et chorizo",
-      "valid_until": null,
-      "unit": "120 g"
-    },
-    {
-      "id": "3565-1-0",
-      "name": "Galettes à faible teneur en sucre",
-      "price": 3.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3565/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3565.suikerarme_wafeltjes.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>galettes &agrave; l&rsquo;&eacute;dulcorant</p>",
-      "valid_until": null,
-      "unit": "500 g"
-    },
-    {
-      "id": "3015940-1-0",
-      "name": "Flutschfinger, 8 pcs",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3015940/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3015940.0.flutschfinger-8-st.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>glace &agrave; l&rsquo;eau au go&ucirc;t de citron vert, de fraise et d&rsquo;orange</p>",
-      "valid_until": null,
-      "unit": "512 ml"
-    },
-    {
-      "id": "3015091-1-0",
-      "name": "Spray",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3015091/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015091.0.cillit-bang-spray-750ml.all_belu.2026.cw31-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>d&eacute;graisse, agit en quelques secondes, choix entre diff&eacute;rentes variantes</p>",
-      "valid_until": null,
-      "unit": "2 x 750 ml"
-    },
-    {
-      "id": "3014655-1-0",
-      "name": "Pizza pour friteuse à air chaud",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3014655/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3014655.airfryer_pizza-0.all_belu.2026.cw31-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre diff&eacute;rentes variantes</p>",
-      "valid_until": null,
-      "unit": "275 g, 275 g/295 g"
-    },
-    {
-      "id": "3014622-1-0",
-      "name": "Boisson énergisante",
-      "price": 1.1,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3014622/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3014622.1.energydrink-aperini.all_belu.2026.cw25.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>au go&ucirc;t d'Aperini Aperitivo</p>",
-      "valid_until": null,
-      "unit": "3 x 25 cl"
-    },
-    {
-      "id": "3014544-1-0",
-      "name": "Fromage frais entier",
-      "price": 5.23,
-      "category": "fromages",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3014544/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3014544.1.volle-verse-kaas.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>riche en prot&eacute;ines</p>",
-      "valid_until": null,
-      "unit": "2 x 500 g"
-    },
-    {
-      "id": "3014078-1-0",
-      "name": "Tomato frito",
-      "price": 1.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3014078/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3014078.0.heinz-tomato-frito-flavored-350g.all_belu.2026.cw31-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre basilic et chili</p>",
-      "valid_until": null,
-      "unit": "350 g"
-    },
-    {
-      "id": "3014077-1-0",
-      "name": "Sauce",
-      "price": 3.95,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3014077/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3014077.0.dis-heinz-flavoured-sauces-400ml.all_belu.2026.cw31-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre ketchup zero (400&nbsp;ml), ketchup pickles (400&nbsp;ml), mayonnaise (400&nbsp;ml) et mayomix (415&nbsp;ml)</p>",
-      "valid_until": null,
-      "unit": "400 ml/415 ml"
-    },
-    {
-      "id": "3014030-1-0",
-      "name": "Détartrant, 6 pcs",
-      "price": 6.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3014030/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3014030.0.ontkalker-6-st.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>&eacute;limine les d&eacute;p&ocirc;ts de calcaire</p>",
-      "valid_until": null,
-      "unit": "le paquet"
-    },
-    {
-      "id": "3013697-1-0",
-      "name": "Belvita, 8 pcs",
-      "price": 3.19,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3013697/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013697.0.lu-belvita-chocolade-400g.all_belu.2026.cw23.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "biscuits aux céréales avec pépites de chocolat, emballage individuel",
-      "valid_until": null,
-      "unit": "400 g"
-    },
-    {
-      "id": "3012203-1-0",
-      "name": "Fromage en tranches",
-      "price": 3.49,
-      "category": "fromages",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3012203/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3012203_kaas_in_sneetjes_2631-lv1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>fromage &agrave; base de lait de vache, &agrave; la texture onctueuse et &agrave; la saveur beurr&eacute;e</p>",
-      "valid_until": null,
-      "unit": "600 g"
-    },
-    {
-      "id": "3011866-1-0",
-      "name": "Maison Perrier Chic, 4 pcs",
-      "price": 5.83,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3011866/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3011866.limonade_4_st.0.all_belu.2026.cw07-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>au go&ucirc;t de citron et de menthe</p>",
-      "valid_until": null,
-      "unit": "2 x (4 x 25 cl)"
-    },
-    {
-      "id": "3011468-1-0",
-      "name": "Additif de lavage*",
-      "price": 8.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3011468/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3011468.detol_additief_voor_de_was-1.all_belu.2025.cw27.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>nettoie en profondeur, parfum frais</p>",
-      "valid_until": null,
-      "unit": "2.5 l"
-    },
-    {
-      "id": "3011055-1-0",
-      "name": "Sweet mix",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3011055/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3011055.haribo_sweet_mix.all_belu.2025.cw32.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "mélange de friandises sucrées",
-      "valid_until": null,
-      "unit": "250 g"
-    },
-    {
-      "id": "3011054-1-0",
-      "name": "Primavera",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3011054/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3011054.haribo_primaverra.all_belu.2025.cw32.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "bonbons en mousse au goût de fraise",
-      "valid_until": null,
-      "unit": "200 g"
-    },
-    {
-      "id": "3011053-1-0",
-      "name": "Bananas",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3011053/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3011053.haribo_bananas_of_tangfastics-2.all_belu.2025.cw32.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "bonbons en mousse au goût de banane",
-      "valid_until": null,
-      "unit": "240 g"
-    },
-    {
-      "id": "3011025-1-0",
-      "name": "Tangfastics",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3011025/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3011025.haribo_bananas_of_tangfastics-1.all_belu.2025.cw32.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "mélange de bonbons acidulés",
-      "valid_until": null,
-      "unit": "250 g"
-    },
-    {
-      "id": "3010866-1-0",
-      "name": "Chips",
-      "price": 2.19,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3010866/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3010866.lays_pickels.all_belu.2025.cw15.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "au goût de pickles",
-      "valid_until": null,
-      "unit": "300 g"
-    },
-    {
-      "id": "3010711-1-0",
-      "name": "Crème pour les mains",
-      "price": 2.58,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3010711/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3010711_handcreme_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>contient de la glyc&eacute;rine, de la vitamine E et de l'extrait de souci pour maintenir l'&eacute;quilibre hydrique de la peau, choix entre floral (fruit&eacute;e et florale), woody (bois de c&egrave;dre et tonka) et bamboo (bambou frais)</p>",
-      "valid_until": null,
-      "unit": "4 x 50 ml"
-    },
-    {
-      "id": "3009909-1-0",
-      "name": "Détachant en poudre",
-      "price": 3.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3009909/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3009909-vlekkenpoeder_2533_grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>&eacute;limine les taches tenaces, choix entre blanc et couleurs&nbsp;</p>",
-      "valid_until": null,
-      "unit": "850 g"
-    },
-    {
-      "id": "3009361-1-0",
-      "name": "Dragées au chocolat ou aux amandes",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3009361/1/0/_jcr_content/assets/imported-images/BILD_INTERNET9/3009361.choco_of_amandeldragees-0.all_belu.2025.cw36-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "choix entre différentes variantes",
-      "valid_until": null,
-      "unit": "500 g"
-    },
-    {
-      "id": "3009308-1-0",
-      "name": "Emmental râpé",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3009308/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3009308_emmental_kaas-1.all_belu.2025.cw46.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>finement r&acirc;p&eacute;, go&ucirc;t doux</p>",
-      "valid_until": null,
-      "unit": "300 g"
-    },
-    {
-      "id": "3008968-1-0",
-      "name": "Nacho cheese",
-      "price": 1.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3008968/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3008968.nacho_cheese-1.all_belu.2025.cw50.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>chips au ma&iuml;s</p>",
-      "valid_until": null,
-      "unit": "170 g"
-    },
-    {
-      "id": "3008921-1-0",
-      "name": "Fanta lemon, 6 pcs",
-      "price": 5.79,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3008921/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3008921.fanta_lemon-1.all_belu.2025.cw23.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "au goût de citron, aux arômes naturels",
-      "valid_until": null,
-      "unit": "6 x 33 cl"
-    },
-    {
-      "id": "3008892-1-0",
-      "name": "Tablettes pour lave-vaisselle platinum plus, 72 pcs",
-      "price": 19.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3008892/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3008892.0.platinum-plus-vaatwastabletten-72-st.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>&eacute;liminent les r&eacute;sidus alimentaires tenaces, restaurent l'&eacute;clat original de votre vaisselle, fonctionnent bien en cycles courts, le sachet ultrasoluble se dissout rapidement</p>",
-      "valid_until": null,
-      "unit": "72 cycles, 6 x 12 st."
-    },
-    {
-      "id": "3008862-1-0",
-      "name": "Pastilles pour la gorge, 36 pcs",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3008862/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3008862_keelpastilles_24-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>pastilles sans sucre pour la gorge, au zinc et &agrave; la vitamine C, choix entre menthol et honey lemon</p>",
-      "valid_until": null,
-      "unit": "72 pcs"
-    },
-    {
-      "id": "3008436-1-0",
-      "name": "Zebra original, 6 pcs",
-      "price": 2.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3008436/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3008436.zebra_original.all_belu.2025.cw26.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "cake léger avec un glaçage croustillant",
-      "valid_until": null,
-      "unit": "186 g"
-    },
-    {
-      "id": "3007856-1-0",
-      "name": "Yaourt aux fruits exotiques, 6 pcs",
-      "price": 5.99,
-      "category": "produits laitiers",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3007856/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3007856.exotische_fruityoghurt.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "avec 3 goûts exotiques",
-      "valid_until": null,
-      "unit": "6 x 150 g"
-    },
-    {
-      "id": "3007401-1-0",
-      "name": "Minicrackers",
-      "price": 2.38,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3007401/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3007401.minicrackers.all_belu.2025.cw47.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>croquants et sal&eacute;s</p>",
-      "valid_until": null,
-      "unit": "2 x 100 g"
-    },
-    {
-      "id": "3007070-1-0",
-      "name": "Croquettes de fromage, 4 pcs",
-      "price": 8.89,
-      "category": "fromages",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3007070/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3007070.0.kaaskroketten-4-st.all_belu.2026.cw9.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "avec 100 % d'emmental, à préparer au four ou à la friteuse à air chaud",
-      "valid_until": null,
-      "unit": "2 x (4 x 70 g)"
-    },
-    {
-      "id": "3007055-1-0",
-      "name": "MilkyWay minis, 20 pcs",
-      "price": 3.19,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3007055/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3007055.0.milkyway-minis-20-st.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>barre de chocolat au fourrage l&eacute;ger, emballage individuel</p>",
-      "valid_until": null,
-      "unit": "333 g"
-    },
-    {
-      "id": "3006331-1-0",
-      "name": "Noodles cup",
-      "price": 1.19,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3006331/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3006331.noodles_cup-0.all_belu.2025.cw24-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "choix entre BBQ et Thai chicken",
-      "valid_until": null,
-      "unit": "66.5 g, 66,5 g/67 g"
-    },
-    {
-      "id": "3006048-1-0",
-      "name": "Choco fresh, 5 pcs",
-      "price": 5.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3006048/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3006048.chocofresh_5st.all_belu.2025.cw30.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "fourrée au lait, avec crème noisette et enrobée de chocolat",
-      "valid_until": null,
-      "unit": "2 x (5 x 20.5 g)"
-    },
-    {
-      "id": "3005154-1-0",
-      "name": "Mélange de snacks",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3005154/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3005154.snackmix.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>cacahu&egrave;tes, bretzels et petites galettes de riz&nbsp;&nbsp;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "750 g"
-    },
-    {
-      "id": "3004670-1-0",
-      "name": "Olives vertes",
-      "price": 2.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3004670/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3004670.groene_olijven.all_belu.2025.cw18-lv0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "choix entre marinade aux herbes et marinade aux herbes et à l'ail",
-      "valid_until": null,
-      "unit": "300 g"
-    },
-    {
-      "id": "3004329-1-0",
-      "name": "Shampoing antipelliculaire",
-      "price": 9.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3004329/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3004329.0.antiroosshampoo.all_belu.2026.cw31-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>avec pompe, choix entre pomme, agrumes et classic</p>",
-      "valid_until": null,
-      "unit": "1 l"
-    },
-    {
-      "id": "3003043-1-0",
-      "name": "Crispy chicken sticks",
-      "price": 2.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3003043/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3003043.crispy_chicken_sticks.all_belu.2026.cw18.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "filet de poulet tendre et émincé, avec sauce dip au curry",
-      "valid_until": null,
-      "unit": "250 g"
-    },
-    {
-      "id": "3002801-1-0",
-      "name": "Lingettes de toilette humides deluxe",
-      "price": 1.39,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3002801/1/0/_jcr_content/assets/imported-images/BILD_INTERNET9/3002801.deluxe_vochtig_toiletpapier-0.all_belu.2026.cw31-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>100&nbsp;% biod&eacute;gradables, pH neutres pour la peau, test&eacute;es dermatologiquement, choix entre diff&eacute;rentes variantes, papier certifi&eacute; FSC&reg;</p>",
-      "valid_until": null,
-      "unit": "le paquet"
-    },
-    {
-      "id": "3002028-1-0",
-      "name": "Minimozzarella ",
-      "price": 2.19,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_vers/3002028/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3002028.1.minimozzarella.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "petites boules de mozzarella, délicieuses à l'apéritif ou dans une salade",
-      "valid_until": null,
-      "unit": "150 g"
-    },
-    {
-      "id": "3001152-1-0",
-      "name": "Papier toilette, pack de 8",
-      "price": 2.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/3001152/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3001152.toiletpapier.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>4 &eacute;paisseurs, 150 feuilles par rouleau</p>",
-      "valid_until": null,
-      "unit": "le paquet"
-    },
-    {
-      "id": "278-1-0",
-      "name": "Limonade à la grenadine, 6 pcs",
-      "price": 2.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/278/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/0278.grenadinelimonade-1.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "limonade gazeuse",
-      "valid_until": null,
-      "unit": "6 x 50 cl"
-    },
-    {
-      "id": "247-1-0",
-      "name": "Papier polyvalent",
-      "price": 4.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/247/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/0247.multifunctioneel_papier.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>700&nbsp;feuilles, r&eacute;sistant et absorbant, papier certifi&eacute; FSC&reg;</p>",
-      "valid_until": null,
-      "unit": "le paquet"
-    },
-    {
-      "id": "2432-1-0",
-      "name": "KitKat mini, 12 pcs",
-      "price": 2.79,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/2432/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/2432.mini_kitkat-1.all_belu.2024.cw26.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "galettes croquantes enrobées de chocolat au lait, emballage individuel",
-      "valid_until": null,
-      "unit": "200 g"
-    },
-    {
-      "id": "2182-1-0",
-      "name": "Éponges à récurer, 6 pcs",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/2182/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/2182.schuursponsjes-1.all_belu.2026.cw31.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>acier inoxydable, nettoient la vaisselle, les casseroles et les grilles, faciles &agrave; rincer</p>",
-      "valid_until": null,
-      "unit": "le paquet"
-    },
-    {
-      "id": "1002-1-0",
-      "name": "Spaghettis Italiano",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-07/2026-07-31/2631_weekendspecial_merkentips/1002/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/1002.spaghetti_italiano-1.all_belu.2026.cw04.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "spaghettis à la sauce tomate et au mélange d'épices, 3 portions",
-      "valid_until": null,
-      "unit": "376 g"
-    },
-    {
-      "id": "3015240-1-0",
-      "name": "Tranches de lard marinées XXL",
-      "price": 6.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/3015240/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3015240_gemarineerde_speklapjes_xxl_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>viande belge de qualit&eacute;, tranches de lard avec marinade &eacute;pic&eacute;e</p>",
-      "valid_until": null,
-      "unit": "600 g"
-    },
-    {
-      "id": "3014680-1-0",
-      "name": "Dés de filet de dinde",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/3014680/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014680_kalkoenfiletblokjes_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>morceaux de dinde juteux marin&eacute;s fa&ccedil;on tha&iuml;, accompagn&eacute;s de l&eacute;gumes et de lait de coco</p>",
-      "valid_until": null,
-      "unit": "400 g"
-    },
-    {
-      "id": "3010414-1-0",
-      "name": "Aiguillettes de poulet",
-      "price": 6.75,
-      "category": "viandes",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/3010414/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3010414_kippenhaasjes_op_plankje_24-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>viande belge de qualit&eacute;, aiguillettes de poulet tendres</p>",
-      "valid_until": null,
-      "unit": "800 g"
-    },
-    {
-      "id": "3010144-1-0",
-      "name": "Concombres snack",
-      "price": 2.83,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/3010144/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3010144-minikomkommer.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>emball&eacute;s, origine : Pays-Bas</p>",
-      "valid_until": null,
-      "unit": "2 x 250 g"
-    },
-    {
-      "id": "3009818-1-0",
-      "name": "Raisins sans pépins",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/3009818/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3009818-premium-druiven-zonder-pitten_vp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>en vrac, origine : Italie</p>",
-      "valid_until": null,
-      "unit": "le kg"
-    },
-    {
-      "id": "3008407-1-0",
-      "name": "Médaillons d'agneau marinés",
-      "price": 10.48,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/3008407/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3006257_gemarineerde_lammedaillons-op_plankje_23-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>de la cuisse, origine : Nouvelle-Z&eacute;lande, poids variable</p>",
-      "valid_until": null,
-      "unit": "2 x 225 g, poids variable"
-    },
-    {
-      "id": "3006776-1-0",
-      "name": "Steak tomahawk",
-      "price": 22.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/3006776/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3006776_tomahawk_steak_op_plankje_23-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>faux-filet de bovin irlandais (avec os),&nbsp;poids variable</p>",
-      "valid_until": null,
-      "unit": "1 kg, poids variable"
-    },
-    {
-      "id": "3005502-1-0",
-      "name": "Pommes de terre pour frites",
-      "price": 6.0,
-      "category": "fruits",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/3005502/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3005502-dam_grill_potatoes-01.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>emball&eacute;es, origine: Allemande</p>",
-      "valid_until": null,
-      "unit": "5 kg"
-    },
-    {
-      "id": "3004141-1-0",
-      "name": "Nectarines",
-      "price": 2.5,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/3004141/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3004141_nectarines_23-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>en vrac, origine : Espagne</p>",
-      "valid_until": null,
-      "unit": "le kg"
-    },
-    {
-      "id": "3001841-1-0",
-      "name": "Hachis de poulet",
-      "price": 6.99,
-      "category": "viandes",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/3001841/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3001841_kippengehakt_op_plankje_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>viande belge de qualit&eacute;, hachis de poulet assaisonn&eacute;</p>",
-      "valid_until": null,
-      "unit": "1 kg"
-    },
-    {
-      "id": "295-1-0",
-      "name": "Baguette blanche artisanale",
-      "price": 1.99,
-      "category": "boulangerie",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/295/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/0295_artisanaal_stokbrood_23-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>baguette artisanale cuite sur pierre</p>",
-      "valid_until": null,
-      "unit": "2 pcs"
-    },
-    {
-      "id": "259-1-0",
-      "name": "Filet de saumon frais",
-      "price": 6.95,
-      "category": "poisson",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/259/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/0259_verse_zalmfilet_op_plankje.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>pauvre en ar&ecirc;tes et d&eacute;coup&eacute; en filets, saumon certifi&eacute; GGN</p>",
-      "valid_until": null,
-      "unit": "2 x 200 g"
-    },
-    {
-      "id": "1715-1-0",
-      "name": "Pain complet frais",
-      "price": 1.39,
-      "category": "boulangerie",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-03/2632_weekspecial_vers/1715/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/1715_vers_volkorenbrood_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>frais du jour, tranch&eacute;, riche en fibres</p>",
-      "valid_until": null,
-      "unit": "600 g"
-    },
-    {
       "id": "8916-1-0",
       "name": "Elixir",
       "price": 13.99,
@@ -11831,28 +11094,6 @@
       "unit": "200 g"
     },
     {
-      "id": "5105-1-0",
-      "name": "Caisson à roulettes",
-      "price": 35.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/5105/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/5105_33-2026_wooden-rolling-container_wooden-rolling-container.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>pin, laqu&eacute; blanc, dimensions : env. 32 x 66 x 38 cm, avec 4 tiroirs et 4 roulettes (2 avec frein), poids : env. 10,6 kg, montage facile, charge max. : 14 kg, bois certifi&eacute; FSC&reg;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "4384-1-0",
-      "name": "Saladiers",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/4384/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4384_31-2026_bowls-salad-bowl-set-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>polystyr&egrave;ne, choix entre 1 grand saladier (5 l), lot de 3 petits saladiers (1,45 l) et lot de 4 petits saladiers (0,75 l), choix entre gris, bleu ou beige, r&eacute;sistants au lave-vaisselle&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce/le lot"
-    },
-    {
       "id": "3014947-1-0",
       "name": "Liqueur aux œufs",
       "price": 13.99,
@@ -11886,215 +11127,6 @@
       "unit": "4 x 33 cl"
     },
     {
-      "id": "3014112-1-0",
-      "name": "Faitout ou poêle en aluminium",
-      "price": 7.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3014112/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3014112_32-2026_cookware-ass-assorted-basic-cookware-pot-20-cm-pan-28cm-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre po&ecirc;le de &Oslash; 28 cm et faitout de &Oslash; 20 cm avec couvercle, convient &agrave; l'induction, l'halog&egrave;ne, la vitroc&eacute;ramique, le gaz et l'&eacute;lectricit&eacute;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3014111-1-0",
-      "name": "Faitout ou poêle en aluminium",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3014111/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3014111_32-2026_cookware-ass-assorted-basic-cookware-pot-16-cm-pan-24cm-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre po&ecirc;le de &Oslash; 24 cm et faitout de &Oslash; 16 avec couvercle, convient &agrave; l'induction, l'halog&egrave;ne, la vitroc&eacute;ramique, le gaz et l'&eacute;lectricit&eacute;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013957-1-0",
-      "name": "Tapis",
-      "price": 12.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013957/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3013957_32-2026_shape-rug-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>100 % polyester, env. 80 x 140 cm, rev&ecirc;tement antid&eacute;rapant, surface extr&ecirc;mement douce, choix entre diff&eacute;rentes variantes, certifi&eacute; OEKO-TEX&reg;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013951-1-0",
-      "name": "Minifriteuse à air chaud",
-      "price": 25.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013951/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3013951_32-2026_mini-hot-air-fryer_mini-hot-air-fryer_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>1000 W, 285 x 210 x 260 mm, longueur du cordon : 80 cm, temp&eacute;rature r&eacute;glable jusqu'&agrave; 200 &deg;C, minuterie r&eacute;glable jusqu'&agrave; 30 min, arr&ecirc;t de s&eacute;curit&eacute; automatique, rev&ecirc;tement antiadh&eacute;sif&nbsp;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013950-1-0",
-      "name": "Maniques, gants ou gant de four double",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013950/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3013950_32-2026_kitchen-set-oven-mitts-and-gloves-2-pcs-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>coton, polypropyl&egrave;ne, polyester, choix entre diff&eacute;rentes variantes*, certifi&eacute;(e)s OEKO-TEX&reg;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3013949-1-0",
-      "name": "Nappe ou sets de table",
-      "price": 7.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013949/1/0/_jcr_content/assets/imported-images/BILD_INTERNET9/3013949_32-2026_tablecloth-placemats-cotton-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>imperm&eacute;able(s), choix entre nappe (140 x 200 cm) et sets de table (45 x 33 cm), choix entre diff&eacute;rentes variantes, certifi&eacute;(e)(s) OEKO-TEX&reg;&nbsp;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce/le lot"
-    },
-    {
-      "id": "3013919-1-0",
-      "name": "Chaussettes, 3 paires",
-      "price": 2.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013919/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/3013919_32-2026_l-m-fashion-sneaker-socks-lotto-3pk_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>coton/polyester/&eacute;lasthanne, mod&egrave;le pour femmes : pointure 35/38 ou 39/42 (choix entre bleu et violet), mod&egrave;le pour hommes : pointures 35/38 &agrave; 43/46 (choix entre gris et blanc)*, certifi&eacute;es OEKO-TEX&reg;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3013904-1-0",
-      "name": "Organiseur(s)",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013904/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3013904_32-2026_storage-accessories_textile-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre organiseur suspendu pour lit, organiseur textile pour porte ou mur, 2 paniers en tissu et organiseur suspendu</p>",
-      "valid_until": null,
-      "unit": "pièce/le lot"
-    },
-    {
-      "id": "3013903-1-0",
-      "name": "Miroir aux angles arrondis",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013903/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3013903_32-2026_small-mirror-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>cadre en plastique avec verre miroir, 25 cm x 38 cm, peut &ecirc;tre utilis&eacute; sur pied (vertical avec pied &agrave; l&rsquo;arri&egrave;re) ou suspendu (vertical avec crochet pour fixer au mur), choix entre diff&eacute;rentes variantes</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013900-1-0",
-      "name": "Jouets pour chats",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013900/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3013900_32-2026_scratching-cat-toy-assorted_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre diff&eacute;rentes variantes</p>",
-      "valid_until": null,
-      "unit": "pièce/le lot"
-    },
-    {
-      "id": "3013899-1-0",
-      "name": "Bac à litière",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013899/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3013899_32-2026_litter-cat-litter-box-open-or-closed-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>polypropyl&egrave;ne, bac &agrave; liti&egrave;re ouvert &agrave; bord amovible, dimensions (L x l x h) : env. 50,2 x 38,4 x 21,4 cm&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013898-1-0",
-      "name": "Lit pour animaux domestiques avec coussin réversible",
-      "price": 12.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013898/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3013898_32-2026_pet-basket-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>env. 60 x 60 x 22 cm et 70 x 70 x 26 cm, coussin r&eacute;versible pour faire des c&acirc;lins et se d&eacute;tendre</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013897-1-0",
-      "name": "Lit ou tunnel pour chats",
-      "price": 7.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013897/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/3013897_32-2026_cat-accessories-cat-bed-tunnel-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre lit pour chats, grotte pour chats (diff&eacute;rentes variantes) et tunnel pour chats&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013896-1-0",
-      "name": "Accessoires pour four à micro-ondes",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013896/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013896_32-2026_food-storage-microwave-assortment_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>gobelet (env. 0,69 l), bac avec compartiments (0,8 l), pot (1,6 l), couvercle (env. 29 x 8,5 cm) et assiette avec subdivisions (env. 1,06 l), r&eacute;sistants au lave-vaisselle</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3013895-1-0",
-      "name": "Boîtes de conservation, 4 pcs",
-      "price": 2.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013895/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3013895_32-2026_food-storage-box-set-pp-4-pcs-clip-and-close_4pcs-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>polypropyl&egrave;ne, &eacute;tanches &agrave; l'air et &agrave; l'eau, couvercle scell&eacute; pour une fra&icirc;cheur plus longue, r&eacute;sistantes au micro-ondes (sans couvercle), r&eacute;sistantes au lave-vaisselle, choix entre rectangulaires, rondes et carr&eacute;es</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3013893-1-0",
-      "name": "Boîte de rangement ou organisateur de tiroirs",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013893/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3013893_32-2026_storage-accessories-bamboo-crate-assortment-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>bambou, choix entre 1 pi&egrave;ce (30 x 21 x 12 cm), 2 pi&egrave;ces (18,5 x 13,5 x 11 cm) et 3 pi&egrave;ces (env. 15 x 15 x 7 cm, env. 23 x 15 x 7 cm et env. 38 x 15 x 7 cm), bois certifi&eacute; FSC&reg;&nbsp;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3013892-1-0",
-      "name": "Gourde isotherme",
-      "price": 2.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013892/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3013892_32-2026_drinking-bottle-stainless-steel-thermo-bottle-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>polypropyl&egrave;ne, acier inoxydable, silicone, contenance : 500 ml, choix entre argent&eacute;, beige et bleu</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013891-1-0",
-      "name": "Organisateur de tiroirs",
-      "price": 9.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013891/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3013891_32-2026_storage-accessories_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>tiroir coulissant ou &eacute;tag&egrave;re avec deux paniers, montage sans per&ccedil;age, choix entre diff&eacute;rentes variantes</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013734-1-0",
-      "name": "Boxer, 2 pcs",
-      "price": 4.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013734/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013734_0-32-2026_m-retro-pants-merchandise-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>coton/&eacute;lasthanne, choix entre diff&eacute;rentes variantes, tailles S &agrave; XXL, certifi&eacute; OEKO-TEX&reg;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
       "id": "3013733-1-0",
       "name": "Boule de gouda",
       "price": 9.99,
@@ -12104,50 +11136,6 @@
       "promo_text": "<p>fromage belge jeune &agrave; p&acirc;te semi-dure</p>",
       "valid_until": null,
       "unit": "850 g"
-    },
-    {
-      "id": "3013624-1-0",
-      "name": "Sabots",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013624/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3013624_23-2026_cclogsmerchandise-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>dessus, semelle int&eacute;rieure et semelle d&rsquo;usure en mati&egrave;re synth&eacute;tique l&eacute;g&egrave;re, brides de talon pour une bonne tenue, choix entre bleu et noir, pointures 37 &agrave; 45*</p>",
-      "valid_until": null,
-      "unit": "la paire"
-    },
-    {
-      "id": "3013590-1-0",
-      "name": "Débardeur",
-      "price": 2.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013590/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3013590_23-2026_l-m-tank-top-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>coton, slim fit, choix entre diff&eacute;rentes variantes, tailles S &agrave; XL, certifi&eacute; OEKO-TEX&reg;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013543-1-0",
-      "name": "Mangeoire pour oiseaux",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013543/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3013543_30-2026_bird-feeding-station-for-windows-assorted_flat-roof-with-removable-three-compartment-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>&agrave; placer sur une fen&ecirc;tre, avec ventouses puissantes, convient &agrave; la nourriture et &agrave; l'eau, charge max. jusqu'&agrave; 4&nbsp;kg, choix entre diff&eacute;rentes variantes</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013506-1-0",
-      "name": "Gourde en acier inoxydable",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3013506/1/0/_jcr_content/assets/imported-images/BILD_INTERNET9/3013506_23-2026_ialdimaniadrinkingbottle-0-gro.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>1&nbsp;l, &Oslash; 8,1&nbsp;x&nbsp;30&nbsp;cm, choix entre diff&eacute;rentes variantes</p>",
-      "valid_until": null,
-      "unit": "pièce"
     },
     {
       "id": "3013473-1-0",
@@ -12183,105 +11171,6 @@
       "unit": "155 g"
     },
     {
-      "id": "3011439-1-0",
-      "name": "Arbre à chat",
-      "price": 25.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3011439/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3011439_50-2025_cattree-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>avec zost&egrave;re, choix entre arbre &agrave; chat avec plateforme (40 x 40 x 58 cm, balle de jeu suspendue incl.) et arbre &agrave; chat avec tunnel (40 x 40 x 65 cm, corde de jeu incl.), avec coussin lavable (polyester)*, poids max. de l'utilisateur : 15 kg, bois certifi&eacute; FSC&reg;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3010749-1-0",
-      "name": "Lampe de bureau avec fonction de recharge",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3010749/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3010749_32-2026_desk-lamp-wireless-charging-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>15,2 x 7,5 x 31,8 cm, avec variateur tactile, support pour t&eacute;l&eacute;phone portable avec fonction de recharge sans fil, c&acirc;ble USB incl., IP20, choix entre noir et blanc&nbsp;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3010533-1-0",
-      "name": "Lampe LED de table sur batterie",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3010533/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3010533_32-2026_micro-table-lamp-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>2700-6500 K, diam&egrave;tre d'env. 80 mm, hauteur d'env. 190 mm, 3 couleurs de lumi&egrave;re variables, r&eacute;glable en continu, c&acirc;ble de recharge USB-C incl., choix entre diff&eacute;rentes variantes</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3010531-1-0",
-      "name": "Étagère à chaussures",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3010531/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3010531_32-2026_shoe-rack-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>dimensions (L x l x h) : env. 49,5 x 18,5 x 65 cm, avec 4 niveaux, espace pour 8 paires de chaussures, capacit&eacute; de charge max. de 4 kg (1 kg par &eacute;tag&egrave;re), choix entre diff&eacute;rentes variantes&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3010524-1-0",
-      "name": "Poêle avec poignée amovible, 28 cm",
-      "price": 12.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3010524/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3010524_32-2026_pan-frying-pan-with-removable-handle-28cm-1_pan-with-removable-handle.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>aluminium, convient &agrave; tous les feux, r&eacute;sistante au lave-vaisselle</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3010523-1-0",
-      "name": "Desserte",
-      "price": 15.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3010523/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3010523_32-2026_serving-trolley-with-3-storage-baskets_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>fer poudr&eacute;, env. 44 x 35 x 79 cm, poids : env. 3,8 kg, charge max. admise par tablette : 10 kg, avec 4 roulettes dont 2 roulettes pivotantes avec freins, pour une utilisation polyvalente dans la cuisine, le salon et la salle de bains, mat&eacute;riel de montage incl., choix entre noir et blanc</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3010521-1-0",
-      "name": "Couverts, 2 ou 4 pcs",
-      "price": 2.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3010521/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3010521_32-2026_cutlery-2pcs-or-4pcs-cutlery-assorted_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>acier inoxydable ou acier de coutellerie tremp&eacute; (couteaux), choix entre lot de 2 couteaux, 2 fourchettes, 2 cuill&egrave;res, 4 cuill&egrave;res &agrave; caf&eacute; et 4 fourchettes &agrave; g&acirc;teau, r&eacute;sistants au lave-vaisselle&nbsp;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3010214-1-0",
-      "name": "Short",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3010214/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3010214_23-2026_lmswaetshortsmerchandise-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>coton/polyester ou coton/viscose, regular fit, choix entre blanc/bleu, noir et gris, tailles M &agrave; XXL*, certifi&eacute; OEKO-TEX&reg;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3009265-1-0",
-      "name": "Griffoir",
-      "price": 9.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3009265/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3009265_32-2026_scratching-wooden-scratching-assortment_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>griffoir avec circuit &agrave; billes et balle (env. 43 cm), griffoir avec balle (env. 27 cm et env. 30,5 cm), bois certifi&eacute; FSC&reg;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
       "id": "3008981-1-0",
       "name": "Galettes au beurre belges",
       "price": 2.99,
@@ -12313,50 +11202,6 @@
       "promo_text": "<p>le classique flamand au poulet et aux l&eacute;gumes</p>",
       "valid_until": null,
       "unit": "680 g"
-    },
-    {
-      "id": "3007512-1-0",
-      "name": "Pantalon de jogging",
-      "price": 9.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3007512/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3007512_32-2026_l-wellness-pants-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>lyocell (TENCEL&trade;), coton, &eacute;lasthanne, regular fit, choix entre bleu et noir, tailles S &agrave; XL, certifi&eacute; OEKO-TEX&reg;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3007286-1-0",
-      "name": "Chaussettes",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3007286/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3007286-1011598_style-0-_23-2026_l-m-socks-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>coton/polyamide/&eacute;lasthanne, choix entre blanc, noir et gris, pointures 35/38 &agrave; 43/46, certifi&eacute;es OEKO-TEX&reg;</p>",
-      "valid_until": null,
-      "unit": "la paire"
-    },
-    {
-      "id": "3007285-1-0",
-      "name": "Sandales de bain",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3007285/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3007285_32-2026_lmpoolslidesmerchandise-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>mati&egrave;re&nbsp;: synth&eacute;tique, doublure&nbsp;: polyester, semelle d&rsquo;usure&nbsp;: phylon, choix entre noir, bleu et gris, pointures 38 &agrave; 45*</p>",
-      "valid_until": null,
-      "unit": "la paire"
-    },
-    {
-      "id": "3007282-1-0",
-      "name": "T-shirt",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/3007282/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3007282_23-2026_l-m-t-shirt-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>coton, relaxed fit, choix entre diff&eacute;rentes variantes, tailles S &agrave; XXL*, certifi&eacute; OEKO-TEX&reg;</p>",
-      "valid_until": null,
-      "unit": "pièce"
     },
     {
       "id": "3005724-1-0",
@@ -12434,17 +11279,6 @@
       "promo_text": "<p>viande de porc sal&eacute;e &agrave; sec, fum&eacute;e et affin&eacute;e, &agrave; l'ardennaise&nbsp;</p>",
       "valid_until": null,
       "unit": "500 g"
-    },
-    {
-      "id": "2449-1-0",
-      "name": "Plaque à induction",
-      "price": 29.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-05/2632_weekactie_aa_woensdag/2449/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/2449_32-2026_induction-hotplate_induction-hotplate_12.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>2000 W, 28 x 6 x 35 cm, 10 niveaux de temp&eacute;rature, 6 programmes automatiques, commande tactile, protection contre la surtension et la sous-tension, d&eacute;tection des po&ecirc;les, minuterie de 240 minutes avec r&eacute;glage par minute, pieds antid&eacute;rapants</p>",
-      "valid_until": null,
-      "unit": "pièce"
     },
     {
       "id": "9735-1-0",
@@ -12579,17 +11413,6 @@
       "unit": "6 x 33 cl"
     },
     {
-      "id": "3014638-1-0",
-      "name": "Pastel de nata, 6 pcs",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-07/2632_weekspecial_vers/3014638/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014638.pastel_de_nata-1.all_belu.2026.cw18.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>p&acirc;tisserie portugaise d&eacute;licieuse</p>",
-      "valid_until": null,
-      "unit": "348 g"
-    },
-    {
       "id": "3014324-1-0",
       "name": "Bâtonnets de glace au chocolat, 4 pcs",
       "price": 7.99,
@@ -12687,17 +11510,6 @@
       "promo_text": "fromage frais à l'ail et aux fines herbes",
       "valid_until": null,
       "unit": "150 g"
-    },
-    {
-      "id": "3012524-1-0",
-      "name": "Melon Galia",
-      "price": 1.25,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-07/2632_weekspecial_vers/3012524/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3012524-6120_galiameloen_uv_20-3.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>en vrac, origine : Espagne</p>",
-      "valid_until": null,
-      "unit": "le kg"
     },
     {
       "id": "3012484-1-0",
@@ -12920,28 +11732,6 @@
       "unit": "le lot"
     },
     {
-      "id": "3005645-1-0",
-      "name": "Halloumi",
-      "price": 3.69,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-07/2632_weekspecial_vers/3005645/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3005645_halloumi_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>fromage chypriote &agrave; cuire ou &agrave; griller</p>",
-      "valid_until": null,
-      "unit": "2 x 225 g"
-    },
-    {
-      "id": "3005525-1-0",
-      "name": "Saumon en bellevue",
-      "price": 7.99,
-      "category": "poisson",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-07/2632_weekspecial_vers/3005525/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3005525_zalm_bellevue_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>filet de saumon de l'Atlantique cuit &agrave; la vapeur, choix entre &eacute;pic&eacute; et nature, saumon certifi&eacute; ASC</p>",
-      "valid_until": null,
-      "unit": "2 x 200 g"
-    },
-    {
       "id": "3005471-1-0",
       "name": "Biscuits au Nutella, 22 pcs",
       "price": 3.99,
@@ -12997,17 +11787,6 @@
       "unit": "360 g/420 g"
     },
     {
-      "id": "2610-1-0",
-      "name": "Orchidée",
-      "price": 7.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-07/2632_weekspecial_vers/2610/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/2610.0.orchidee.all_belu.2024.cw32-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>dans un pot de culture, choix entre diff&eacute;rentes variantes, plante d'int&eacute;rieur, diam&egrave;tre du pot de culture : 12 cm, hauteur de la plante : 50-70 cm, mi-soleil, arroser 1 x par semaine</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
       "id": "1658-1-0",
       "name": "Morceaux d'ananas, pack de 3",
       "price": 4.0,
@@ -13028,369 +11807,6 @@
       "promo_text": "<p>ar&ocirc;mes de fraises et de petits fruits rouges, voluptueux, &agrave; la saveur l&eacute;g&egrave;rement douce et plein en bouche, c&eacute;page : aragonez, suggestion : pour accompagner fruits de mer, poissons, viandes blanches grill&eacute;es, plats cuits au barbecue, salades, p&acirc;tes, temp&eacute;rature de service : 7-9 &deg;C</p>",
       "valid_until": null,
       "unit": "75 cl"
-    },
-    {
-      "id": "8682-1-0",
-      "name": "Diable pliable",
-      "price": 29.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/8682/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/8682_05-2026_transportcart-02_dam.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>cadre : acier, pelle : alliage d&rsquo;aluminium, pneus : polypropyl&egrave;ne, roues/rev&ecirc;tements des pneus : caoutchouc thermoplastique, poign&eacute;e : EVA expans&eacute;, d&eacute;pli&eacute; : 111 x 48,5 x 52 cm, pli&eacute; : env. 82,5 x 48,5 x 6 cm, charge max. admise : 100 kg, extensible avec barri&egrave;re de protection, avec poign&eacute;e extensible en mousse et sangle d&rsquo;arrimage &eacute;lastique</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "8669-1-0",
-      "name": "Ruban adhésif d'emballage ou dérouleur de ruban adhésif",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/8669/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/8669_32-2026_packing-dispenser_packaging-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre ensemble de 4 rouleaux de ruban adh&eacute;sif (2 rouleaux de ruban brun + 2 rouleaux de ruban transparent) et ensemble de 2 rouleaux de ruban adh&eacute;sif (1 rouleau de ruban brun + 1 rouleau de ruban transparent) et 1 d&eacute;rouleur de ruban adh&eacute;sif</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "7775-1-0",
-      "name": "Compresseur portable",
-      "price": 40.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/7775/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/7775.draagbare_compressor-3.all_belu.2025.cw02.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>puissance : 1100 W, 180 l/min, pompe sans huile d&rsquo;une pression de service de 8 bars, flexible &agrave; air comprim&eacute; de 3 m avec raccord rapide, c&acirc;ble &eacute;lectrique de 5 m, avec poign&eacute;e et compartiment int&eacute;gr&eacute; pour le rangement des accessoires</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "7319-1-0",
-      "name": "Perceuse-visseuse à percussion sur batterie, 12 V",
-      "price": 25.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/7319/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/7319_33-2026_12v-impact-drill-set-incl-box-2_12v-impact-drill-set-incl-box.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>fonction percussion pour percer la pierre et la ma&ccedil;onnerie, lampe de travail int&eacute;gr&eacute;e, mandrin m&eacute;tallique de haute qualit&eacute;, indicateur intelligent du niveau de charge avec lumi&egrave;re circulaire LED clignotante, ensemble de 17 accessoires, valisette, batterie de 2,0 Ah, chargeur et c&acirc;ble de recharge USB-C incl.</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "7186-1-0",
-      "name": "Tapis de bain",
-      "price": 7.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/7186/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/7186_38-2026_bath-mat-2pcs-or-1pc-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>polyester, choix entre 1 tapis de bain (60 x 100 cm) et lot de 2 tapis de bain (50 x 70 cm), choix entre diff&eacute;rentes variantes, certifi&eacute;(s) OEKO-TEX&reg;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce/le lot"
-    },
-    {
-      "id": "7122-1-0",
-      "name": "Kit tondeuse",
-      "price": 17.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/7122/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/7122_32-2026_hair-and-beard-trimmer_hair-and-beard-trimmer_4.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>tondeuse avec 6 embouts &eacute;changeables et 7 embouts en forme de peigne, affichage LED, autonomie : env. 1 h, dur&eacute;e de recharge : env. 90 min, batterie lithium-ion rechargeable, brosse de nettoyage, ciseaux, c&acirc;ble de recharge USB et flacon d'huile incl.</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "5867-1-0",
-      "name": "Sonnette sans fil",
-      "price": 5.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/5867/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/5867_32-2026_wireless-doorbell-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>38 m&eacute;lodies ou signal optique, volume sonore r&eacute;glable, port&eacute;e de max. 100 m, montage mural possible (mat&eacute;riel de fixation incl.), piles incl., choix entre blanc et noir&nbsp;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "4856-1-0",
-      "name": "Piles alcalines, 20 pcs",
-      "price": 4.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/4856/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4856_32-2026_alkaline-batteries-20pcs-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "choix entre piles AA (LR6) et piles AAA (LR03)",
-      "valid_until": null,
-      "unit": "le paquet"
-    },
-    {
-      "id": "3860-1-0",
-      "name": "Plateau de manutention universel",
-      "price": 7.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3860/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3860_32-2026_universal-transport-aid-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>avec trou de pr&eacute;hension et rev&ecirc;tement antid&eacute;rapant, 4 roulettes pivotantes, charge admise : 250 kg, convient aux sols robustes, ne convient pas aux sols en bois, choix entre mod&egrave;le rond (38 x 18 cm) et mod&egrave;le rectangulaire (57 x 29 x 18 cm), ne convient pas au transport de personnes, bois certifi&eacute; FSC&reg;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013926-1-0",
-      "name": "T-shirt de travail",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3013926/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3013926_32-2026_m-workwear-t-shirt-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>polyester, regular fit, choix entre noir et gris, tailles M &agrave; XXL, certifi&eacute; OEKO-TEX&reg;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013876-1-0",
-      "name": "Marchepied avec 3 marches",
-      "price": 25.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3013876/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3013876_33-2026_slim-3-step-stepladder-1_slim-3-step-stepladder.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>hauteur de travail : 266 cm, pliable de mani&egrave;re tr&egrave;s compacte, l&eacute;ger et portable, charge max. : 150 kg</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013875-1-0",
-      "name": "Ruban adhésif double face",
-      "price": 2.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3013875/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3013875_32-2026_high-performance-assembly-tape-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>ruban adh&eacute;sif 100 % acrylique ou ruban mousse double face PU, 19 mm x 5 m, choix entre ruban adh&eacute;sif double face (adh&egrave;re au m&eacute;tal, au verre, au bois, aux carreaux et &agrave; la plupart des plastiques, usage int&eacute;rieur et ext&eacute;rieur), ruban adh&eacute;sif double face permanent (adh&egrave;re au m&eacute;tal, au verre, au bois, aux carreaux et &agrave; la plupart des plastiques, usage int&eacute;rieur et ext&eacute;rieur) et ruban adh&eacute;sif double face pour miroirs (adh&egrave;re aux surfaces lisses et fermes telles que le m&eacute;tal, le verre, le bois, les carreaux non structur&eacute;s, la c&eacute;ramique et de nombreux plastiques, id&eacute;al pour les zones humides (&agrave; l&rsquo;int&eacute;rieur))</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013874-1-0",
-      "name": "Spatule, racloir ou couteau à enduire",
-      "price": 1.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3013874/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013874_32-2026_spatula-set-3pcs-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre spatule large (pour appliquer et lisser l&rsquo;enduit), spatule multifonctions avec fonction scie (peut &ecirc;tre utilis&eacute; comme lame de spatule, lame pointue, racloir pour rouleau &agrave; peinture, arrache-clou, ouvre-bo&icirc;te et ouvre-bouteille) et ensemble de 3 spatules (env. 40, 60 et 80 mm)</p>",
-      "valid_until": null,
-      "unit": "pièce/le lot"
-    },
-    {
-      "id": "3013873-1-0",
-      "name": "Jeu d'embouts, de forets ou d'extracteurs de vis",
-      "price": 1.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3013873/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013873_32-2026_screw-extractor-set-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre un jeu de 15 embouts (5 mm : 1&times; PH1, 3&times; PH2, 1&times; PH3, 1&times; PZ1, 2&times; PZ2, 1&times; PZ3, 1&times; SL4 50 mm : 1&times; PH1, 2&times; PH2, 1&times; PH3, 1&times; SL6), de 9 forets (pour le m&eacute;tal, le bois et la pierre, tailles : 5, 6 et 8 mm) et de 5 extracteurs de vis (3-4 mm, 4-5 mm, 5-6 mm, 6-7 mm, 9,5-10,5 mm)</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3013872-1-0",
-      "name": "Organisateur de porte",
-      "price": 15.0,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3013872/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013872_32-2026_over-door-organizer_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>ensemble compos&eacute; de deux petits paniers (43 x 15 x 90 cm, charge max. : 2 kg) et d&rsquo;un grand panier (43 x 15 x 95 cm, charge max. : 3 kg), choix entre blanc et noir&nbsp;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3013871-1-0",
-      "name": "Étagère de salle de bains",
-      "price": 9.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3013871/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3013871_32-2026_bathroom-shelf-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>m&eacute;tal (rev&ecirc;tement noir mat), 33,5 x 28 x 74,5 cm, charge max. : 6 kg (2 kg par niveau), choix entre noir et blanc</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3013040-1-0",
-      "name": "Appareil de soin des mains ou des pieds",
-      "price": 9.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3013040/1/0/_jcr_content/assets/imported-images/BILD_INTERNET11/3013040_18-2026_manicurepedicureassortment-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>5 V, choix entre lampe UV et LED pour ongles (pliable, avec 3 fonctions minuterie), extracteur de callosit&eacute;s &eacute;lectrique (2 vitesses, 5 t&ecirc;tes de rechange, brosse de soin, couvercle de protection et pochette de rangement incl.) et kit de manucure et p&eacute;dicure &eacute;lectrique (2 vitesses, 6 t&ecirc;tes de rechange, couvercle de protection et bo&icirc;te de rangement incl.), c&acirc;ble USB incl., choix entre diff&eacute;rentes variantes</p>",
-      "valid_until": null,
-      "unit": "pièce/le lot"
-    },
-    {
-      "id": "3011981-1-0",
-      "name": "Outils",
-      "price": 3.49,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3011981/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3011981_08-2026_precisiontool-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre ensemble de cutters (3?pi&egrave;ces), ensemble de cutters de bricolage (14?pi&egrave;ces), ensemble d'embouts de pr&eacute;cision (18?pi&egrave;ces) et kit de r&eacute;paration pour smartphone (17?pi&egrave;ces)&nbsp;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3011750-1-0",
-      "name": "Assortiment de joints",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3011750/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3011750_05-2026_ringgasket-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>assortiment de joints (383 pcs, conviennent &agrave; l'&eacute;tanch&eacute;isation des machines, pi&egrave;ces m&eacute;caniques, instruments sanitaires, ne conviennent pas &agrave; l'eau potable, class&eacute;es en 23 tailles diff&eacute;rentes : anneaux de fibre, rondelles pour siphon, rondelles en caoutchouc, rondelles PE, joints toriques et rondelles pour robinet) et assortiment de joints toriques (419 pcs, usage domestique, pour les syst&egrave;mes de chauffage, la m&eacute;canique et l'arrosage du jardin, ne conviennent pas &agrave; l'eau potable, class&eacute;s en 32 tailles diff&eacute;rentes, diam&egrave;tre int&eacute;rieur : 3,15-50 mm)</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3010485-1-0",
-      "name": "Sèche-cheveux",
-      "price": 14.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3010485/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3010485_32-2026_fashion-hair-dryer_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>1800 &agrave; 2200 W, 3 niveaux de temp&eacute;rature, 2 positions de soufflage, technologie ionique, fonction air froid, protection antisurchauffe, embout de coiffage et diffuseur de volume incl., longueur du cordon : 180 cm, choix entre noir, bleu et brun&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3010484-1-0",
-      "name": "Balance avec analyse corporelle",
-      "price": 19.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3010484/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3010484_34-2025_medisanascale-scalewithapp02_dam.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>activation &lsquo;step-on&rsquo;, max. 180 kg, mesure le poids, la graisse corporelle, l'humidit&eacute; corporelle, la masse musculaire et osseuse et analyse les besoins en calories, calcul de l'IMC, &eacute;cran LCD, 4 capteurs UMS pr&eacute;cis, reconnaissance automatique pour max. 8 utilisateurs, application (transfert de donn&eacute;es Bluetooth&reg;) incl.</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3010483-1-0",
-      "name": "Essuie-mains ou gants de toilette",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3010483/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3010483_32-2026_guest-towel-6pcs-or-washing-gloves-8pcs-in-basket-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre 6 essuie-mains et 8 gants de toilette, dans un panier, choix entre taupe, gris et bleu, certifi&eacute;s OEKO-TEX&reg;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3010482-1-0",
-      "name": "Tapis de bain",
-      "price": 6.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3010482/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3010482_32-2026_bath-mat-fun_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>coton, 50 x 80 cm, choix entre diff&eacute;rentes variantes, convient au chauffage par le sol, certifi&eacute; OEKO-TEX&reg;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3010467-1-0",
-      "name": "Assortiment de marqueurs",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3010467/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3010467_32-2025_eddinglabelling-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre marqueur de charpentier, dissolvant d'&eacute;tiquettes (6 ml), marqueur ind&eacute;libile noir (3 pi&egrave;ces) et marqueur ind&eacute;libile couleur (3 pi&egrave;ces)&nbsp;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3010466-1-0",
-      "name": "Gants de travail, 10 paires",
-      "price": 6.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3010466/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3010466_32-2026_l-m-work-gloves-basic-10pk.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>polyester avec enduction nitrile et latex, manchette : polyester/elastodi&egrave;ne, adh&eacute;rence &eacute;lev&eacute;e et antid&eacute;rapants, tailles 7 &agrave; 10 (S &agrave; XL)&nbsp;&nbsp;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3010459-1-0",
-      "name": "Paillasson avec carreaux décoratifs",
-      "price": 5.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3010459/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/3010459_32-2026_scraper-doormat-with-deco-tiles-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>70 x 40 cm, antid&eacute;rapant, usage int&eacute;rieur et ext&eacute;rieur prot&eacute;g&eacute;, r&eacute;sistant &agrave; l&rsquo;usure et facile &agrave; entretenir, choix entre diff&eacute;rentes variantes</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3009433-1-0",
-      "name": "Short de travail",
-      "price": 8.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3009433/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/3009433_32-2026_m-workwear-shorts-basic-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>polyester (recycl&eacute;)/coton, regular fit, choix entre noir et bleu, tailles 48 &agrave; 54, certifi&eacute; OEKO-TEX&reg;&nbsp;&nbsp;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3008528-1-0",
-      "name": "Ensemble de serviettes, 6 pcs",
-      "price": 9.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3008528/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/3008528_32-2026_towel-set-6-pcs_grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "coton, ensemble comprenant 2 draps de bain (env. 70 x 140 cm), 2 serviettes (env. 50 x 100 cm) et 2 serviettes d'hôte (env. 30 x 50 cm), choix entre gris, gris foncé, beige et rose, certifiées OEKO-TEX®",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3006687-1-0",
-      "name": "Socquettes de travail, 3 paires",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3006687/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3006687_15-2026_lmworkingsneakersocks3pkcat-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>coton/polyester/&eacute;lasthanne, soutien accru, talon et pointe renforc&eacute;s, choix entre noir, bleu et gris, pointure 39/42 ou 43/46, certifi&eacute;es OEKO-TEX&reg;&nbsp;</p>",
-      "valid_until": null,
-      "unit": "le lot"
-    },
-    {
-      "id": "3005565-1-0",
-      "name": "Brosse pour W.-C.",
-      "price": 2.39,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3005565/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3005565_32-2026_bathroom-utensil_toilet-brushes-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>polypropyl&egrave;ne, choix entre diff&eacute;rentes variantes&nbsp;</p>",
-      "valid_until": null,
-      "unit": "pièce"
-    },
-    {
-      "id": "3005243-1-0",
-      "name": "Boîtes de rangement avec couvercle",
-      "price": 3.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3005243/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3005243_32-2026_storage-box-wicker-optic-box-with-lid_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre 3 bo&icirc;tes (2 l), 2 bo&icirc;tes (5 l) et 1 bo&icirc;te (14 l), choix entre gris et bleu</p>",
-      "valid_until": null,
-      "unit": "pièce/le lot"
-    },
-    {
-      "id": "3002928-1-0",
-      "name": "Assortiment d’outils",
-      "price": 4.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/3002928/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3002928_05-2026_vdepliers-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre pince &agrave; d&eacute;nuder (16 cm), pince &agrave; bec long (20 cm), pince coupante de c&ocirc;t&eacute; (16 cm), pince universelle (18 cm), jeu de 8 tournevis VDE (4 tournevis plats (0,5 x 3,0 x 75 mm, 0,8 x 4,0 x 100 mm, 1,0 x 5,5 x 125 mm, 1,2 x 6,5 x 150 mm), 3 tournevis cruciformes (PH0 x 75 mm, PH1 x 80 mm, PH2 x 100 mm) et 1 d&eacute;tecteur de phase 125-250 V (140 mm, lame noire brunie, sp&eacute;cialement tremp&eacute;e et magn&eacute;tis&eacute;e, poign&eacute;es ergonomiques avec &oelig;illet de suspension)) et jeu de 2 outils de d&eacute;nudage de c&acirc;bles (1 couteau &agrave; d&eacute;nuder avec lame flottante (pour c&acirc;bles ronds 8-28 mm&sup2;, longueur : 220 x 35 x 33 mm, avec prot&egrave;ge-lame, profondeur de coupe r&eacute;glable par vis molet&eacute;e &agrave; l'extr&eacute;mit&eacute; de la poign&eacute;e) et 1 d&eacute;nudeur de c&acirc;bles rond pour coupes rondes et longitudinales (pour c&acirc;bles ronds de diam&egrave;tre 8-13 mm, longueur : 125 x 23 x 36 mm, avec clip de s&eacute;curit&eacute;, emp&ecirc;che toute ouverture incontr&ocirc;l&eacute;e))</p>",
-      "valid_until": null,
-      "unit": "pièce/le lot"
-    },
-    {
-      "id": "2981-1-0",
-      "name": "Rasoir ",
-      "price": 14.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2026/2026-08/2026-08-08/2632_weekactie_aa_zaterdag/2981/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/2981_32-2026_battery-electric-shaver_flex-shaver-trimmer_0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": true,
-      "promo_text": "<p>choix entre rasoir rotatif (batterie de 600 mAh, 3 lames de rasoir et tondeuse pliable, autonomie : 90 min, dur&eacute;e de recharge : 120 min), tondeuse (batterie de 600 mAh, 3 peignes et guide peigne r&eacute;glable, &eacute;tanche &agrave; l'eau (IPX5), autonomie : 90 min, dur&eacute;e de recharge : 150 min) et rasoir &agrave; grille (batterie de 600 mAh, 2 lames de rasoir et tondeuse pliable, autonomie : 30 min, dur&eacute;e de recharge : 8 h), brosse de nettoyage, c&acirc;ble USB, housse de protection incl.</p>",
-      "valid_until": null,
-      "unit": "pièce"
     }
   ]
 }
