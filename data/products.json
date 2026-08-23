@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "1.0.0",
-    "last_updated": "2026-08-16T02:21:25.447647+00:00",
+    "last_updated": "2026-08-23T02:24:02.252238+00:00",
     "total_products": 1000,
     "source": "algolia",
     "indices": [
@@ -3223,7 +3223,7 @@
       "salesUnitFormatted": "600 g",
       "showPrice": true,
       "showQuantities": true,
-      "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET27/150628.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET27/150628.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET27/150628.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET27/150628.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET27/150628.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET27/150628.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET27/150628.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET27/150628.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/167552.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/167552.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/167552.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/167552.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/167552.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/167552.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/167552.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/167552.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET24/0935_kipfilet_a_la_minute_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET24/0935_kipfilet_a_la_minute_1.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET24/0935_kipfilet_a_la_minute_1.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET24/0935_kipfilet_a_la_minute_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET24/0935_kipfilet_a_la_minute_1.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET24/0935_kipfilet_a_la_minute_1.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET24/0935_kipfilet_a_la_minute_1.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET24/0935_kipfilet_a_la_minute_1.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/935/1/0/_jcr_content/assets/imported-images/BILD_INTERNET24/0935_kipfilet_a_la_minute_1.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPictureAltText": "Filet de poulet à la minute",
@@ -7804,7 +7804,7 @@
         "lvl3": "Page d'accueil > Produits > Assortiment > Collations et sucreries",
         "lvl4": "Page d'accueil > Produits > Assortiment > Collations et sucreries > Chips et snacks salés"
       },
-      "shortDescription": "<p>cuites &agrave; l&rsquo;huile de tournesol, choix entre nature et &eacute;pic&eacute;</p>",
+      "shortDescription": "<p>cuites &agrave; l&rsquo;huile de tournesol, choix entre nature et &eacute;pic&eacute;es</p>",
       "longDescription": "  ",
       "energyEfficiencyIndex": 0,
       "salesPrice": 1.09,
@@ -7867,7 +7867,7 @@
           }
         ],
         "shortDescription": {
-          "value": "<p>cuites à l&rsquo;huile de tournesol, choix entre nature et épicé</p>",
+          "value": "<p>cuites à l&rsquo;huile de tournesol, choix entre nature et épicées</p>",
           "matchLevel": "none",
           "matchedWords": []
         },
@@ -8842,11 +8842,12 @@
       },
       "shortDescription": "<p>eau min&eacute;rale naturelle gazeuse</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 0.45,
+      "salesPrice": 0.39,
+      "oldPrice": 0.45,
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "0.45/l",
+      "multipleBasePrices": "0.39/l",
       "isDrainedWeight": false,
       "salesUnit2": "1 l",
       "salesUnitFormatted": "1 l",
@@ -8863,7 +8864,8 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/eau-legerement-gazeuse-875-1-0.article.html#/fr/produits/aldi-50-ans",
-      "priceFormatted": "0.45",
+      "priceFormatted": "0.39",
+      "oldPriceFormatted": "0.45",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/875/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/aldi-50-ans/snippet-875-1-0.shoppinglisttile.article.html",
@@ -8910,7 +8912,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 0.45
+      "price": 0.39
     },
     {
       "articlePath": "products/Asssortiment/vlees-charcuterie/charcuterie/8746-1-0",
@@ -10860,7 +10862,7 @@
       "articlePath": "products/Asssortiment/kant-en-klaar/eenpans-microgolfgerechten/8324-1-0",
       "brandName": "ASIA GREEN GARDEN®",
       "isHomeBrand": false,
-      "productName": "Repas asiatique",
+      "productName": "Repas façon asiatique",
       "breadcrumb": [
         "Page d'accueil",
         "Produits",
@@ -10878,7 +10880,7 @@
         "lvl3": "Page d'accueil > Produits > Assortiment > Plats préparés",
         "lvl4": "Page d'accueil > Produits > Assortiment > Plats préparés > Potées et plats micro-ondes"
       },
-      "shortDescription": "<p>choix entre poulet en sauce au curry rouge avec riz basmati, poulet aigre-doux avec bami, fu yung hai v&eacute;g&eacute;tarien avec bami et babi pangang avec nasi</p>",
+      "shortDescription": "<p>choix entre poulet en sauce au curry rouge avec riz basmati, poulet aigre-doux avec bami, fu yung hai v&eacute;g&eacute;tarien avec bami et babi pangang avec bami goreng</p>",
       "energyEfficiencyIndex": 0,
       "salesPrice": 4.49,
       "isOldPriceMSRP": false,
@@ -10893,15 +10895,15 @@
       "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET29/95699.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET29/95699.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET29/95699.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET29/95699.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET29/95699.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET29/95699.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET29/95699.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET29/95699.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET34/8324_aziatische_maaltijd_23-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET34/8324_aziatische_maaltijd_23-0-grp.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET34/8324_aziatische_maaltijd_23-0-grp.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET34/8324_aziatische_maaltijd_23-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET34/8324_aziatische_maaltijd_23-0-grp.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET34/8324_aziatische_maaltijd_23-0-grp.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET34/8324_aziatische_maaltijd_23-0-grp.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET34/8324_aziatische_maaltijd_23-0-grp.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET34/8324_aziatische_maaltijd_23-0-grp.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPictureAltText": "Repas asiatique",
-      "productPictureTitleText": "Repas asiatique",
+      "productPictureAltText": "Repas façon asiatique",
+      "productPictureTitleText": "Repas façon asiatique",
       "footnotes": [
         false,
         false,
         false,
         false
       ],
-      "productUrl": "https://www.aldi.be/fr/p/repas-asiatique-8324-1-0.article.html#/fr/produits/assortiment/plats-prepares/potees-plats-micro-ondes",
+      "productUrl": "https://www.aldi.be/fr/p/repas-facon-asiatique-8324-1-0.article.html#/fr/produits/assortiment/plats-prepares/potees-plats-micro-ondes",
       "priceFormatted": "4.49",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/jcr:content",
       "reminderEnabled": false,
@@ -10919,7 +10921,7 @@
           "matchedWords": []
         },
         "productName": {
-          "value": "Repas asiatique",
+          "value": "Repas façon asiatique",
           "matchLevel": "none",
           "matchedWords": []
         },
@@ -10931,12 +10933,12 @@
           }
         ],
         "shortDescription": {
-          "value": "<p>choix entre poulet en sauce au curry rouge avec riz basmati, poulet aigre-doux avec bami, fu yung hai végétarien avec bami et babi pangang avec nasi</p>",
+          "value": "<p>choix entre poulet en sauce au curry rouge avec riz basmati, poulet aigre-doux avec bami, fu yung hai végétarien avec bami et babi pangang avec bami goreng</p>",
           "matchLevel": "none",
           "matchedWords": []
         },
         "productUrl": {
-          "value": "https://www.aldi.be/fr/p/repas-asiatique-8324-1-0.article.html#/fr/produits/assortiment/plats-prepares/potees-plats-micro-ondes",
+          "value": "https://www.aldi.be/fr/p/repas-facon-asiatique-8324-1-0.article.html#/fr/produits/assortiment/plats-prepares/potees-plats-micro-ondes",
           "matchLevel": "none",
           "matchedWords": []
         }
@@ -11918,11 +11920,13 @@
       "shortDescription": "céréales petit déjeuner à base de blé et de riz, fourrées aux noisettes, source de fibres, cacao certifié Fairtrade",
       "longDescription": "  ",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 3.59,
+      "salesPrice": 3.5,
+      "oldPrice": 3.59,
       "isOldPriceMSRP": false,
+      "priceReduction": "PROMO",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "4.79/kg",
+      "multipleBasePrices": "4.67/kg",
       "isDrainedWeight": false,
       "salesUnit2": "750 g",
       "salesUnitFormatted": "750 g",
@@ -11940,7 +11944,8 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/cacao-wheat-pillows-8259-1-0.article.html#/fr/produits/produits-fairtrade",
-      "priceFormatted": "3.59",
+      "priceFormatted": "3.50",
+      "oldPriceFormatted": "3.59",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8259/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/produits-fairtrade/snippet-8259-1-0.shoppinglisttile.article.html",
@@ -11992,7 +11997,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 3.59
+      "price": 3.5
     },
     {
       "articlePath": "products/Asssortiment/alcoholische-dranken/wijn/mousserende-dranken/8248-1-0",
@@ -15025,12 +15030,11 @@
       },
       "shortDescription": "<p>eau min&eacute;rale naturelle, avec bouchon de sport pratique</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 2.29,
-      "oldPrice": 2.39,
+      "salesPrice": 2.39,
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "0.58/l",
+      "multipleBasePrices": "0.60/l",
       "isDrainedWeight": false,
       "salesUnit2": "12 x 33 cl",
       "salesUnitFormatted": "12 x 33 cl",
@@ -15047,8 +15051,7 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/eau-minerale-avec-bouchon-de-sport-12-pcs-7928-1-0.article.html#/fr/produits/assortiment/boissons-non-alcoolisees/eau",
-      "priceFormatted": "2.29",
-      "oldPriceFormatted": "2.39",
+      "priceFormatted": "2.39",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/7928/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/boissons-non-alcoolisees/eau/snippet-7928-1-0.shoppinglisttile.article.html",
@@ -15090,7 +15093,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 2.29
+      "price": 2.39
     },
     {
       "articlePath": "products/Asssortiment/kant-en-klaar/soep/792-1-0",
@@ -16421,13 +16424,11 @@
       "shortDescription": "<p>salade de poisson avec crabe, crabe royal et surimi, choix entre diff&eacute;rentes variantes</p>",
       "longDescription": "De nombreux supermarchés vantent leur « recette belge » pour leur salade de crabe, mais quel pot a vraiment le goût de la mer, contient du surimi et du crabe savoureux et ne regorge pas de conservateurs ? Le chef poissonnier et célèbre cuisinier flamand Bram Simons en a goûté dix (Het Laatste Nieuws – 17/01/2026) et en a retenu deux, dont la salade de crabe DAYLICIOUS® d'ALDI. « Celle d'ALDI est une excellente affaire compte tenu de sa qualité. C'est la seule qui a un goût frais. »",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 2.0,
-      "oldPrice": 2.19,
+      "salesPrice": 2.19,
       "isOldPriceMSRP": false,
-      "priceReduction": "PROMO",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "13.33/kg",
+      "multipleBasePrices": "14.60/kg",
       "isDrainedWeight": false,
       "salesUnit2": "150 g",
       "salesUnitFormatted": "150 g",
@@ -16444,8 +16445,7 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/salade-au-crabe-ou-salade-cocktail-au-crabe-774-1-0.article.html#/fr/produits/produits-couronnes",
-      "priceFormatted": "2.00",
-      "oldPriceFormatted": "2.19",
+      "priceFormatted": "2.19",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/774/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/produits-couronnes/snippet-774-1-0.shoppinglisttile.article.html",
@@ -16502,7 +16502,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 2.0
+      "price": 2.19
     },
     {
       "articlePath": "products/Asssortiment/snacks-zoetigheden/zoet-gebak-koeken/7738-1-0",
@@ -18189,7 +18189,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/pils-0-0-6-pcs-7508-1-0.article.html#/fr/produits/assortiment/boissons-alcoolisees/biere",
       "priceFormatted": "6.89",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-10-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/7508/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/boissons-alcoolisees/biere/snippet-7508-1-0.shoppinglisttile.article.html",
@@ -19028,13 +19027,15 @@
       "shortDescription": " ",
       "longDescription": "Mamma mia ! Cette star de notre assortiment de petits pains frais vous fait croire que vous êtes à Rome ou à Milan... Garnissez-le d'antipasti, de prosciutto ou de mortadella pour une expérience gustative italienne complète.  ",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 0.49,
+      "salesPrice": 0.8,
+      "oldPrice": 0.98,
       "isOldPriceMSRP": false,
+      "priceReduction": "2 pour",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
       "isDrainedWeight": false,
-      "salesUnit2": "pièce",
-      "salesUnitFormatted": "pièce",
+      "salesUnit2": "2 pcs",
+      "salesUnitFormatted": "2 pcs",
       "showPrice": true,
       "showQuantities": true,
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/738/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/0738_ciabatta_01.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -19048,7 +19049,8 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/petit-pain-ciabatta-738-1-0.article.html#/fr/produits/assortiment/pain-et-patisseries/petits-pains",
-      "priceFormatted": "0.49",
+      "priceFormatted": "0.80",
+      "oldPriceFormatted": "0.98",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/738/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/pain-et-patisseries/petits-pains/snippet-738-1-0.shoppinglisttile.article.html",
@@ -19090,7 +19092,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 0.49
+      "price": 0.8
     },
     {
       "articlePath": "products/Asssortiment/vis-zeevruchten/737-1-0",
@@ -19605,9 +19607,8 @@
       "salesUnitFormatted": "6 x 50 cl",
       "showPrice": true,
       "showQuantities": true,
-      "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/95714.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/95714.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/95714.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/95714.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/95714.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/95714.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/95714.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/95714.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/0727_sportdrank_24-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/0727_sportdrank_24-0-grp.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/0727_sportdrank_24-0-grp.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/0727_sportdrank_24-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/0727_sportdrank_24-0-grp.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/0727_sportdrank_24-0-grp.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/0727_sportdrank_24-0-grp.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/0727_sportdrank_24-0-grp.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/0727_sportdrank_24-0-grp.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET21/0727_sportdrank_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET21/0727_sportdrank_26-0-grp.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET21/0727_sportdrank_26-0-grp.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET21/0727_sportdrank_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET21/0727_sportdrank_26-0-grp.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET21/0727_sportdrank_26-0-grp.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET21/0727_sportdrank_26-0-grp.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET21/0727_sportdrank_26-0-grp.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET21/0727_sportdrank_26-0-grp.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPictureAltText": "Boisson de sport, 6 pcs",
       "productPictureTitleText": "Boisson de sport, 6 pcs",
       "footnotes": [
@@ -27313,7 +27314,7 @@
         "lvl2": "Page d'accueil > Produits > Assortiment",
         "lvl3": "Page d'accueil > Produits > Assortiment > Fruits frais"
       },
-      "shortDescription": "<p>emball&eacute;es, origine: Serbie</p>",
+      "shortDescription": "<ul><br /><li>Des petits fruits &agrave; petit prix, c&rsquo;est chez ALDI.</li><br /><li>Nous go&ucirc;tons nos fruits nous-m&ecirc;mes. Plusieurs fois ! Ainsi, vous &ecirc;tes s&ucirc;r d&rsquo;avoir les meilleures myrtilles.</li><br /></ul><br /><p>emball&eacute;es, origine : Pologne</p>",
       "longDescription": "Les myrtilles sont une bonne source de vitamine K. En mangeant des myrtilles, vous soutenez le fonctionnement normal de vos os. En outre, elles sont pauvres en calories. Cela est dû au fait qu’elles sont composées d'eau en grande partie. Dans le discours populaire, il est souvent dit que les myrtilles sont bonnes pour votre cœur. Cela aurait-il à voir avec le fait que la présence de vitamine K dans la myrtille assure une bonne coagulation du sang ? Les myrtilles sont un ajout savoureux à votre petit déjeuner. Comme dans ce délicieux crumble pour petit-déjeuner composé de pommes et de myrtilles avec du yaourt sucré. Mais elles sont également parfaites pour les plats chauds. Que diriez-vous de cette pizza au prosciutto et aux myrtilles ? Ou ce ragoût de sanglier aux myrtilles et aux prunes séchées ?",
       "energyEfficiencyIndex": 0,
       "isOldPriceMSRP": false,
@@ -27362,7 +27363,7 @@
           }
         ],
         "shortDescription": {
-          "value": "<p>emballées, origine: Serbie</p>",
+          "value": "<ul><br /><li>Des petits fruits à petit prix, c&rsquo;est chez ALDI.</li><br /><li>Nous goûtons nos fruits nous-mêmes. Plusieurs fois ! Ainsi, vous êtes sûr d&rsquo;avoir les meilleures myrtilles.</li><br /></ul><br /><p>emballées, origine : Pologne</p>",
           "matchLevel": "none",
           "matchedWords": []
         },
@@ -28208,7 +28209,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/gouda-holland-6637-1-0.article.html#/fr/produits/aldi-50-ans",
       "priceFormatted": "2.69",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-10-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6637/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/aldi-50-ans/snippet-6637-1-0.shoppinglisttile.article.html",
@@ -30179,16 +30179,14 @@
       "shortDescription": "<ul><br /><li>&agrave; base de lait de vache pasteuris&eacute;</li><br /><li>choix entre Classic (45 % de mati&egrave;res grasses sur extrait sec) et Light (20 % de mati&egrave;res grasses sur extrait sec)</li><br /></ul>",
       "longDescription": "Le maître fromager Frederic Van Tricht a évalué à l'aveugle le goût et la texture de 10 mozzarellas du supermarché pour le quotidien flamand Het Laatste Nieuws (16/08/2025). La mozzarella CUCINA® d'ALDI a reçu une bonne note de 8/10 et a ainsi remporté une deuxième place partagée. « J'ai l'impression d'avoir un ‘nuage’ dans la bouche. Vraiment douce et crémeuse. »",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 1.24,
-      "oldPrice": 1.38,
+      "salesPrice": 0.69,
       "isOldPriceMSRP": false,
-      "priceReduction": "2e à -20%",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "4.96/kg",
+      "multipleBasePrices": "5.52/kg",
       "isDrainedWeight": false,
-      "salesUnit2": "2 x 125 g",
-      "salesUnitFormatted": "2 x 125 g",
+      "salesUnit2": "125 g",
+      "salesUnitFormatted": "125 g",
       "showPrice": true,
       "showQuantities": true,
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6586/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/6586_mozzarella-kanjer-hln-gg-prim_26-2a.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -30202,8 +30200,7 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/mozzarella-6586-1-0.article.html#/fr/produits/aldi-50-ans",
-      "priceFormatted": "1.24",
-      "oldPriceFormatted": "1.38",
+      "priceFormatted": "0.69",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6586/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/aldi-50-ans/snippet-6586-1-0.shoppinglisttile.article.html",
@@ -30265,7 +30262,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 1.24
+      "price": 0.69
     },
     {
       "articlePath": "products/zomerassortiment/6581-1-0",
@@ -38423,7 +38420,7 @@
     {
       "articlePath": "products/Asssortiment/brood-en-banket/brood/6193-1-0",
       "isHomeBrand": false,
-      "productName": "Pain blanc suédois frais",
+      "productName": "Pain blanc suédois ",
       "breadcrumb": [
         "Page d'accueil",
         "Produits",
@@ -38442,7 +38439,7 @@
         "lvl3": "Page d'accueil > Produits > Assortiment > Pain et pâtisseries",
         "lvl4": "Page d'accueil > Produits > Assortiment > Pain et pâtisseries > Pain frais"
       },
-      "shortDescription": "<p>tranch&eacute;</p>",
+      "shortDescription": "<p>frais du jour, tranch&eacute;</p>",
       "longDescription": "Nos pains, petits pains et viennoiseries frais sont délicieux et pratiques lorsque vous n’avez pas beaucoup le temps. Mais de temps en temps, vous pouvez avoir envie de mettre la main à la pâte vous-même et de préparer votre propre petit déjeuner. Bonne nouvelle, car nous avons tout ce dont vous avez besoin ! Avec notre préparation pour pains blancs et notre préparation pour pains gris, vous pourrez préparer un « grand pain carré » chaud en un rien de temps. Si vous voulez vraiment partir de zéro, vous trouverez également tous les ingrédients nécessaires dans notre gamme. Mettez-vous au travail dans votre cuisine et ajoutez des noix, des graines et des grains à votre pâte pour obtenir un pain encore plus délicieux !",
       "energyEfficiencyIndex": 0,
       "salesPrice": 2.29,
@@ -38455,17 +38452,17 @@
       "salesUnitFormatted": "800 g",
       "showPrice": true,
       "showQuantities": true,
-      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6193_vers_wit_zweeds_brood_in_mandje_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6193_vers_wit_zweeds_brood_in_mandje_25-1.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6193_vers_wit_zweeds_brood_in_mandje_25-1.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6193_vers_wit_zweeds_brood_in_mandje_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6193_vers_wit_zweeds_brood_in_mandje_25-1.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6193_vers_wit_zweeds_brood_in_mandje_25-1.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6193_vers_wit_zweeds_brood_in_mandje_25-1.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6193_vers_wit_zweeds_brood_in_mandje_25-1.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6193_vers_wit_zweeds_brood_in_mandje_25-1.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPictureAltText": "Pain blanc suédois frais",
-      "productPictureTitleText": "Pain blanc suédois frais",
+      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6193_vers_wit_zweeds_brood_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6193_vers_wit_zweeds_brood_26-2.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6193_vers_wit_zweeds_brood_26-2.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6193_vers_wit_zweeds_brood_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6193_vers_wit_zweeds_brood_26-2.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6193_vers_wit_zweeds_brood_26-2.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6193_vers_wit_zweeds_brood_26-2.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6193_vers_wit_zweeds_brood_26-2.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6193_vers_wit_zweeds_brood_26-2.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "productPictureAltText": "Pain blanc suédois",
+      "productPictureTitleText": "Pain blanc suédois",
       "footnotes": [
         false,
         false,
         false,
         false
       ],
-      "productUrl": "https://www.aldi.be/fr/p/pain-blanc-suedois-frais-6193-1-0.article.html#/fr/produits/assortiment/pain-et-patisseries/pain",
+      "productUrl": "https://www.aldi.be/fr/p/pain-blanc-suedois-6193-1-0.article.html#/fr/produits/assortiment/pain-et-patisseries/pain",
       "priceFormatted": "2.29",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/jcr:content",
       "reminderEnabled": false,
@@ -38478,7 +38475,7 @@
       "objectID": "6193-1-0",
       "_highlightResult": {
         "productName": {
-          "value": "Pain blanc suédois frais",
+          "value": "Pain blanc suédois ",
           "matchLevel": "none",
           "matchedWords": []
         },
@@ -38495,12 +38492,12 @@
           }
         ],
         "shortDescription": {
-          "value": "<p>tranché</p>",
+          "value": "<p>frais du jour, tranché</p>",
           "matchLevel": "none",
           "matchedWords": []
         },
         "productUrl": {
-          "value": "https://www.aldi.be/fr/p/pain-blanc-suedois-frais-6193-1-0.article.html#/fr/produits/assortiment/pain-et-patisseries/pain",
+          "value": "https://www.aldi.be/fr/p/pain-blanc-suedois-6193-1-0.article.html#/fr/produits/assortiment/pain-et-patisseries/pain",
           "matchLevel": "none",
           "matchedWords": []
         }
@@ -39119,7 +39116,7 @@
         "lvl2": "Page d'accueil > Produits > Assortiment",
         "lvl3": "Page d'accueil > Produits > Assortiment > Fruits frais"
       },
-      "shortDescription": "<p>emball&eacute;es</p>",
+      "shortDescription": "<p>emball&eacute;es, origine : Espagne</p>",
       "energyEfficiencyIndex": 0,
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
@@ -39162,7 +39159,7 @@
           }
         ],
         "shortDescription": {
-          "value": "<p>emballées</p>",
+          "value": "<p>emballées, origine : Espagne</p>",
           "matchLevel": "none",
           "matchedWords": []
         },
@@ -39772,7 +39769,6 @@
       "salesUnitFormatted": "500 g",
       "showPrice": false,
       "showQuantities": true,
-      "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/150628.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/150628.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/150628.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/150628.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/150628.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/150628.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/150628.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/150628.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/6128_blauwe_druiven_verpakking_24-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/6128_blauwe_druiven_verpakking_24-2.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/6128_blauwe_druiven_verpakking_24-2.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/6128_blauwe_druiven_verpakking_24-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/6128_blauwe_druiven_verpakking_24-2.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/6128_blauwe_druiven_verpakking_24-2.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/6128_blauwe_druiven_verpakking_24-2.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/6128_blauwe_druiven_verpakking_24-2.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6128/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/6128_blauwe_druiven_verpakking_24-2.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPictureAltText": "Raisins noirs sans pépins",
@@ -43288,7 +43284,7 @@
         "lvl3": "Page d'accueil > Produits > Assortiment > Ménage",
         "lvl4": "Page d'accueil > Produits > Assortiment > Ménage > Produits de nettoyage"
       },
-      "shortDescription": "<p>15 &deg;Chl, nettoie et d&eacute;sodorise, choix entre lavande et pin</p>",
+      "shortDescription": "<p>15&deg; chloor, nettoie et d&eacute;sodorise, choix entre lavande et pin</p>",
       "energyEfficiencyIndex": 0,
       "salesPrice": 1.99,
       "isOldPriceMSRP": false,
@@ -43345,7 +43341,7 @@
           }
         ],
         "shortDescription": {
-          "value": "<p>15 °Chl, nettoie et désodorise, choix entre lavande et pin</p>",
+          "value": "<p>15° chloor, nettoie et désodorise, choix entre lavande et pin</p>",
           "matchLevel": "none",
           "matchedWords": []
         },
@@ -47755,12 +47751,15 @@
       },
       "shortDescription": "<p>saumon atlantique sans peau ni ar&ecirc;tes, 2 portions, saumon certifi&eacute; GGN</p>",
       "energyEfficiencyIndex": 0,
+      "salesPrice": 5.99,
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
+      "isSimpleBasePrice": false,
+      "multipleBasePrices": "23.96/kg",
       "isDrainedWeight": false,
       "salesUnit2": "250 g",
       "salesUnitFormatted": "250 g",
-      "showPrice": false,
+      "showPrice": true,
       "showQuantities": true,
       "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/135412.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/135412.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/135412.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/135412.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/135412.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/135412.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/135412.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/_jcr_content/assets/imported-images/BILD_INTERNET17/135412.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/5328_zalmfilet_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -47774,6 +47773,7 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/filets-de-saumon-2-pcs-5328-1-0.article.html#/fr/produits/assortiment/poisson-fruits-de-mer",
+      "priceFormatted": "5.99",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/poisson-fruits-de-mer/snippet-5328-1-0.shoppinglisttile.article.html",
@@ -47824,7 +47824,8 @@
       },
       "is_promotion": false,
       "promo_text": null,
-      "valid_until": null
+      "valid_until": null,
+      "price": 5.99
     },
     {
       "articlePath": "products/Asssortiment/cadeaubonnen-en-herlaadkaarten/5324-1-0",
@@ -52489,7 +52490,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/coulis-dessert-4955-1-0.article.html#/fr/produits/assortiment-d-ete",
       "priceFormatted": "1.99",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-10-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4955/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment-d-ete/snippet-4955-1-0.shoppinglisttile.article.html",
@@ -52556,14 +52556,16 @@
       },
       "shortDescription": "<p>boisson lact&eacute;e &agrave; base de lait demi-&eacute;cr&eacute;m&eacute;, emballage refermable</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 0.99,
+      "salesPrice": 2.97,
+      "oldPrice": 3.96,
       "isOldPriceMSRP": false,
+      "priceReduction": "3+1 gratuit",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "4.95/l",
+      "multipleBasePrices": "3.71/l",
       "isDrainedWeight": false,
-      "salesUnit2": "200 ml",
-      "salesUnitFormatted": "200 ml",
+      "salesUnit2": "4 x 200 ml",
+      "salesUnitFormatted": "4 x 200 ml",
       "showPrice": true,
       "showQuantities": true,
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4933/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4933_milkshake_aardbei_of_banaan_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -52577,7 +52579,8 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/milkshake-fraise-ou-banane-4933-1-0.article.html#/fr/produits/marques-aldi/milsani",
-      "priceFormatted": "0.99",
+      "priceFormatted": "2.97",
+      "oldPriceFormatted": "3.96",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4933/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/marques-aldi/milsani/snippet-4933-1-0.shoppinglisttile.article.html",
@@ -52624,7 +52627,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 0.99
+      "price": 2.97
     },
     {
       "articlePath": "products/kanjers/4929-1-0",
@@ -52842,14 +52845,16 @@
       "shortDescription": "boisson lactée à base de lait demi-écrémé, emballage refermable",
       "longDescription": "  ",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 0.99,
+      "salesPrice": 2.97,
+      "oldPrice": 3.96,
       "isOldPriceMSRP": false,
+      "priceReduction": "3+1 gratuit",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "4.95/l",
+      "multipleBasePrices": "3.71/l",
       "isDrainedWeight": false,
-      "salesUnit2": "200 ml",
-      "salesUnitFormatted": "200 ml",
+      "salesUnit2": "4 x 200 ml",
+      "salesUnitFormatted": "4 x 200 ml",
       "showPrice": true,
       "showQuantities": true,
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4909/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4909_milkshake_chocolade_of_vanille_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -52863,7 +52868,8 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/milkshake-chocolat-ou-vanille-4909-1-0.article.html#/fr/produits/marques-aldi/milsani",
-      "priceFormatted": "0.99",
+      "priceFormatted": "2.97",
+      "oldPriceFormatted": "3.96",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4909/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/marques-aldi/milsani/snippet-4909-1-0.shoppinglisttile.article.html",
@@ -52910,7 +52916,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 0.99
+      "price": 2.97
     },
     {
       "articlePath": "products/Asssortiment/melkproducten-kaas/kaas/4895-1-0",
@@ -57049,8 +57055,8 @@
       "salesUnitFormatted": "450 g",
       "showPrice": true,
       "showQuantities": true,
-      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/4596_aardbeienconfituur-kanjer-winwin-gg-art_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/4596_aardbeienconfituur-kanjer-winwin-gg-art_26-1.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/4596_aardbeienconfituur-kanjer-winwin-gg-art_26-1.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/4596_aardbeienconfituur-kanjer-winwin-gg-art_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/4596_aardbeienconfituur-kanjer-winwin-gg-art_26-1.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/4596_aardbeienconfituur-kanjer-winwin-gg-art_26-1.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/4596_aardbeienconfituur-kanjer-winwin-gg-art_26-1.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/4596_aardbeienconfituur-kanjer-winwin-gg-art_26-1.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/4596_aardbeienconfituur-kanjer-winwin-gg-art_26-1.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/4596_aardbeienconfituur-kanjer-winwin-prim_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/4596_aardbeienconfituur-kanjer-winwin-prim_26-2.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/4596_aardbeienconfituur-kanjer-winwin-prim_26-2.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/4596_aardbeienconfituur-kanjer-winwin-prim_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/4596_aardbeienconfituur-kanjer-winwin-prim_26-2.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/4596_aardbeienconfituur-kanjer-winwin-prim_26-2.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/4596_aardbeienconfituur-kanjer-winwin-prim_26-2.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/4596_aardbeienconfituur-kanjer-winwin-prim_26-2.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/4596_aardbeienconfituur-kanjer-winwin-prim_26-2.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPictureAltText": "Confiture de fraises",
       "productPictureTitleText": "Confiture de fraises",
       "footnotes": [
@@ -57244,7 +57250,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/cabernet-shiraz-cubi-4594-1-0.article.html#/fr/produits/assortiment/boissons-alcoolisees/vin/vin-rouge",
       "priceFormatted": "11.99",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-10-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4594/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/boissons-alcoolisees/vin/vin-rouge/snippet-4594-1-0.shoppinglisttile.article.html",
@@ -62299,11 +62304,11 @@
       },
       "shortDescription": "<p>d&eacute;noyaut&eacute;es, au sirop, 680 g</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 2.49,
+      "salesPrice": 2.79,
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "3.66/kg",
+      "multipleBasePrices": "4.10/kg",
       "isDrainedWeight": false,
       "salesUnit2": "680 g",
       "salesUnitFormatted": "680 g",
@@ -62321,7 +62326,7 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/cerises-du-nord-4122-1-0.article.html#/fr/produits/assortiment/conserves",
-      "priceFormatted": "2.49",
+      "priceFormatted": "2.79",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4122/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/conserves/snippet-4122-1-0.shoppinglisttile.article.html",
@@ -62368,7 +62373,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 2.49
+      "price": 2.79
     },
     {
       "articlePath": "products/Asssortiment/conserven/4121-1-0",
@@ -62574,11 +62579,13 @@
       },
       "shortDescription": "choix entre pomme, pomme/fraise, pomme/banane et multifruits",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 1.55,
+      "salesPrice": 3.1,
+      "oldPrice": 4.65,
       "isOldPriceMSRP": false,
+      "priceReduction": "2+1 gratuit",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "4.31/kg",
+      "multipleBasePrices": "8.61/kg",
       "isDrainedWeight": false,
       "salesUnit2": "4 x 90 g",
       "salesUnitFormatted": "4 x 90 g",
@@ -62595,7 +62602,8 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/compote-de-fruits-4-pcs-4108-1-0.article.html#/fr/produits/assortiment/conserves",
-      "priceFormatted": "1.55",
+      "priceFormatted": "3.10",
+      "oldPriceFormatted": "4.65",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4108/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/conserves/snippet-4108-1-0.shoppinglisttile.article.html",
@@ -62642,7 +62650,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 1.55
+      "price": 3.1
     },
     {
       "articlePath": "products/Asssortiment/conserven/4105-1-0",
@@ -65482,7 +65490,7 @@
     {
       "articlePath": "products/Asssortiment/brood-en-banket/brood/3963-1-0",
       "isHomeBrand": false,
-      "productName": "Pain multicéréales frais",
+      "productName": "Pain complet",
       "breadcrumb": [
         "Page d'accueil",
         "Produits",
@@ -65503,31 +65511,34 @@
         "lvl3": "Page d'accueil > Produits > Assortiment > Pain et pâtisseries",
         "lvl4": "Page d'accueil > Produits > Assortiment > Pain et pâtisseries > Pain frais"
       },
-      "shortDescription": "<p>tranch&eacute;</p>",
+      "shortDescription": "<p>frais du jour, pain tranch&eacute;</p>",
       "longDescription": "Les céréales contiennent notamment des protéines, des fibres alimentaires et des minéraux tels que l'iode et le fer. Délicieux et bon pour votre corps, en somme ! N'hésitez pas à jeter un coup d'œil à nos autres pains frais, à nos petits pains frais et à nos produits à tartiner.",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 1.95,
+      "salesPrice": 1.75,
+      "oldPrice": 1.95,
       "isOldPriceMSRP": false,
+      "priceReduction": "PROMO",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "3.25/kg",
+      "multipleBasePrices": "2.92/kg",
       "isDrainedWeight": false,
       "salesUnit2": "600 g",
       "salesUnitFormatted": "600 g",
       "showPrice": true,
       "showQuantities": true,
-      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3963_vers_meergranenbrood_2002-01.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3963_vers_meergranenbrood_2002-01.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3963_vers_meergranenbrood_2002-01.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3963_vers_meergranenbrood_2002-01.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3963_vers_meergranenbrood_2002-01.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3963_vers_meergranenbrood_2002-01.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3963_vers_meergranenbrood_2002-01.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3963_vers_meergranenbrood_2002-01.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3963_vers_meergranenbrood_2002-01.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPictureAltText": "Pain multicéréales frais",
-      "productPictureTitleText": "Pain multicéréales frais",
+      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/3963_vers_meergranenbrood_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/3963_vers_meergranenbrood_26-2.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/3963_vers_meergranenbrood_26-2.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/3963_vers_meergranenbrood_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/3963_vers_meergranenbrood_26-2.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/3963_vers_meergranenbrood_26-2.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/3963_vers_meergranenbrood_26-2.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/3963_vers_meergranenbrood_26-2.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/3963_vers_meergranenbrood_26-2.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "productPictureAltText": "Pain complet",
+      "productPictureTitleText": "Pain complet",
       "footnotes": [
         false,
         false,
         false,
         false
       ],
-      "productUrl": "https://www.aldi.be/fr/p/pain-multicereales-frais-3963-1-0.article.html#/fr/produits/assortiment/pain-et-patisseries/pain",
-      "priceFormatted": "1.95",
+      "productUrl": "https://www.aldi.be/fr/p/pain-complet-3963-1-0.article.html#/fr/produits/assortiment/pain-et-patisseries/pain",
+      "priceFormatted": "1.75",
+      "oldPriceFormatted": "1.95",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/pain-et-patisseries/pain/snippet-3963-1-0.shoppinglisttile.article.html",
@@ -65539,7 +65550,7 @@
       "objectID": "3963-1-0",
       "_highlightResult": {
         "productName": {
-          "value": "Pain multicéréales frais",
+          "value": "Pain complet",
           "matchLevel": "none",
           "matchedWords": []
         },
@@ -65566,12 +65577,12 @@
           }
         ],
         "shortDescription": {
-          "value": "<p>tranché</p>",
+          "value": "<p>frais du jour, pain tranché</p>",
           "matchLevel": "none",
           "matchedWords": []
         },
         "productUrl": {
-          "value": "https://www.aldi.be/fr/p/pain-multicereales-frais-3963-1-0.article.html#/fr/produits/assortiment/pain-et-patisseries/pain",
+          "value": "https://www.aldi.be/fr/p/pain-complet-3963-1-0.article.html#/fr/produits/assortiment/pain-et-patisseries/pain",
           "matchLevel": "none",
           "matchedWords": []
         }
@@ -65579,7 +65590,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 1.95
+      "price": 1.75
     },
     {
       "articlePath": "products/Asssortiment/snacks-zoetigheden/Chocolade/3958-1-0",
@@ -67222,7 +67233,7 @@
     {
       "articlePath": "products/bioproducten/3832-1-0",
       "isHomeBrand": false,
-      "productName": "Mélange d'herbes bio",
+      "productName": "Herbes bio",
       "breadcrumb": [
         "Page d'accueil",
         "Produits",
@@ -67249,15 +67260,15 @@
       "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/95720.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/95720.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/95720.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/95720.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/95720.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/95720.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/95720.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/95720.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/3832_bio_tuinkruidenmix_per_stuk-nl-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/3832_bio_tuinkruidenmix_per_stuk-nl-grp.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/3832_bio_tuinkruidenmix_per_stuk-nl-grp.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/3832_bio_tuinkruidenmix_per_stuk-nl-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/3832_bio_tuinkruidenmix_per_stuk-nl-grp.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/3832_bio_tuinkruidenmix_per_stuk-nl-grp.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/3832_bio_tuinkruidenmix_per_stuk-nl-grp.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/3832_bio_tuinkruidenmix_per_stuk-nl-grp.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/3832_bio_tuinkruidenmix_per_stuk-nl-grp.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPictureAltText": "Mélange d'herbes bio",
-      "productPictureTitleText": "Mélange d'herbes bio",
+      "productPictureAltText": "Herbes bio",
+      "productPictureTitleText": "Herbes bio",
       "footnotes": [
         false,
         false,
         false,
         false
       ],
-      "productUrl": "https://www.aldi.be/fr/p/melange-d-herbes-bio-3832-1-0.article.html#/fr/produits/produits-bio",
+      "productUrl": "https://www.aldi.be/fr/p/herbes-bio-3832-1-0.article.html#/fr/produits/produits-bio",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/produits-bio/snippet-3832-1-0.shoppinglisttile.article.html",
@@ -67269,7 +67280,7 @@
       "objectID": "3832-1-0",
       "_highlightResult": {
         "productName": {
-          "value": "Mélange d'herbes bio",
+          "value": "Herbes bio",
           "matchLevel": "none",
           "matchedWords": []
         },
@@ -67291,7 +67302,7 @@
           "matchedWords": []
         },
         "productUrl": {
-          "value": "https://www.aldi.be/fr/p/melange-d-herbes-bio-3832-1-0.article.html#/fr/produits/produits-bio",
+          "value": "https://www.aldi.be/fr/p/herbes-bio-3832-1-0.article.html#/fr/produits/produits-bio",
           "matchLevel": "none",
           "matchedWords": []
         }
@@ -71772,14 +71783,16 @@
       },
       "shortDescription": "<p>minibiscuits au go&ucirc;t de vanille, 6 sachets de 25&nbsp;g</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 1.49,
+      "salesPrice": 2.98,
+      "oldPrice": 4.47,
       "isOldPriceMSRP": false,
+      "priceReduction": "2+1 gratuit",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "9.93/kg",
+      "multipleBasePrices": "6.62/kg",
       "isDrainedWeight": false,
-      "salesUnit2": "6 x 25 g",
-      "salesUnitFormatted": "6 x 25 g",
+      "salesUnit2": "3 x (6 x 25 g)",
+      "salesUnitFormatted": "3 x (6 x 25 g)",
       "showPrice": true,
       "showQuantities": true,
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3558/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/3558_huggy_bears-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -71793,7 +71806,8 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/huggy-bears-6-pcs-3558-1-0.article.html#/fr/produits/aldi-50-ans",
-      "priceFormatted": "1.49",
+      "priceFormatted": "2.98",
+      "oldPriceFormatted": "4.47",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3558/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/aldi-50-ans/snippet-3558-1-0.shoppinglisttile.article.html",
@@ -71845,7 +71859,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 1.49
+      "price": 2.98
     },
     {
       "articlePath": "products/aldi-50-jaar/3553-1-0",
@@ -73014,14 +73028,16 @@
       },
       "shortDescription": "<p>source de fibres, choix entre raisins secs, fruits des bois et pomme, 6&nbsp;x&nbsp;3&nbsp;pi&egrave;ces</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 1.69,
+      "salesPrice": 3.0,
+      "oldPrice": 3.38,
       "isOldPriceMSRP": false,
+      "priceReduction": "2 pour",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "6.45/kg",
+      "multipleBasePrices": "5.73/kg",
       "isDrainedWeight": false,
-      "salesUnit2": "262 g",
-      "salesUnitFormatted": "262 g",
+      "salesUnit2": "2 x 262 g",
+      "salesUnitFormatted": "2 x 262 g",
       "showPrice": true,
       "showQuantities": true,
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3502/1/0/_jcr_content/assets/imported-images/BILD_INTERNET11/3502_krentenbiscuits_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -73035,7 +73051,8 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/biscuits-aux-raisins-secs-pack-de-6-3502-1-0.article.html#/fr/produits/assortiment/collations-sucreries/biscuits",
-      "priceFormatted": "1.69",
+      "priceFormatted": "3.00",
+      "oldPriceFormatted": "3.38",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3502/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/collations-sucreries/biscuits/snippet-3502-1-0.shoppinglisttile.article.html",
@@ -73082,7 +73099,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 1.69
+      "price": 3.0
     },
     {
       "articlePath": "products/Asssortiment/snacks-zoetigheden/zoet-gebak-koeken/3500-1-0",
@@ -73553,7 +73570,7 @@
         "lvl2": "Page d'accueil > Produits > Assortiment",
         "lvl3": "Page d'accueil > Produits > Assortiment > Fruits frais"
       },
-      "shortDescription": "<p>en vrac, origine : P&eacute;rou</p>",
+      "shortDescription": "<ul><br /><li>cette offre est un vrai avo-cadeau !</li><br /><li>contr&ocirc;l&eacute;s 3 fois par jour ? des avocats de qualit&eacute;, toujours !</li><br /></ul><br /><p>en vrac, origine : P&eacute;rou</p>",
       "energyEfficiencyIndex": 0,
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
@@ -73596,7 +73613,7 @@
           }
         ],
         "shortDescription": {
-          "value": "<p>en vrac, origine : Pérou</p>",
+          "value": "<ul><br /><li>cette offre est un vrai avo-cadeau !</li><br /><li>contrôlés 3 fois par jour ? des avocats de qualité, toujours !</li><br /></ul><br /><p>en vrac, origine : Pérou</p>",
           "matchLevel": "none",
           "matchedWords": []
         },
@@ -79302,11 +79319,12 @@
       },
       "shortDescription": "<p>convient aux pr&eacute;parations froides telles que les salades et les vinaigrettes, en bouteille PET</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 7.99,
+      "salesPrice": 6.99,
+      "oldPrice": 7.99,
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "7.99/l",
+      "multipleBasePrices": "6.99/l",
       "isDrainedWeight": false,
       "salesUnit2": "1 l",
       "salesUnitFormatted": "1 l",
@@ -79324,7 +79342,8 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/huile-d-olive-extra-vierge-3177-1-0.article.html#/fr/produits/prix-reduit",
-      "priceFormatted": "7.99",
+      "priceFormatted": "6.99",
+      "oldPriceFormatted": "7.99",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3177/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/prix-reduit/snippet-3177-1-0.shoppinglisttile.article.html",
@@ -79371,7 +79390,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 7.99
+      "price": 6.99
     },
     {
       "articlePath": "products/Asssortiment/vegetarisch-vegan/3172-1-0",
@@ -81804,7 +81823,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/dentifrice-sensitive-3015910-1-0.article.html#/fr/produits/assortiment/produits-cosmetiques-soins/soins-dentaires",
       "priceFormatted": "4.39",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-10-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015910/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/produits-cosmetiques-soins/soins-dentaires/snippet-3015910-1-0.shoppinglisttile.article.html",
@@ -82324,7 +82342,7 @@
       "salesUnitFormatted": "440 g, poids variable",
       "showPrice": true,
       "showQuantities": true,
-      "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/95698.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/95698.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/95698.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/95698.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/95698.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/95698.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/95698.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/95698.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3015383_cordon_bleu_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3015383_cordon_bleu_op_plankje_26-1.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3015383_cordon_bleu_op_plankje_26-1.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3015383_cordon_bleu_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3015383_cordon_bleu_op_plankje_26-1.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3015383_cordon_bleu_op_plankje_26-1.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3015383_cordon_bleu_op_plankje_26-1.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3015383_cordon_bleu_op_plankje_26-1.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015383/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3015383_cordon_bleu_op_plankje_26-1.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPictureAltText": "Cordon bleu, 2 pcs",
@@ -82543,6 +82561,93 @@
         },
         "productUrl": {
           "value": "https://www.aldi.be/fr/p/morceaux-d-ananas-3015254-1-0.article.html#/fr/produits/assortiment/conserves",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "is_promotion": false,
+      "promo_text": null,
+      "valid_until": null,
+      "price": 2.49
+    },
+    {
+      "articlePath": "products/Asssortiment/conserven/3015253-1-0",
+      "brandName": "DAYLICIOUS®",
+      "isHomeBrand": false,
+      "productName": "Morceaux de mangue",
+      "breadcrumb": [
+        "Page d'accueil",
+        "Produits",
+        "Assortiment",
+        "Conserves"
+      ],
+      "categories": [
+        "Conserven"
+      ],
+      "hierarchicalCategories": {
+        "lvl0": "Page d'accueil",
+        "lvl1": "Page d'accueil > Produits",
+        "lvl2": "Page d'accueil > Produits > Assortiment",
+        "lvl3": "Page d'accueil > Produits > Assortiment > Conserves"
+      },
+      "shortDescription": "<p>emball&eacute;s, origine : divers</p>",
+      "energyEfficiencyIndex": 0,
+      "salesPrice": 2.49,
+      "isOldPriceMSRP": false,
+      "hasPricePerVariant": false,
+      "isSimpleBasePrice": false,
+      "multipleBasePrices": "10.83/kg",
+      "isDrainedWeight": false,
+      "salesUnit2": "230 g",
+      "salesUnitFormatted": "230 g",
+      "showPrice": true,
+      "showQuantities": true,
+      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015253-9682_ananas_of_mangoblokjes_25-2b.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015253-9682_ananas_of_mangoblokjes_25-2b.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015253-9682_ananas_of_mangoblokjes_25-2b.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015253-9682_ananas_of_mangoblokjes_25-2b.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015253-9682_ananas_of_mangoblokjes_25-2b.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015253-9682_ananas_of_mangoblokjes_25-2b.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015253-9682_ananas_of_mangoblokjes_25-2b.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015253-9682_ananas_of_mangoblokjes_25-2b.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015253-9682_ananas_of_mangoblokjes_25-2b.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "productPictureAltText": "Morceaux de mangue",
+      "productPictureTitleText": "Morceaux de mangue",
+      "footnotes": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "productUrl": "https://www.aldi.be/fr/p/morceaux-de-mangue-3015253-1-0.article.html#/fr/produits/assortiment/conserves",
+      "priceFormatted": "2.49",
+      "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/jcr:content",
+      "reminderEnabled": false,
+      "tileURL": "/fr/produits/assortiment/conserves/snippet-3015253-1-0.shoppinglisttile.article.html",
+      "availability": "NONE",
+      "recallEnabled": false,
+      "isBiocidalProduct": false,
+      "recommendationEnabled": false,
+      "articleFlagsLabels": {},
+      "objectID": "3015253-1-0",
+      "_highlightResult": {
+        "brandName": {
+          "value": "DAYLICIOUS®",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "productName": {
+          "value": "Morceaux de mangue",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": [
+          {
+            "value": "Conserven",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "shortDescription": {
+          "value": "<p>emballés, origine : divers</p>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "productUrl": {
+          "value": "https://www.aldi.be/fr/p/morceaux-de-mangue-3015253-1-0.article.html#/fr/produits/assortiment/conserves",
           "matchLevel": "none",
           "matchedWords": []
         }
@@ -83425,7 +83530,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/biere-blonde-en-canette-3015156-1-0.article.html#/fr/produits/assortiment/boissons-alcoolisees/biere",
       "priceFormatted": "2.75",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-10-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015156/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/boissons-alcoolisees/biere/snippet-3015156-1-0.shoppinglisttile.article.html",
@@ -83776,11 +83880,11 @@
       },
       "shortDescription": "<p>prot&egrave;ge vos v&ecirc;tements contre le r&eacute;tr&eacute;cissement et l'&eacute;tirement, choix entre laine &amp; soie et noir,</p><br /><p>Laine &amp; Soie :<br />- Pr&eacute;serve la douceur de tous vos tissus d&eacute;licats<br />- Nettoie et rafra&icirc;chit tous vos v&ecirc;tements<br />- Prot&egrave;ge les fibres</p><br /><p>Noir (tissus fonc&eacute;s et denim) :<br />- Prot&egrave;ge les couleurs et les fibres<br />- Nettoie et rafra&icirc;chit tous vos v&ecirc;tements</p><br /><p>&nbsp;</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 8.69,
+      "salesPrice": 9.59,
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "0.29/cycle",
+      "multipleBasePrices": "0.32/cycle",
       "isDrainedWeight": false,
       "salesUnit2": "30 cycles",
       "salesUnitFormatted": "30 cycles",
@@ -83797,7 +83901,7 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/lessive-liquide-3014982-1-0.article.html#/fr/produits/assortiment/menage/nos-detergents",
-      "priceFormatted": "8.69",
+      "priceFormatted": "9.59",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014982/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/menage/nos-detergents/snippet-3014982-1-0.shoppinglisttile.article.html",
@@ -83839,7 +83943,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 8.69
+      "price": 9.59
     },
     {
       "articlePath": "products/Asssortiment/vlees-charcuterie/rundsvlees/3014978-1-0",
@@ -84743,10 +84847,10 @@
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "14.53/kg",
+      "multipleBasePrices": "p.ex. 309 g - 14.53/kg",
       "isDrainedWeight": false,
-      "salesUnit2": "309 g, 309 g/363 g",
-      "salesUnitFormatted": "309 g, 309 g/363 g",
+      "salesUnit2": "309 g/363 g",
+      "salesUnitFormatted": "309 g/363 g",
       "showPrice": true,
       "showQuantities": true,
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014894/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014894_m-ms_crispy_of_choco_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -84761,7 +84865,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/m-m-s-crispy-ou-choco-3014894-1-0.article.html#/fr/produits/assortiment/collations-sucreries/Chocolade",
       "priceFormatted": "4.49",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-10-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014894/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/collations-sucreries/Chocolade/snippet-3014894-1-0.shoppinglisttile.article.html",
@@ -84941,7 +85044,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/m-m-s-peanut-3014892-1-0.article.html#/fr/produits/assortiment/collations-sucreries/Chocolade",
       "priceFormatted": "4.19",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-10-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014892/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/collations-sucreries/Chocolade/snippet-3014892-1-0.shoppinglisttile.article.html",
@@ -85104,11 +85206,13 @@
       },
       "shortDescription": "<p>la cr&eacute;atine am&eacute;liore les performances physiques lors de s&eacute;ries successives d'exercices courts et de haute intensit&eacute;, cet effet b&eacute;n&eacute;fique est obtenu avec un apport quotidien de 3 g de prot&eacute;ines, poudre au go&ucirc;t neutre</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 5.29,
+      "salesPrice": 4.0,
+      "oldPrice": 5.29,
       "isOldPriceMSRP": false,
+      "priceReduction": "-24%",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "26.45/kg",
+      "multipleBasePrices": "20.00/kg",
       "isDrainedWeight": false,
       "salesUnit2": "200 g",
       "salesUnitFormatted": "200 g",
@@ -85126,7 +85230,8 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/creatine-en-poudre-3014864-1-0.article.html#/fr/produits/nouveaux-produits",
-      "priceFormatted": "5.29",
+      "priceFormatted": "4.00",
+      "oldPriceFormatted": "5.29",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014864/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/nouveaux-produits/snippet-3014864-1-0.shoppinglisttile.article.html",
@@ -85173,7 +85278,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 5.29
+      "price": 4.0
     },
     {
       "articlePath": "products/Asssortiment/high-protein/3014863-1-0",
@@ -85468,13 +85573,11 @@
       },
       "shortDescription": "<p>snacks de ma&iuml;s au go&ucirc;t de fromage</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 1.59,
-      "oldPrice": 1.99,
+      "salesPrice": 1.99,
       "isOldPriceMSRP": false,
-      "priceReduction": "-20%",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "9.35/kg",
+      "multipleBasePrices": "11.71/kg",
       "isDrainedWeight": false,
       "salesUnit2": "170 g",
       "salesUnitFormatted": "170 g",
@@ -85491,8 +85594,7 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/bugles-nacho-cheese-3014817-1-0.article.html#/fr/produits/assortiment/collations-sucreries/chips-snacks-sales",
-      "priceFormatted": "1.59",
-      "oldPriceFormatted": "1.99",
+      "priceFormatted": "1.99",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014817/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/collations-sucreries/chips-snacks-sales/snippet-3014817-1-0.shoppinglisttile.article.html",
@@ -85534,7 +85636,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 1.59
+      "price": 1.99
     },
     {
       "articlePath": "products/Asssortiment/snacks-zoetigheden/chips-hartige-snacks/3014706-1-0",
@@ -86546,16 +86648,14 @@
       },
       "shortDescription": "<p>en flacon souple, aux &oelig;ufs ou au citron</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 4.33,
-      "oldPrice": 5.78,
+      "salesPrice": 2.89,
       "isOldPriceMSRP": false,
-      "priceReduction": "2e à -50%",
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "4.81/l",
+      "multipleBasePrices": "6.42/l",
       "isDrainedWeight": false,
-      "salesUnit2": "2 x 450 ml",
-      "salesUnitFormatted": "2 x 450 ml",
+      "salesUnit2": "450 ml",
+      "salesUnitFormatted": "450 ml",
       "showPrice": true,
       "showQuantities": true,
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014584/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/3014584_mayonaise_26-0b-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -86569,8 +86669,7 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/mayonnaise-3014584-1-0.article.html#/fr/produits/assortiment/patisserie-et-cuisine/sauces-et-vinaigrettes",
-      "priceFormatted": "4.33",
-      "oldPriceFormatted": "5.78",
+      "priceFormatted": "2.89",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014584/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/patisserie-et-cuisine/sauces-et-vinaigrettes/snippet-3014584-1-0.shoppinglisttile.article.html",
@@ -86612,7 +86711,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 4.33
+      "price": 2.89
     },
     {
       "articlePath": "products/Asssortiment/snacks-zoetigheden/zoet-gebak-koeken/3014582-1-0",
@@ -88975,9 +89074,9 @@
       "salesUnitFormatted": "300 g, poids variable",
       "showPrice": true,
       "showQuantities": true,
-      "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/95698.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPictureAltText": "Hachis de porc préparé",
       "productPictureTitleText": "Hachis de porc préparé",
       "footnotes": [
@@ -89159,9 +89258,9 @@
       "salesUnitFormatted": "500 g, poids variable",
       "showPrice": true,
       "showQuantities": true,
-      "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/95698.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "badgeRendition": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/95698.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/95698.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/95698.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/95698.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/95698.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/95698.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/95698.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/95698.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
       "productPictureAltText": "Hachis porc/veau préparé",
       "productPictureTitleText": "Hachis porc/veau préparé",
       "footnotes": [
@@ -93551,11 +93650,11 @@
       },
       "shortDescription": "<p>brillance &eacute;clatante sans rayures, efficace contre les salissures tenaces</p>",
       "energyEfficiencyIndex": 0,
-      "salesPrice": 0.89,
+      "salesPrice": 0.99,
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
       "isSimpleBasePrice": false,
-      "multipleBasePrices": "1.19/l",
+      "multipleBasePrices": "1.32/l",
       "isDrainedWeight": false,
       "salesUnit2": "750 ml",
       "salesUnitFormatted": "750 ml",
@@ -93572,7 +93671,7 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/creme-a-recurer-au-citron-750-ml-3013662-1-0.article.html#/fr/produits/assortiment/menage/nos-produits-de-nettoyage",
-      "priceFormatted": "0.89",
+      "priceFormatted": "0.99",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013662/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/menage/nos-produits-de-nettoyage/snippet-3013662-1-0.shoppinglisttile.article.html",
@@ -93619,7 +93718,7 @@
       "is_promotion": false,
       "promo_text": null,
       "valid_until": null,
-      "price": 0.89
+      "price": 0.99
     },
     {
       "articlePath": "products/Asssortiment/huishouden/kuisproducten/3013658-1-0",
@@ -93988,97 +94087,6 @@
       "promo_text": null,
       "valid_until": null,
       "price": 1.99
-    },
-    {
-      "articlePath": "products/Asssortiment/snacks-zoetigheden/snoep-kauwgom/3013479-1-0",
-      "brandName": "SWEETLAND®",
-      "isHomeBrand": false,
-      "productName": "Gommes aux fruits",
-      "breadcrumb": [
-        "Page d'accueil",
-        "Produits",
-        "Assortiment",
-        "Collations et sucreries",
-        "Friandises et chewing-gum"
-      ],
-      "categories": [
-        "Snoep-en-kauwgom"
-      ],
-      "hierarchicalCategories": {
-        "lvl0": "Page d'accueil",
-        "lvl1": "Page d'accueil > Produits",
-        "lvl2": "Page d'accueil > Produits > Assortiment",
-        "lvl3": "Page d'accueil > Produits > Assortiment > Collations et sucreries",
-        "lvl4": "Page d'accueil > Produits > Assortiment > Collations et sucreries > Friandises et chewing-gum"
-      },
-      "shortDescription": "<p>choix entre&nbsp;Tropical Mix, Cherries et Gummy Bears</p>",
-      "energyEfficiencyIndex": 0,
-      "salesPrice": 0.99,
-      "oldPrice": 1.19,
-      "isOldPriceMSRP": false,
-      "hasPricePerVariant": false,
-      "isSimpleBasePrice": false,
-      "multipleBasePrices": "3.30/kg",
-      "isDrainedWeight": false,
-      "salesUnit2": "300 g",
-      "salesUnitFormatted": "300 g",
-      "showPrice": true,
-      "showQuantities": true,
-      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPictureAltText": "Gommes aux fruits",
-      "productPictureTitleText": "Gommes aux fruits",
-      "footnotes": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "productUrl": "https://www.aldi.be/fr/p/gommes-aux-fruits-3013479-1-0.article.html#/fr/produits/assortiment/collations-sucreries/friandises-chewing-gum",
-      "priceFormatted": "0.99",
-      "oldPriceFormatted": "1.19",
-      "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/jcr:content",
-      "reminderEnabled": false,
-      "tileURL": "/fr/produits/assortiment/collations-sucreries/friandises-chewing-gum/snippet-3013479-1-0.shoppinglisttile.article.html",
-      "availability": "NONE",
-      "recallEnabled": false,
-      "isBiocidalProduct": false,
-      "recommendationEnabled": false,
-      "articleFlagsLabels": {},
-      "objectID": "3013479-1-0",
-      "_highlightResult": {
-        "brandName": {
-          "value": "SWEETLAND®",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "productName": {
-          "value": "Gommes aux fruits",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "categories": [
-          {
-            "value": "Snoep-en-kauwgom",
-            "matchLevel": "none",
-            "matchedWords": []
-          }
-        ],
-        "shortDescription": {
-          "value": "<p>choix entre&nbsp;Tropical Mix, Cherries et Gummy Bears</p>",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "productUrl": {
-          "value": "https://www.aldi.be/fr/p/gommes-aux-fruits-3013479-1-0.article.html#/fr/produits/assortiment/collations-sucreries/friandises-chewing-gum",
-          "matchLevel": "none",
-          "matchedWords": []
-        }
-      },
-      "is_promotion": false,
-      "promo_text": null,
-      "valid_until": null,
-      "price": 0.99
     }
   ]
 }

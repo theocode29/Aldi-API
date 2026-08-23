@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "1.0.0",
-    "last_updated": "2026-08-16T02:21:25.452266+00:00",
+    "last_updated": "2026-08-23T02:24:02.257662+00:00",
     "total_products": 1000
   },
   "products": [
@@ -925,7 +925,7 @@
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/885/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/0885_kroepoek_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "<p>cuites &agrave; l&rsquo;huile de tournesol, choix entre nature et &eacute;pic&eacute;</p>",
+      "promo_text": "<p>cuites &agrave; l&rsquo;huile de tournesol, choix entre nature et &eacute;pic&eacute;es</p>",
       "valid_until": null,
       "unit": "100 g"
     },
@@ -1042,7 +1042,7 @@
     {
       "id": "875-1-0",
       "name": "Eau légèrement gazeuse",
-      "price": 0.45,
+      "price": 0.39,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/875/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/0875_licht_bruisend_water.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -1272,12 +1272,12 @@
     },
     {
       "id": "8324-1-0",
-      "name": "Repas asiatique",
+      "name": "Repas façon asiatique",
       "price": 4.49,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8324/1/0/_jcr_content/assets/imported-images/BILD_INTERNET34/8324_aziatische_maaltijd_23-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "<p>choix entre poulet en sauce au curry rouge avec riz basmati, poulet aigre-doux avec bami, fu yung hai v&eacute;g&eacute;tarien avec bami et babi pangang avec nasi</p>",
+      "promo_text": "<p>choix entre poulet en sauce au curry rouge avec riz basmati, poulet aigre-doux avec bami, fu yung hai v&eacute;g&eacute;tarien avec bami et babi pangang avec bami goreng</p>",
       "valid_until": null,
       "unit": "500 g"
     },
@@ -1405,7 +1405,7 @@
     {
       "id": "8259-1-0",
       "name": "Cacao & wheat pillows",
-      "price": 3.59,
+      "price": 3.5,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/8259/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/8259_cacao_wheat_pillows_24-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -1757,7 +1757,7 @@
     {
       "id": "7928-1-0",
       "name": "Eau minérale avec bouchon de sport, 12 pcs",
-      "price": 2.29,
+      "price": 2.39,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/7928/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/7928_mineraalwater_met_sportdop-1_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -1911,7 +1911,7 @@
     {
       "id": "774-1-0",
       "name": "Salade au crabe ou salade cocktail au crabe",
-      "price": 2.0,
+      "price": 2.19,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/774/1/0/_jcr_content/assets/imported-images/BILD_INTERNET22/0774_krabsalade-kanjer-hln-bg-prim_26-2a.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -2208,13 +2208,13 @@
     {
       "id": "738-1-0",
       "name": "Petit pain ciabatta",
-      "price": 0.49,
+      "price": 0.8,
       "category": "boulangerie",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/738/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/0738_ciabatta_01.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": " ",
       "valid_until": null,
-      "unit": "pièce"
+      "unit": "2 pcs"
     },
     {
       "id": "737-1-0",
@@ -2276,7 +2276,7 @@
       "name": "Boisson de sport, 6 pcs",
       "price": 3.99,
       "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/0727_sportdrank_24-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/727/1/0/_jcr_content/assets/imported-images/BILD_INTERNET21/0727_sportdrank_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>aux vitamines et aux ar&ocirc;mes naturels, choix entre lemon, red peach et orange</p>",
       "valid_until": null,
@@ -3191,7 +3191,7 @@
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6668/1/0/_jcr_content/assets/imported-images/BILD_INTERNET9/6668-0387_6184_6208_6209_6331_6772_blueberries-01-dam.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "<p>emball&eacute;es, origine: Serbie</p>",
+      "promo_text": "<ul><br /><li>Des petits fruits &agrave; petit prix, c&rsquo;est chez ALDI.</li><br /><li>Nous go&ucirc;tons nos fruits nous-m&ecirc;mes. Plusieurs fois ! Ainsi, vous &ecirc;tes s&ucirc;r d&rsquo;avoir les meilleures myrtilles.</li><br /></ul><br /><p>emball&eacute;es, origine : Pologne</p>",
       "valid_until": null,
       "unit": "300 g"
     },
@@ -3517,13 +3517,13 @@
     {
       "id": "6586-1-0",
       "name": "Mozzarella",
-      "price": 1.24,
+      "price": 0.69,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6586/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/6586_mozzarella-kanjer-hln-gg-prim_26-2a.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<ul><br /><li>&agrave; base de lait de vache pasteuris&eacute;</li><br /><li>choix entre Classic (45 % de mati&egrave;res grasses sur extrait sec) et Light (20 % de mati&egrave;res grasses sur extrait sec)</li><br /></ul>",
       "valid_until": null,
-      "unit": "2 x 125 g"
+      "unit": "125 g"
     },
     {
       "id": "6581-1-0",
@@ -4495,12 +4495,12 @@
     },
     {
       "id": "6193-1-0",
-      "name": "Pain blanc suédois frais",
+      "name": "Pain blanc suédois ",
       "price": 2.29,
       "category": "boulangerie",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/6193_vers_wit_zweeds_brood_in_mandje_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6193/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/6193_vers_wit_zweeds_brood_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "<p>tranch&eacute;</p>",
+      "promo_text": "<p>frais du jour, tranch&eacute;</p>",
       "valid_until": null,
       "unit": "800 g"
     },
@@ -4588,7 +4588,7 @@
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6146/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6146_pruimen_750gr.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "<p>emball&eacute;es</p>",
+      "promo_text": "<p>emball&eacute;es, origine : Espagne</p>",
       "valid_until": null,
       "unit": "750 g"
     },
@@ -5105,7 +5105,7 @@
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5917/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/5917_geparfumeerd_bleekwater_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "<p>15 &deg;Chl, nettoie et d&eacute;sodorise, choix entre lavande et pin</p>",
+      "promo_text": "<p>15&deg; chloor, nettoie et d&eacute;sodorise, choix entre lavande et pin</p>",
       "valid_until": null,
       "unit": "2 l"
     },
@@ -5607,7 +5607,7 @@
     {
       "id": "5328-1-0",
       "name": "Filets de saumon, 2 pcs",
-      "price": null,
+      "price": 5.99,
       "category": "poisson",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5328/1/0/_jcr_content/assets/imported-images/BILD_INTERNET26/5328_zalmfilet_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -6168,13 +6168,13 @@
     {
       "id": "4933-1-0",
       "name": "Milkshake fraise ou banane ",
-      "price": 0.99,
+      "price": 2.97,
       "category": "fruits",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4933/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4933_milkshake_aardbei_of_banaan_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>boisson lact&eacute;e &agrave; base de lait demi-&eacute;cr&eacute;m&eacute;, emballage refermable</p>",
       "valid_until": null,
-      "unit": "200 ml"
+      "unit": "4 x 200 ml"
     },
     {
       "id": "4929-1-0",
@@ -6201,13 +6201,13 @@
     {
       "id": "4909-1-0",
       "name": "Milkshake chocolat ou vanille",
-      "price": 0.99,
+      "price": 2.97,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4909/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4909_milkshake_chocolade_of_vanille_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "boisson lactée à base de lait demi-écrémé, emballage refermable",
       "valid_until": null,
-      "unit": "200 ml"
+      "unit": "4 x 200 ml"
     },
     {
       "id": "4895-1-0",
@@ -6698,7 +6698,7 @@
       "name": "Confiture de fraises",
       "price": 1.55,
       "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/4596_aardbeienconfituur-kanjer-winwin-gg-art_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4596/1/0/_jcr_content/assets/imported-images/BILD_INTERNET14/4596_aardbeienconfituur-kanjer-winwin-prim_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>avec 55 % de fraises et 5 % de citrons, au vrai go&ucirc;t de fruits</p>",
       "valid_until": null,
@@ -7323,7 +7323,7 @@
     {
       "id": "4122-1-0",
       "name": "Cerises du Nord",
-      "price": 2.49,
+      "price": 2.79,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4122/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/4122_noordkrieken_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -7356,7 +7356,7 @@
     {
       "id": "4108-1-0",
       "name": "Compote de fruits, 4 pcs",
-      "price": 1.55,
+      "price": 3.1,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/4108/1/0/_jcr_content/assets/imported-images/BILD_INTERNET24/4108_fruitcompote_26-0a-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -7685,12 +7685,12 @@
     },
     {
       "id": "3963-1-0",
-      "name": "Pain multicéréales frais",
-      "price": 1.95,
+      "name": "Pain complet",
+      "price": 1.75,
       "category": "boulangerie",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET13/3963_vers_meergranenbrood_2002-01.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3963/1/0/_jcr_content/assets/imported-images/BILD_INTERNET16/3963_vers_meergranenbrood_26-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "<p>tranch&eacute;</p>",
+      "promo_text": "<p>frais du jour, pain tranch&eacute;</p>",
       "valid_until": null,
       "unit": "600 g"
     },
@@ -7883,7 +7883,7 @@
     },
     {
       "id": "3832-1-0",
-      "name": "Mélange d'herbes bio",
+      "name": "Herbes bio",
       "price": null,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3832/1/0/_jcr_content/assets/imported-images/BILD_INTERNET42/3832_bio_tuinkruidenmix_per_stuk-nl-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
@@ -8401,13 +8401,13 @@
     {
       "id": "3558-1-0",
       "name": "Huggy bears, 6 pcs",
-      "price": 1.49,
+      "price": 2.98,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3558/1/0/_jcr_content/assets/imported-images/BILD_INTERNET20/3558_huggy_bears-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>minibiscuits au go&ucirc;t de vanille, 6 sachets de 25&nbsp;g</p>",
       "valid_until": null,
-      "unit": "6 x 25 g"
+      "unit": "3 x (6 x 25 g)"
     },
     {
       "id": "3553-1-0",
@@ -8544,13 +8544,13 @@
     {
       "id": "3502-1-0",
       "name": "Biscuits aux raisins secs, pack de 6",
-      "price": 1.69,
+      "price": 3.0,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3502/1/0/_jcr_content/assets/imported-images/BILD_INTERNET11/3502_krentenbiscuits_25-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>source de fibres, choix entre raisins secs, fruits des bois et pomme, 6&nbsp;x&nbsp;3&nbsp;pi&egrave;ces</p>",
       "valid_until": null,
-      "unit": "262 g"
+      "unit": "2 x 262 g"
     },
     {
       "id": "3500-1-0",
@@ -8614,7 +8614,7 @@
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3461/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6201_avocados_2st_03_1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
-      "promo_text": "<p>en vrac, origine : P&eacute;rou</p>",
+      "promo_text": "<ul><br /><li>cette offre est un vrai avo-cadeau !</li><br /><li>contr&ocirc;l&eacute;s 3 fois par jour ? des avocats de qualit&eacute;, toujours !</li><br /></ul><br /><p>en vrac, origine : P&eacute;rou</p>",
       "valid_until": null,
       "unit": "pièce"
     },
@@ -9248,7 +9248,7 @@
     {
       "id": "3177-1-0",
       "name": "Huile d'olive extra vierge",
-      "price": 7.99,
+      "price": 6.99,
       "category": "épicerie",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3177/1/0/_jcr_content/assets/imported-images/BILD_INTERNET48/3177_extra_vierge_olijfolie_24-2.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -9620,6 +9620,17 @@
       "unit": "260 g"
     },
     {
+      "id": "3015253-1-0",
+      "name": "Morceaux de mangue",
+      "price": 2.49,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3015253/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3015253-9682_ananas_of_mangoblokjes_25-2b.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>emball&eacute;s, origine : divers</p>",
+      "valid_until": null,
+      "unit": "230 g"
+    },
+    {
       "id": "3015248-1-0",
       "name": "Sacs poubelle Rêve de Lavande, 10 l",
       "price": 2.89,
@@ -9765,7 +9776,7 @@
     {
       "id": "3014982-1-0",
       "name": "Lessive liquide",
-      "price": 8.69,
+      "price": 9.59,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014982/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3014982_wasmiddelgel_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -9892,7 +9903,7 @@
       "is_promotion": false,
       "promo_text": "<p>choix entre M&amp;M's crispy (309 g) et choco (363 g)</p>",
       "valid_until": null,
-      "unit": "309 g, 309 g/363 g"
+      "unit": "309 g/363 g"
     },
     {
       "id": "3014893-1-0",
@@ -9930,7 +9941,7 @@
     {
       "id": "3014864-1-0",
       "name": "Créatine en poudre",
-      "price": 5.29,
+      "price": 4.0,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014864/1/0/_jcr_content/assets/imported-images/BILD_INTERNET4/3014864_creatine_poeder_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -9974,7 +9985,7 @@
     {
       "id": "3014817-1-0",
       "name": "Bugles nacho cheese",
-      "price": 1.59,
+      "price": 1.99,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014817/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3014817_bugles_nacho_cheese_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -10106,13 +10117,13 @@
     {
       "id": "3014584-1-0",
       "name": "Mayonnaise",
-      "price": 4.33,
+      "price": 2.89,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014584/1/0/_jcr_content/assets/imported-images/BILD_INTERNET6/3014584_mayonaise_26-0b-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>en flacon souple, aux &oelig;ufs ou au citron</p>",
       "valid_until": null,
-      "unit": "2 x 450 ml"
+      "unit": "450 ml"
     },
     {
       "id": "3014582-1-0",
@@ -10405,7 +10416,7 @@
       "name": "Hachis de porc préparé",
       "price": 2.29,
       "category": "viandes",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014061/1/0/_jcr_content/assets/imported-images/BILD_INTERNET10/3014061_bereid_varkensgehakt_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>viande belge de qualit&eacute;, hachis de porc maigre et juteux avec assaisonnement, poids variable</p>",
       "valid_until": null,
@@ -10427,7 +10438,7 @@
       "name": "Hachis porc/veau préparé",
       "price": 4.25,
       "category": "viandes",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET3/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014059/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/3014059_bereid_gehakt_varken-kalf_op_plankje_26-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
       "promo_text": "<p>viande belge de qualit&eacute;, viande de porc (81 %) et de veau (10 %) hach&eacute;e et &eacute;pic&eacute;e, poids variable</p>",
       "valid_until": null,
@@ -10942,7 +10953,7 @@
     {
       "id": "3013662-1-0",
       "name": "Crème à récurer au citron, 750 ml",
-      "price": 0.89,
+      "price": 0.99,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013662/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013662_schuurmiddel_25-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
@@ -10993,17 +11004,6 @@
       "promo_text": "<p>b&oelig;uf, volaille &amp; fromage ou saumon</p>",
       "valid_until": null,
       "unit": "200 g"
-    },
-    {
-      "id": "3013479-1-0",
-      "name": "Gommes aux fruits",
-      "price": 0.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>choix entre&nbsp;Tropical Mix, Cherries et Gummy Bears</p>",
-      "valid_until": null,
-      "unit": "300 g"
     }
   ]
 }
