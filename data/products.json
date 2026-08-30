@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "1.0.0",
-    "last_updated": "2026-08-23T02:24:02.252238+00:00",
+    "last_updated": "2026-08-30T06:19:20.217516+00:00",
     "total_products": 1000,
     "source": "algolia",
     "indices": [
@@ -37135,12 +37135,15 @@
       "shortDescription": "<p>emball&eacute;s,&nbsp;origine : Pays-Bas</p>",
       "longDescription": "Les radis frais ne se conservent pas si longtemps étant donné qu’ils contiennent beaucoup d’eau. De plus, les feuilles aspirent toute l'humidité et tous les nutriments. Voilà pourquoi il est recommandé de couper les fanes le plus vite possible. Si vous plongez ensuite les tubercules dans de l’eau et les conservez au réfrigérateur, ils se conservent encore plus longtemps.",
       "energyEfficiencyIndex": 0,
+      "salesPrice": 0.89,
       "isOldPriceMSRP": false,
       "hasPricePerVariant": false,
+      "isSimpleBasePrice": false,
+      "multipleBasePrices": "5.93/kg",
       "isDrainedWeight": false,
       "salesUnit2": "150 g",
       "salesUnitFormatted": "150 g",
-      "showPrice": false,
+      "showPrice": true,
       "showQuantities": true,
       "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6230-dam6216_red_radish-02.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6230-dam6216_red_radish-02.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6230-dam6216_red_radish-02.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6230-dam6216_red_radish-02.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6230-dam6216_red_radish-02.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6230-dam6216_red_radish-02.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6230-dam6216_red_radish-02.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6230-dam6216_red_radish-02.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6230-dam6216_red_radish-02.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
@@ -37153,6 +37156,7 @@
         false
       ],
       "productUrl": "https://www.aldi.be/fr/p/radis-6230-1-0.article.html#/fr/produits/assortiment/notre-assortiment-de-legumes-frais",
+      "priceFormatted": "0.89",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/notre-assortiment-de-legumes-frais/snippet-6230-1-0.shoppinglisttile.article.html",
@@ -37188,7 +37192,8 @@
       },
       "is_promotion": false,
       "promo_text": null,
-      "valid_until": null
+      "valid_until": null,
+      "price": 0.89
     },
     {
       "articlePath": "products/Asssortiment/groenten/6229-1-0",
@@ -54846,7 +54851,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/melange-de-legumes-4733-1-0.article.html#/fr/produits/assortiment-d-ete",
       "priceFormatted": "0.99",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-17-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/4733/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment-d-ete/snippet-4733-1-0.shoppinglisttile.article.html",
@@ -88386,7 +88390,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/lessive-liquide-original-3014118-1-0.article.html#/fr/produits/assortiment/menage/nos-detergents",
       "priceFormatted": "14.49",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-17-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3014118/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/menage/nos-detergents/snippet-3014118-1-0.shoppinglisttile.article.html",
@@ -91997,7 +92000,6 @@
       ],
       "productUrl": "https://www.aldi.be/fr/p/boisson-energisante-sugarfree-3013742-1-0.article.html#/fr/produits/assortiment/boissons-non-alcoolisees/boissons-isotoniques-boissons-%C3%A9nergisantes",
       "priceFormatted": "0.55",
-      "promotionPath": "/content/aldi/belgium/fr/web-consumer/unsere-angebote/specials-17-07/jcr:content",
       "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/tijdelijk_assortiment/3013742/1/0/jcr:content",
       "reminderEnabled": false,
       "tileURL": "/fr/produits/assortiment/boissons-non-alcoolisees/boissons-isotoniques-boissons-%C3%A9nergisantes/snippet-3013742-1-0.shoppinglisttile.article.html",

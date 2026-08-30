@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "1.0.0",
-    "last_updated": "2026-08-23T02:24:02.257662+00:00",
+    "last_updated": "2026-08-30T06:19:20.221135+00:00",
     "total_products": 1000
   },
   "products": [
@@ -4320,7 +4320,7 @@
     {
       "id": "6230-1-0",
       "name": "Radis",
-      "price": null,
+      "price": 0.89,
       "category": "autres",
       "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6230/1/0/_jcr_content/assets/imported-images/BILD_INTERNET7/6230-dam6216_red_radish-02.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
       "is_promotion": false,
