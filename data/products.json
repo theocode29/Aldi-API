@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "1.0.0",
-    "last_updated": "2026-08-30T06:19:20.217516+00:00",
+    "last_updated": "2026-09-06T05:37:56.180545+00:00",
     "total_products": 1000,
     "source": "algolia",
     "indices": [
@@ -48578,211 +48578,6 @@
       "price": 2.49
     },
     {
-      "articlePath": "products/kanjers/5305-1-0",
-      "brandName": "MENUTO®",
-      "isHomeBrand": false,
-      "productName": "Sauce au poivre",
-      "breadcrumb": [
-        "Page d'accueil",
-        "Produits",
-        "Nos produits couronnés"
-      ],
-      "categories": [
-        "Eenpans-en-microgolfgerechten",
-        "Budgetcampagne 2605 - loyalty",
-        "Dips-sauzen-en-dressing",
-        "kanjers-food"
-      ],
-      "hierarchicalCategories": {
-        "lvl0": "Page d'accueil",
-        "lvl1": "Page d'accueil > Produits",
-        "lvl2": "Page d'accueil > Produits > Nos produits couronnés"
-      },
-      "shortDescription": "<p>sauce au poivre onctueuse, pr&ecirc;te &agrave; l&rsquo;emploi</p>",
-      "energyEfficiencyIndex": 0,
-      "salesPrice": 0.99,
-      "isOldPriceMSRP": false,
-      "hasPricePerVariant": false,
-      "isSimpleBasePrice": false,
-      "multipleBasePrices": "4.50/l",
-      "isDrainedWeight": false,
-      "salesUnit2": "220 ml",
-      "salesUnitFormatted": "220 ml",
-      "showPrice": true,
-      "showQuantities": true,
-      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5305_pepersaus_kanjer-hln-gg-art_25-1b.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5305_pepersaus_kanjer-hln-gg-art_25-1b.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5305_pepersaus_kanjer-hln-gg-art_25-1b.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5305_pepersaus_kanjer-hln-gg-art_25-1b.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5305_pepersaus_kanjer-hln-gg-art_25-1b.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5305_pepersaus_kanjer-hln-gg-art_25-1b.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5305_pepersaus_kanjer-hln-gg-art_25-1b.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5305_pepersaus_kanjer-hln-gg-art_25-1b.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5305_pepersaus_kanjer-hln-gg-art_25-1b.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPictureAltText": "Sauce au poivre",
-      "productPictureTitleText": "Sauce au poivre",
-      "footnotes": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "productUrl": "https://www.aldi.be/fr/p/sauce-au-poivre-5305-1-0.article.html#/fr/produits/produits-couronnes",
-      "priceFormatted": "0.99",
-      "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/jcr:content",
-      "reminderEnabled": false,
-      "tileURL": "/fr/produits/produits-couronnes/snippet-5305-1-0.shoppinglisttile.article.html",
-      "availability": "NONE",
-      "recallEnabled": false,
-      "isBiocidalProduct": false,
-      "recommendationEnabled": false,
-      "articleFlagsLabels": {},
-      "objectID": "5305-1-0",
-      "_highlightResult": {
-        "brandName": {
-          "value": "MENUTO®",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "productName": {
-          "value": "Sauce au poivre",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "categories": [
-          {
-            "value": "Eenpans-en-microgolfgerechten",
-            "matchLevel": "none",
-            "matchedWords": []
-          },
-          {
-            "value": "Budgetcampagne 2605 - loyalty",
-            "matchLevel": "none",
-            "matchedWords": []
-          },
-          {
-            "value": "Dips-sauzen-en-dressing",
-            "matchLevel": "none",
-            "matchedWords": []
-          },
-          {
-            "value": "kanjers-food",
-            "matchLevel": "none",
-            "matchedWords": []
-          }
-        ],
-        "shortDescription": {
-          "value": "<p>sauce au poivre onctueuse, prête à l&rsquo;emploi</p>",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "productUrl": {
-          "value": "https://www.aldi.be/fr/p/sauce-au-poivre-5305-1-0.article.html#/fr/produits/produits-couronnes",
-          "matchLevel": "none",
-          "matchedWords": []
-        }
-      },
-      "is_promotion": false,
-      "promo_text": null,
-      "valid_until": null,
-      "price": 0.99
-    },
-    {
-      "articlePath": "products/Asssortiment/kant-en-klaar/eenpans-microgolfgerechten/5304-1-0",
-      "brandName": "MENUTO®",
-      "isHomeBrand": false,
-      "productName": "Sauce aux champignons",
-      "breadcrumb": [
-        "Page d'accueil",
-        "Produits",
-        "Assortiment",
-        "Plats préparés",
-        "Potées et plats micro-ondes"
-      ],
-      "categories": [
-        "Eenpans-en-microgolfgerechten",
-        "PV-LUX",
-        "Dips-sauzen-en-dressing"
-      ],
-      "hierarchicalCategories": {
-        "lvl0": "Page d'accueil",
-        "lvl1": "Page d'accueil > Produits",
-        "lvl2": "Page d'accueil > Produits > Assortiment",
-        "lvl3": "Page d'accueil > Produits > Assortiment > Plats préparés",
-        "lvl4": "Page d'accueil > Produits > Assortiment > Plats préparés > Potées et plats micro-ondes"
-      },
-      "shortDescription": "<p>sauce aux champignons onctueuse, pr&ecirc;te &agrave; l&rsquo;emploi</p>",
-      "longDescription": "Le chef étoilé Luc Bellings a dégusté et jugé 10 sauces prêtes à l'emploi pour le quotidien flamand HLN (16/12/2023). Avec 7/10, la sauce aux champignons Menuto® d'ALDI a obtenu la meilleure note dans sa catégorie.     « Cette sauce a un vrai goût de champignons. La sauce elle-même est joliment liée. » ",
-      "energyEfficiencyIndex": 0,
-      "salesPrice": 0.99,
-      "isOldPriceMSRP": false,
-      "hasPricePerVariant": false,
-      "isSimpleBasePrice": false,
-      "multipleBasePrices": "4.50/l",
-      "isDrainedWeight": false,
-      "salesUnit2": "220 ml",
-      "salesUnitFormatted": "220 ml",
-      "showPrice": true,
-      "showQuantities": true,
-      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5304_champignonsaus.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5304_champignonsaus.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5304_champignonsaus.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5304_champignonsaus.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5304_champignonsaus.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5304_champignonsaus.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5304_champignonsaus.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5304_champignonsaus.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5304_champignonsaus.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPictureAltText": "Sauce aux champignons",
-      "productPictureTitleText": "Sauce aux champignons",
-      "footnotes": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "productUrl": "https://www.aldi.be/fr/p/sauce-aux-champignons-5304-1-0.article.html#/fr/produits/assortiment/plats-prepares/potees-plats-micro-ondes",
-      "priceFormatted": "0.99",
-      "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/jcr:content",
-      "reminderEnabled": false,
-      "tileURL": "/fr/produits/assortiment/plats-prepares/potees-plats-micro-ondes/snippet-5304-1-0.shoppinglisttile.article.html",
-      "availability": "NONE",
-      "recallEnabled": false,
-      "isBiocidalProduct": false,
-      "recommendationEnabled": false,
-      "articleFlagsLabels": {},
-      "objectID": "5304-1-0",
-      "_highlightResult": {
-        "brandName": {
-          "value": "MENUTO®",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "productName": {
-          "value": "Sauce aux champignons",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "categories": [
-          {
-            "value": "Eenpans-en-microgolfgerechten",
-            "matchLevel": "none",
-            "matchedWords": []
-          },
-          {
-            "value": "PV-LUX",
-            "matchLevel": "none",
-            "matchedWords": []
-          },
-          {
-            "value": "Dips-sauzen-en-dressing",
-            "matchLevel": "none",
-            "matchedWords": []
-          }
-        ],
-        "shortDescription": {
-          "value": "<p>sauce aux champignons onctueuse, prête à l&rsquo;emploi</p>",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "productUrl": {
-          "value": "https://www.aldi.be/fr/p/sauce-aux-champignons-5304-1-0.article.html#/fr/produits/assortiment/plats-prepares/potees-plats-micro-ondes",
-          "matchLevel": "none",
-          "matchedWords": []
-        }
-      },
-      "is_promotion": false,
-      "promo_text": null,
-      "valid_until": null,
-      "price": 0.99
-    },
-    {
       "articlePath": "products/Asssortiment/cosmetica-verzorging/gezichtsverzorging/5299-1-0",
       "brandName": "LACURA®",
       "isHomeBrand": false,
@@ -94089,6 +93884,186 @@
       "promo_text": null,
       "valid_until": null,
       "price": 1.99
+    },
+    {
+      "articlePath": "products/Asssortiment/snacks-zoetigheden/snoep-kauwgom/3013479-1-0",
+      "brandName": "SWEETLAND®",
+      "isHomeBrand": false,
+      "productName": "Gommes aux fruits",
+      "breadcrumb": [
+        "Page d'accueil",
+        "Produits",
+        "Assortiment",
+        "Collations et sucreries",
+        "Friandises et chewing-gum"
+      ],
+      "categories": [
+        "Snoep-en-kauwgom"
+      ],
+      "hierarchicalCategories": {
+        "lvl0": "Page d'accueil",
+        "lvl1": "Page d'accueil > Produits",
+        "lvl2": "Page d'accueil > Produits > Assortiment",
+        "lvl3": "Page d'accueil > Produits > Assortiment > Collations et sucreries",
+        "lvl4": "Page d'accueil > Produits > Assortiment > Collations et sucreries > Friandises et chewing-gum"
+      },
+      "shortDescription": "<p>choix entre&nbsp;Tropical Mix, Cherries et Gummy Bears</p>",
+      "energyEfficiencyIndex": 0,
+      "salesPrice": 0.99,
+      "oldPrice": 1.19,
+      "isOldPriceMSRP": false,
+      "hasPricePerVariant": false,
+      "isSimpleBasePrice": false,
+      "multipleBasePrices": "3.30/kg",
+      "isDrainedWeight": false,
+      "salesUnit2": "300 g",
+      "salesUnitFormatted": "300 g",
+      "showPrice": true,
+      "showQuantities": true,
+      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "productPictureAltText": "Gommes aux fruits",
+      "productPictureTitleText": "Gommes aux fruits",
+      "footnotes": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "productUrl": "https://www.aldi.be/fr/p/gommes-aux-fruits-3013479-1-0.article.html#/fr/produits/assortiment/collations-sucreries/friandises-chewing-gum",
+      "priceFormatted": "0.99",
+      "oldPriceFormatted": "1.19",
+      "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/jcr:content",
+      "reminderEnabled": false,
+      "tileURL": "/fr/produits/assortiment/collations-sucreries/friandises-chewing-gum/snippet-3013479-1-0.shoppinglisttile.article.html",
+      "availability": "NONE",
+      "recallEnabled": false,
+      "isBiocidalProduct": false,
+      "recommendationEnabled": false,
+      "articleFlagsLabels": {},
+      "objectID": "3013479-1-0",
+      "_highlightResult": {
+        "brandName": {
+          "value": "SWEETLAND®",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "productName": {
+          "value": "Gommes aux fruits",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": [
+          {
+            "value": "Snoep-en-kauwgom",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "shortDescription": {
+          "value": "<p>choix entre&nbsp;Tropical Mix, Cherries et Gummy Bears</p>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "productUrl": {
+          "value": "https://www.aldi.be/fr/p/gommes-aux-fruits-3013479-1-0.article.html#/fr/produits/assortiment/collations-sucreries/friandises-chewing-gum",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "is_promotion": false,
+      "promo_text": null,
+      "valid_until": null,
+      "price": 0.99
+    },
+    {
+      "articlePath": "products/Asssortiment/snacks-zoetigheden/snoep-kauwgom/3013478-1-0",
+      "brandName": "SWEETLAND®",
+      "isHomeBrand": false,
+      "productName": "Mélange de gommes",
+      "breadcrumb": [
+        "Page d'accueil",
+        "Produits",
+        "Assortiment",
+        "Collations et sucreries",
+        "Friandises et chewing-gum"
+      ],
+      "categories": [
+        "Snoep-en-kauwgom"
+      ],
+      "hierarchicalCategories": {
+        "lvl0": "Page d'accueil",
+        "lvl1": "Page d'accueil > Produits",
+        "lvl2": "Page d'accueil > Produits > Assortiment",
+        "lvl3": "Page d'accueil > Produits > Assortiment > Collations et sucreries",
+        "lvl4": "Page d'accueil > Produits > Assortiment > Collations et sucreries > Friandises et chewing-gum"
+      },
+      "shortDescription": "<p>choix entre&nbsp;sour mix, sour fruits et sharks</p>",
+      "energyEfficiencyIndex": 0,
+      "salesPrice": 1.29,
+      "isOldPriceMSRP": false,
+      "hasPricePerVariant": false,
+      "isSimpleBasePrice": false,
+      "multipleBasePrices": "4.30/kg",
+      "isDrainedWeight": false,
+      "salesUnit2": "300 g",
+      "salesUnitFormatted": "300 g",
+      "showPrice": true,
+      "showQuantities": true,
+      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013478_gommenmix_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013478_gommenmix_26-0-grp.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013478_gommenmix_26-0-grp.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013478_gommenmix_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013478_gommenmix_26-0-grp.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013478_gommenmix_26-0-grp.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013478_gommenmix_26-0-grp.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013478_gommenmix_26-0-grp.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013478_gommenmix_26-0-grp.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "productPictureAltText": "Mélange de gommes",
+      "productPictureTitleText": "Mélange de gommes",
+      "footnotes": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "productUrl": "https://www.aldi.be/fr/p/melange-de-gommes-3013478-1-0.article.html#/fr/produits/assortiment/collations-sucreries/friandises-chewing-gum",
+      "priceFormatted": "1.29",
+      "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/jcr:content",
+      "reminderEnabled": false,
+      "tileURL": "/fr/produits/assortiment/collations-sucreries/friandises-chewing-gum/snippet-3013478-1-0.shoppinglisttile.article.html",
+      "availability": "NONE",
+      "recallEnabled": false,
+      "isBiocidalProduct": false,
+      "recommendationEnabled": false,
+      "articleFlagsLabels": {},
+      "objectID": "3013478-1-0",
+      "_highlightResult": {
+        "brandName": {
+          "value": "SWEETLAND®",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "productName": {
+          "value": "Mélange de gommes",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": [
+          {
+            "value": "Snoep-en-kauwgom",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "shortDescription": {
+          "value": "<p>choix entre&nbsp;sour mix, sour fruits et sharks</p>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "productUrl": {
+          "value": "https://www.aldi.be/fr/p/melange-de-gommes-3013478-1-0.article.html#/fr/produits/assortiment/collations-sucreries/friandises-chewing-gum",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "is_promotion": false,
+      "promo_text": null,
+      "valid_until": null,
+      "price": 1.29
     }
   ]
 }

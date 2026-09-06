@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "1.0.0",
-    "last_updated": "2026-08-30T06:19:20.221135+00:00",
+    "last_updated": "2026-09-06T05:37:56.184911+00:00",
     "total_products": 1000
   },
   "products": [
@@ -5704,28 +5704,6 @@
       "unit": "195 g"
     },
     {
-      "id": "5305-1-0",
-      "name": "Sauce au poivre",
-      "price": 0.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5305/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5305_pepersaus_kanjer-hln-gg-art_25-1b.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>sauce au poivre onctueuse, pr&ecirc;te &agrave; l&rsquo;emploi</p>",
-      "valid_until": null,
-      "unit": "220 ml"
-    },
-    {
-      "id": "5304-1-0",
-      "name": "Sauce aux champignons",
-      "price": 0.99,
-      "category": "autres",
-      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/5304/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/5304_champignonsaus.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "is_promotion": false,
-      "promo_text": "<p>sauce aux champignons onctueuse, pr&ecirc;te &agrave; l&rsquo;emploi</p>",
-      "valid_until": null,
-      "unit": "220 ml"
-    },
-    {
       "id": "5299-1-0",
       "name": "Mousse à raser",
       "price": 1.45,
@@ -11004,6 +10982,28 @@
       "promo_text": "<p>b&oelig;uf, volaille &amp; fromage ou saumon</p>",
       "valid_until": null,
       "unit": "200 g"
+    },
+    {
+      "id": "3013479-1-0",
+      "name": "Gommes aux fruits",
+      "price": 0.99,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013479/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013479_fruitgommen_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>choix entre&nbsp;Tropical Mix, Cherries et Gummy Bears</p>",
+      "valid_until": null,
+      "unit": "300 g"
+    },
+    {
+      "id": "3013478-1-0",
+      "name": "Mélange de gommes",
+      "price": 1.29,
+      "category": "autres",
+      "image_url": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013478/1/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3013478_gommenmix_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "is_promotion": false,
+      "promo_text": "<p>choix entre&nbsp;sour mix, sour fruits et sharks</p>",
+      "valid_until": null,
+      "unit": "300 g"
     }
   ]
 }
