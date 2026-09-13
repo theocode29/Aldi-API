@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": "1.0.0",
-    "last_updated": "2026-09-06T05:37:56.180545+00:00",
+    "last_updated": "2026-09-13T05:44:21.822034+00:00",
     "total_products": 1000,
     "source": "algolia",
     "indices": [
@@ -37591,83 +37591,6 @@
         },
         "productUrl": {
           "value": "https://www.aldi.be/fr/p/melange-de-poivrons-6212-1-0.article.html#/fr/produits/assortiment/notre-assortiment-de-legumes-frais",
-          "matchLevel": "none",
-          "matchedWords": []
-        }
-      },
-      "is_promotion": false,
-      "promo_text": null,
-      "valid_until": null
-    },
-    {
-      "articlePath": "products/Asssortiment/groenten/6211-1-0",
-      "isHomeBrand": false,
-      "productName": "Concombre",
-      "breadcrumb": [
-        "Page d'accueil",
-        "Produits",
-        "Assortiment",
-        "Légumes frais"
-      ],
-      "categories": [
-        "AGF-Groenten-los"
-      ],
-      "hierarchicalCategories": {
-        "lvl0": "Page d'accueil",
-        "lvl1": "Page d'accueil > Produits",
-        "lvl2": "Page d'accueil > Produits > Assortiment",
-        "lvl3": "Page d'accueil > Produits > Assortiment > Légumes frais"
-      },
-      "shortDescription": "<p>en vrac, origine : Pays-Bas</p>",
-      "longDescription": "Les concombres frais n'aiment pas le froid. Évitez donc de les conserver au réfrigérateur et gardez-les plutôt dans une pièce sombre, le garde-manger, par exemple. Saviez-vous que les concombres sont composés d'eau à plus de 90 % ?",
-      "energyEfficiencyIndex": 0,
-      "isOldPriceMSRP": false,
-      "hasPricePerVariant": false,
-      "isDrainedWeight": false,
-      "salesUnit2": "pièce",
-      "salesUnitFormatted": "pièce",
-      "showPrice": false,
-      "showQuantities": true,
-      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6211/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6211_komkommer_per_stuk_uv-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
-      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6211/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6211_komkommer_per_stuk_uv-1.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6211/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6211_komkommer_per_stuk_uv-1.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6211/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6211_komkommer_per_stuk_uv-1.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6211/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6211_komkommer_per_stuk_uv-1.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6211/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6211_komkommer_per_stuk_uv-1.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6211/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6211_komkommer_per_stuk_uv-1.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6211/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6211_komkommer_per_stuk_uv-1.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6211/1/0/_jcr_content/assets/imported-images/BILD_INTERNET5/6211_komkommer_per_stuk_uv-1.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
-      "productPictureAltText": "Concombre",
-      "productPictureTitleText": "Concombre",
-      "footnotes": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "productUrl": "https://www.aldi.be/fr/p/concombre-6211-1-0.article.html#/fr/produits/assortiment/notre-assortiment-de-legumes-frais",
-      "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/6211/1/0/jcr:content",
-      "reminderEnabled": false,
-      "tileURL": "/fr/produits/assortiment/notre-assortiment-de-legumes-frais/snippet-6211-1-0.shoppinglisttile.article.html",
-      "availability": "NONE",
-      "recallEnabled": false,
-      "isBiocidalProduct": false,
-      "recommendationEnabled": false,
-      "articleFlagsLabels": {},
-      "objectID": "6211-1-0",
-      "_highlightResult": {
-        "productName": {
-          "value": "Concombre",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "categories": [
-          {
-            "value": "AGF-Groenten-los",
-            "matchLevel": "none",
-            "matchedWords": []
-          }
-        ],
-        "shortDescription": {
-          "value": "<p>en vrac, origine : Pays-Bas</p>",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        "productUrl": {
-          "value": "https://www.aldi.be/fr/p/concombre-6211-1-0.article.html#/fr/produits/assortiment/notre-assortiment-de-legumes-frais",
           "matchLevel": "none",
           "matchedWords": []
         }
@@ -94064,6 +93987,94 @@
       "promo_text": null,
       "valid_until": null,
       "price": 1.29
+    },
+    {
+      "articlePath": "products/Asssortiment/snacks-zoetigheden/Chocolade/3013452-1-0",
+      "brandName": "CHOCEUR®",
+      "isHomeBrand": false,
+      "productName": "Mélange de toffees",
+      "breadcrumb": [
+        "Page d'accueil",
+        "Produits",
+        "Assortiment",
+        "Collations et sucreries",
+        "Chocolat"
+      ],
+      "categories": [
+        "Chocolade"
+      ],
+      "hierarchicalCategories": {
+        "lvl0": "Page d'accueil",
+        "lvl1": "Page d'accueil > Produits",
+        "lvl2": "Page d'accueil > Produits > Assortiment",
+        "lvl3": "Page d'accueil > Produits > Assortiment > Collations et sucreries",
+        "lvl4": "Page d'accueil > Produits > Assortiment > Collations et sucreries > Chocolat"
+      },
+      "shortDescription": "<p>choix entre Choco Toffees (toffees au chocolat&nbsp;enrob&eacute;s de chocolat noir), Milk fuls (bonbons au caramel fourr&eacute;s &agrave; la cr&egrave;me au lait) et Toffee Melange (assortiment&nbsp;de bonbons toffee), emball&eacute;s individuellement</p>",
+      "energyEfficiencyIndex": 0,
+      "salesPrice": 2.19,
+      "isOldPriceMSRP": false,
+      "hasPricePerVariant": false,
+      "isSimpleBasePrice": false,
+      "isDrainedWeight": false,
+      "salesUnit2": "352 g/522 g",
+      "salesUnitFormatted": "352 g/522 g",
+      "showPrice": true,
+      "showQuantities": true,
+      "productPicture": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013452/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3013452_toffeemengeling_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png",
+      "productPictureRenditions": "https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013452/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3013452_toffeemengeling_26-0-grp.png/_jcr_content/renditions/opt.288w.png.res/0/opt.288w.png 288w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013452/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3013452_toffeemengeling_26-0-grp.png/_jcr_content/renditions/opt.440w.png.res/0/opt.440w.png 440w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013452/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3013452_toffeemengeling_26-0-grp.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png 592w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013452/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3013452_toffeemengeling_26-0-grp.png/_jcr_content/renditions/opt.736w.png.res/0/opt.736w.png 736w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013452/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3013452_toffeemengeling_26-0-grp.png/_jcr_content/renditions/opt.900w.png.res/0/opt.900w.png 900w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013452/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3013452_toffeemengeling_26-0-grp.png/_jcr_content/renditions/opt.1250w.png.res/0/opt.1250w.png 1250w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013452/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3013452_toffeemengeling_26-0-grp.png/_jcr_content/renditions/opt.1817w.png.res/0/opt.1817w.png 1817w,https://www.aldi.be/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013452/1/0/_jcr_content/assets/imported-images/BILD_INTERNET8/3013452_toffeemengeling_26-0-grp.png/_jcr_content/renditions/opt.2800w.png.res/0/opt.2800w.png 2800w",
+      "productPictureAltText": "Mélange de toffees",
+      "productPictureTitleText": "Mélange de toffees",
+      "footnotes": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "productUrl": "https://www.aldi.be/fr/p/melange-de-toffees-3013452-1-0.article.html#/fr/produits/assortiment/collations-sucreries/Chocolade",
+      "priceFormatted": "2.19",
+      "iterationPath": "/content/aldi/belgium/promotions/source-localenhancement/2019/2019-01/2019-01-02/vast_assortiment/3013452/1/0/jcr:content",
+      "reminderEnabled": false,
+      "tileURL": "/fr/produits/assortiment/collations-sucreries/Chocolade/snippet-3013452-1-0.shoppinglisttile.article.html",
+      "availability": "NONE",
+      "recallEnabled": false,
+      "isBiocidalProduct": false,
+      "recommendationEnabled": false,
+      "articleFlagsLabels": {},
+      "objectID": "3013452-1-0",
+      "_highlightResult": {
+        "brandName": {
+          "value": "CHOCEUR®",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "productName": {
+          "value": "Mélange de toffees",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": [
+          {
+            "value": "Chocolade",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "shortDescription": {
+          "value": "<p>choix entre Choco Toffees (toffees au chocolat&nbsp;enrobés de chocolat noir), Milk fuls (bonbons au caramel fourrés à la crème au lait) et Toffee Melange (assortiment&nbsp;de bonbons toffee), emballés individuellement</p>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "productUrl": {
+          "value": "https://www.aldi.be/fr/p/melange-de-toffees-3013452-1-0.article.html#/fr/produits/assortiment/collations-sucreries/Chocolade",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "is_promotion": false,
+      "promo_text": null,
+      "valid_until": null,
+      "price": 2.19
     }
   ]
 }
