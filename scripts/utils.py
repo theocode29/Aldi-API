@@ -6,7 +6,7 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Sequence
 from urllib.parse import quote_plus
 
 import requests
@@ -65,35 +65,14 @@ class AldiScraper:
 
     @staticmethod
     def _normalize_category(category: str) -> str:
-        value = " ".join(str(category or "").strip().split())
-        if not value:
-            return ""
-        value = value.replace("&", "et")
-        value = value.replace("  ", " ")
-        return value.strip()
+        return " ".join(str(category or "").strip().split())
 
     @staticmethod
     def _category_variants(category: str) -> List[str]:
-        variants = set()
         cleaned = " ".join(str(category or "").strip().split())
         if not cleaned:
             return []
-
-        variants.add(cleaned)
-        variants.add(cleaned.replace("&", "et"))
-        variants.add(cleaned.replace(" & ", " et "))
-        variants.add(cleaned.replace("&", " et "))
-
-        safe_variants = []
-        for variant in variants:
-            normalized = " ".join(str(variant).strip().split())
-            if not normalized:
-                continue
-            if "&" in normalized:
-                normalized = normalized.replace("&", "et")
-            if normalized not in safe_variants:
-                safe_variants.append(normalized)
-        return safe_variants
+        return [cleaned]
 
     def _query_single_filter(self, index_name: str, filter_str: Optional[str] = None) -> List[Dict[str, Any]]:
         all_hits: List[Dict[str, Any]] = []
