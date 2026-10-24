@@ -54,8 +54,9 @@ MAX_PAGES_SAFETY_LIMIT = int(os.getenv("MAX_PAGES_SAFETY_LIMIT", "100"))
 # Filtered queries configuration - bypass 1000-result limit
 USE_FILTERED_QUERIES = os.getenv("USE_FILTERED_QUERIES", "true").lower() == "true"
 
-# Category filters for lvl3 hierarchical categories
-# Each category will be queried separately, then deduplicated
+# Category filters for lvl3 hierarchical categories.
+# Keep the literal Algolia facet names here; filtering uses URL-encoding before sending,
+# so category names like "Poissons & fruits de mer" remain valid.
 CATEGORY_FILTERS = [
     "Collations et sucreries",
     "Viande",
@@ -76,7 +77,7 @@ CATEGORY_FILTERS = [
     "Ménage",
     "Café, thé, cacao",
     "Produits à tartiner",
-    "Des glaces à prix discount ",
+    "Glaces à prix discount",
     "Pâtes et riz",
     "Fleurs fraîches",
 ]
