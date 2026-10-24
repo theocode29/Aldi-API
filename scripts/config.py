@@ -64,7 +64,6 @@ CATEGORY_FILTERS = [
     "Conserves",
     "Pâtisserie et cuisine",
     "Poissons et fruits de mer",
-    "Poissons et fruits de la mer",
     "Pain et pâtisseries",
     "Cartes-cadeau et cartes prépayées",
     "Produits cosmétiques et soins",
