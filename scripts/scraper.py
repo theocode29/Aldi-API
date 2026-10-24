@@ -4,6 +4,7 @@ import json
 import signal
 from datetime import datetime, timezone
 from typing import List, Dict, Any, Optional
+from urllib.parse import quote_plus
 
 from scripts import config, utils, validators
 
@@ -28,7 +29,9 @@ class AldiScraper:
                 # Prepare paginated request with optional filter
                 params = f"hitsPerPage={config.HITS_PER_PAGE}&page={page}"
                 if filter_str:
-                    params += f"&filters={filter_str}"
+                    # Encode the full filter string so characters like '&' are not
+                    # interpreted as a query-string separator by Algolia.
+                    params += f"&filters={quote_plus(filter_str)}"
                 
                 body = {"requests": [{"indexName": index_name, "params": params}]}
                 
