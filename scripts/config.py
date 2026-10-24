@@ -23,7 +23,6 @@ def _load_env_file() -> None:
                 if key not in os.environ:
                     os.environ[key] = val
     except Exception:
-        # Ne pas bloquer si .env est invalide; on utilisera les valeurs d'environnement existantes
         pass
 
 _load_env_file()
@@ -55,8 +54,7 @@ MAX_PAGES_SAFETY_LIMIT = int(os.getenv("MAX_PAGES_SAFETY_LIMIT", "100"))
 USE_FILTERED_QUERIES = os.getenv("USE_FILTERED_QUERIES", "true").lower() == "true"
 
 # Category filters for lvl3 hierarchical categories.
-# Keep the literal Algolia facet names here; filtering uses URL-encoding before sending,
-# so category names like "Poissons & fruits de mer" remain valid.
+# Keep literal Algolia facet names, but accept common variants during matching.
 CATEGORY_FILTERS = [
     "Collations et sucreries",
     "Viande",
@@ -81,3 +79,16 @@ CATEGORY_FILTERS = [
     "Pâtes et riz",
     "Fleurs fraîches",
 ]
+
+CATEGORY_FILTER_ALIASES = {
+    "Poissons & fruits de mer": [
+        "Poissons & fruits de mer",
+        "Poissons et fruits de mer",
+        "Poissons et fruits de la mer",
+    ],
+    "Glaces à prix discount": [
+        "Glaces à prix discount",
+        "Des glaces à prix discount",
+        "Des glaces à prix discount ",
+    ],
+}
